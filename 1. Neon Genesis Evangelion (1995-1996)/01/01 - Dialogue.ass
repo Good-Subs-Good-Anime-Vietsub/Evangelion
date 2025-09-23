@@ -13,14 +13,13 @@ Original Editing: Sói
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Beatrice-Raws] Neon Genesis Evangelion [BDRip 1440x1080 HEVC TrueHD]/[Beatrice-Raws] Neon Genesis Evangelion 01 [BDRip 1440x1080 HEVC TrueHD].mkv
-Video File: [Beatrice-Raws] Neon Genesis Evangelion [BDRip 1440x1080 HEVC TrueHD]/[Beatrice-Raws] Neon Genesis Evangelion 01 [BDRip 1440x1080 HEVC TrueHD].mkv
+Audio File: ../raws/[Beatrice-Raws] Neon Genesis Evangelion [BDRip 1440x1080 HEVC TrueHD]/[Beatrice-Raws] Neon Genesis Evangelion 01 [BDRip 1440x1080 HEVC TrueHD].mkv
+Video File: ../raws/[Beatrice-Raws] Neon Genesis Evangelion [BDRip 1440x1080 HEVC TrueHD]/[Beatrice-Raws] Neon Genesis Evangelion 01 [BDRip 1440x1080 HEVC TrueHD].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 338
-Active Line: 363
-Video Position: 33504
+Video Zoom Percent: 0.625000
+Active Line: 19
+Video Position: 2057
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,26 +29,6 @@ Style: Title,Chonburi,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.16,0:00:06.95,Dialouge,,0,0,0,,Tựa như vị Hung Thần,
-Dialogue: 0,0:00:07.08,0:00:13.74,Dialouge,,0,0,0,,hỡi chàng niên thiếu, hãy Phong Thần Hóa Thánh đi con!
-Dialogue: 0,0:00:22.97,0:00:25.89,Dialouge,,0,0,0,,Làn gió xanh, đang vi vu ngoài kia,
-Dialogue: 0,0:00:26.02,0:00:29.56,Dialouge,,0,0,0,,Ùa vào chạm cửa tâm hồn con vậy mà...
-Dialogue: 0,0:00:29.69,0:00:33.27,Dialouge,,0,0,0,,Con cứ lặng thinh thôi à,
-Dialogue: 0,0:00:33.40,0:00:37.57,Dialouge,,0,0,0,,Chỉ biết đứng đó nhìn mẹ, và mỉm cười.
-Dialogue: 0,0:00:37.69,0:00:40.65,Dialouge,,0,0,0,,Khẽ chạm, chỉ mới khẽ chạm thôi,
-Dialogue: 0,0:00:40.78,0:00:44.49,Dialouge,,0,0,0,,Mà đôi mắt con đã đắm say ước cầu rồi.
-Dialogue: 0,0:00:44.62,0:00:48.16,Dialouge,,0,0,0,,Ôi ngây thơ làm sao, cũng đôi mắt ấy,
-Dialogue: 0,0:00:48.29,0:00:52.04,Dialouge,,0,0,0,,thậm chí còn chưa thể nhìn số trông phận.
-Dialogue: 0,0:00:52.17,0:00:55.79,Dialouge,,0,0,0,,Nhưng không sớm thì muộn con sẽ nhìn ra phải không nào?
-Dialogue: 0,0:00:55.92,0:00:58.76,Dialouge,,0,0,0,,Rằng trên lưng con...
-Dialogue: 0,0:00:59.72,0:01:01.51,Dialouge,,0,0,0,,đang gánh vác đôi cánh
-Dialogue: 0,0:01:01.63,0:01:06.72,Dialouge,,0,0,0,,bay tới tương lai vô tận.
-Dialogue: 0,0:01:07.10,0:01:10.85,Dialouge,,0,0,0,,Luận Cương Phong Hung Hóa Thần chỉ ra:
-Dialogue: 0,0:01:10.98,0:01:14.10,Dialouge,,0,0,0,,"Sớm thôi ta sẽ mở toang khung cửa sải cánh bay đi,
-Dialogue: 0,0:01:14.61,0:01:18.32,Dialouge,,0,0,0,,đấy là khi ta gom hết xúc cảm cháy bỏng dâng trào,
-Dialogue: 0,0:01:18.44,0:01:21.61,Dialouge,,0,0,0,,sẵn sàng quay lưng lại với hồi ức kỉ niệm."
-Dialogue: 0,0:01:22.07,0:01:25.66,Dialouge,,0,0,0,,Đầu đội trời chân đạp đất, \Nquang minh chính đại
-Dialogue: 0,0:01:25.78,0:01:29.58,Dialouge,,0,0,0,,hỡi chàng niên thiếu, hãy Phong Thần Hóa Thánh đi con!
 Dialogue: 0,0:01:54.98,0:01:57.11,Dialouge,,0,0,0,,{\i1}Hôm nay, vào 12 giờ 30 phút,
 Dialogue: 0,0:01:57.23,0:02:00.57,Dialouge,,0,0,0,,{\i1}chúng tôi xin thông báo đến cư dân\Nvùng Tokai ở Kanto, Chubu
 Dialogue: 0,0:02:00.69,0:02:03.49,Dialouge,,0,0,0,,{\i1}một thông báo đặc biệt khẩn cấp.
@@ -377,18 +356,6 @@ Dialogue: 0,0:21:12.93,0:21:16.26,Dialouge,,0,0,0,,Nếu không đánh bại đ�
 Dialogue: 0,0:21:17.14,0:21:20.18,Dialouge,,0,0,0,,Ikari, làm như này thực sự ổn chứ?
 Dialogue: 0,0:21:21.69,0:21:22.52,Dialouge,,0,0,0,,XUẤT KÍCH!
 Dialogue: 0,0:21:56.60,0:21:58.85,Dialouge,,0,0,0,,Shinji, cố sống sót nhé.{ráng giữ mạng nhé em}
-Dialogue: 0,0:22:00.98,0:22:03.73,Dialouge,,0,0,0,,Fly me to the moon
-Dialogue: 0,0:22:03.85,0:22:08.44,Dialouge,,0,0,0,,And let me play\Namong the stars
-Dialogue: 0,0:22:09.78,0:22:12.57,Dialouge,,0,0,0,,Let me see\Nwhat Spring is like
-Dialogue: 0,0:22:12.70,0:22:16.07,Dialouge,,0,0,0,,On Jupiter and Mars
-Dialogue: 0,0:22:17.03,0:22:23.79,Dialouge,,0,0,0,,In other words,\Nhold my hand!
-Dialogue: 0,0:22:25.08,0:22:31.84,Dialouge,,0,0,0,,In other words,\Ndarling, kiss me!
-Dialogue: 0,0:22:33.38,0:22:36.05,Dialouge,,0,0,0,,Fill my heart\Nwith song
-Dialogue: 0,0:22:36.18,0:22:40.56,Dialouge,,0,0,0,,And let me sing\Nforevermore
-Dialogue: 0,0:22:41.64,0:22:44.44,Dialouge,,0,0,0,,You are all I long for
-Dialogue: 0,0:22:44.56,0:22:48.31,Dialouge,,0,0,0,,All I worship\Nand adore
-Dialogue: 0,0:22:49.23,0:22:56.24,Dialouge,,0,0,0,,In other words,\Nplease be true
-Dialogue: 0,0:22:57.32,0:23:04.33,Dialouge,,0,0,0,,In other words,\NI love you
 Dialogue: 0,0:23:06.50,0:23:07.75,Dialouge,,0,0,0,,Eva thắng được Angel
 Dialogue: 0,0:23:07.88,0:23:10.38,Dialouge,,0,0,0,,Nhưng đó chỉ là khởi đầu của mọi chuyện
 Dialogue: 0,0:23:10.54,0:23:12.05,Dialouge,,0,0,0,,Shinji đã chạy trốn khỏi bố của mình
