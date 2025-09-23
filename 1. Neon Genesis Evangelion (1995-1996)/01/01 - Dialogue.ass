@@ -18,38 +18,38 @@ Video File: [Beatrice-Raws] Neon Genesis Evangelion [BDRip 1440x1080 HEVC TrueHD
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 336
-Active Line: 356
-Video Position: 33340
+Scroll Position: 338
+Active Line: 363
+Video Position: 33504
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Open Sans Condensed,68,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,11,11,23,1
 Style: Dialouge,Segoe UI,64,&H00FFFFFF,&H000000FF,&H00390300,&HB8FF6E58,-1,0,0,0,100,108,0,0,1,4,1,2,23,23,42,204
+Style: Title,Chonburi,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.16,0:00:06.95,Dialouge,,0,0,0,,♪ Tựa như vị Hung Thần,
-Dialogue: 0,0:00:07.08,0:00:14.09,Dialouge,,0,0,0,,♪ hỡi chàng niên thiếu, hãy Phong Thần Hóa Thánh đi con!
-Comment: 0,0:00:15.05,0:00:22.05,Dialouge,,0,0,0,,Bản dịch thuộc về Gió Chiều/KiOZ của A4VF♪
-Dialogue: 0,0:00:22.97,0:00:25.89,Dialouge,,0,0,0,,♪ Làn gió xanh, đang vi vu ngoài kia,
-Dialogue: 0,0:00:26.02,0:00:29.56,Dialouge,,0,0,0,,♪ Ùa vào chạm cửa tâm hồn con vậy mà...
-Dialogue: 0,0:00:29.69,0:00:33.27,Dialouge,,0,0,0,,♪ Con cứ lặng thinh thôi à,
-Dialogue: 0,0:00:33.40,0:00:37.57,Dialouge,,0,0,0,,♪ Chỉ biết đứng đó nhìn mẹ, và mỉm cười.
-Dialogue: 0,0:00:37.69,0:00:40.65,Dialouge,,0,0,0,,♪ Khẽ chạm, chỉ mới khẽ chạm thôi,
-Dialogue: 0,0:00:40.78,0:00:44.49,Dialouge,,0,0,0,,♪ Mà đôi mắt con đã đắm say ước cầu rồi.
-Dialogue: 0,0:00:44.62,0:00:48.16,Dialouge,,0,0,0,,♪ Ôi ngây thơ làm sao, cũng đôi mắt ấy,
-Dialogue: 0,0:00:48.29,0:00:52.04,Dialouge,,0,0,0,,♪ thậm chí còn chưa thể nhìn số trông phận.
-Dialogue: 0,0:00:52.17,0:00:55.79,Dialouge,,0,0,0,,♪ Nhưng không sớm thì muộn con sẽ nhìn ra phải không nào?
-Dialogue: 0,0:00:55.92,0:00:58.76,Dialouge,,0,0,0,,♪ Rằng trên lưng con...
-Dialogue: 0,0:00:59.72,0:01:01.51,Dialouge,,0,0,0,,♪ đang gánh vác đôi cánh
-Dialogue: 0,0:01:01.63,0:01:06.72,Dialouge,,0,0,0,,♪ bay tới tương lai vô tận.
-Dialogue: 0,0:01:07.10,0:01:10.85,Dialouge,,0,0,0,,♪ Luận Cương Phong Hung Hóa Thần chỉ ra:
-Dialogue: 0,0:01:10.98,0:01:14.10,Dialouge,,0,0,0,,♪ "Sớm thôi ta sẽ mở toang khung cửa sải cánh bay đi,
-Dialogue: 0,0:01:14.61,0:01:18.32,Dialouge,,0,0,0,,♪ đấy là khi ta gom hết xúc cảm cháy bỏng dâng trào,
-Dialogue: 0,0:01:18.44,0:01:21.61,Dialouge,,0,0,0,,♪ sẵn sàng quay lưng lại với hồi ức kỉ niệm."
-Dialogue: 0,0:01:22.07,0:01:25.66,Dialouge,,0,0,0,,♪ Đầu đội trời chân đạp đất, \Nquang minh chính đại
-Dialogue: 0,0:01:25.78,0:01:29.58,Dialouge,,0,0,0,,♪ hỡi chàng niên thiếu, hãy Phong Thần Hóa Thánh đi con!
+Dialogue: 0,0:00:01.16,0:00:06.95,Dialouge,,0,0,0,,Tựa như vị Hung Thần,
+Dialogue: 0,0:00:07.08,0:00:13.74,Dialouge,,0,0,0,,hỡi chàng niên thiếu, hãy Phong Thần Hóa Thánh đi con!
+Dialogue: 0,0:00:22.97,0:00:25.89,Dialouge,,0,0,0,,Làn gió xanh, đang vi vu ngoài kia,
+Dialogue: 0,0:00:26.02,0:00:29.56,Dialouge,,0,0,0,,Ùa vào chạm cửa tâm hồn con vậy mà...
+Dialogue: 0,0:00:29.69,0:00:33.27,Dialouge,,0,0,0,,Con cứ lặng thinh thôi à,
+Dialogue: 0,0:00:33.40,0:00:37.57,Dialouge,,0,0,0,,Chỉ biết đứng đó nhìn mẹ, và mỉm cười.
+Dialogue: 0,0:00:37.69,0:00:40.65,Dialouge,,0,0,0,,Khẽ chạm, chỉ mới khẽ chạm thôi,
+Dialogue: 0,0:00:40.78,0:00:44.49,Dialouge,,0,0,0,,Mà đôi mắt con đã đắm say ước cầu rồi.
+Dialogue: 0,0:00:44.62,0:00:48.16,Dialouge,,0,0,0,,Ôi ngây thơ làm sao, cũng đôi mắt ấy,
+Dialogue: 0,0:00:48.29,0:00:52.04,Dialouge,,0,0,0,,thậm chí còn chưa thể nhìn số trông phận.
+Dialogue: 0,0:00:52.17,0:00:55.79,Dialouge,,0,0,0,,Nhưng không sớm thì muộn con sẽ nhìn ra phải không nào?
+Dialogue: 0,0:00:55.92,0:00:58.76,Dialouge,,0,0,0,,Rằng trên lưng con...
+Dialogue: 0,0:00:59.72,0:01:01.51,Dialouge,,0,0,0,,đang gánh vác đôi cánh
+Dialogue: 0,0:01:01.63,0:01:06.72,Dialouge,,0,0,0,,bay tới tương lai vô tận.
+Dialogue: 0,0:01:07.10,0:01:10.85,Dialouge,,0,0,0,,Luận Cương Phong Hung Hóa Thần chỉ ra:
+Dialogue: 0,0:01:10.98,0:01:14.10,Dialouge,,0,0,0,,"Sớm thôi ta sẽ mở toang khung cửa sải cánh bay đi,
+Dialogue: 0,0:01:14.61,0:01:18.32,Dialouge,,0,0,0,,đấy là khi ta gom hết xúc cảm cháy bỏng dâng trào,
+Dialogue: 0,0:01:18.44,0:01:21.61,Dialouge,,0,0,0,,sẵn sàng quay lưng lại với hồi ức kỉ niệm."
+Dialogue: 0,0:01:22.07,0:01:25.66,Dialouge,,0,0,0,,Đầu đội trời chân đạp đất, \Nquang minh chính đại
+Dialogue: 0,0:01:25.78,0:01:29.58,Dialouge,,0,0,0,,hỡi chàng niên thiếu, hãy Phong Thần Hóa Thánh đi con!
 Dialogue: 0,0:01:54.98,0:01:57.11,Dialouge,,0,0,0,,{\i1}Hôm nay, vào 12 giờ 30 phút,
 Dialogue: 0,0:01:57.23,0:02:00.57,Dialouge,,0,0,0,,{\i1}chúng tôi xin thông báo đến cư dân\Nvùng Tokai ở Kanto, Chubu
 Dialogue: 0,0:02:00.69,0:02:03.49,Dialouge,,0,0,0,,{\i1}một thông báo đặc biệt khẩn cấp.
@@ -73,45 +73,51 @@ Dialogue: 0,0:03:19.15,0:03:22.48,Dialouge,,0,0,0,,Chuyển sang màn hình chí
 Dialogue: 0,0:03:24.15,0:03:25.98,Dialouge,,0,0,0,,15 năm rồi mới gặp lại nhỉ.
 Dialogue: 0,0:03:25.98,0:03:28.41,Dialouge,,0,0,0,,Đúng vậy.
 Dialogue: 0,0:03:29.20,0:03:30.48,Dialouge,,0,0,0,,Là Angel.
-Dialogue: 0,0:03:30.70,0:03:33.23,Dialouge,,0,0,0,,TẬP 1: ANGEL TẤN CÔNG!
+Dialogue: 0,0:03:30.52,0:03:33.23,Title,,0,0,0,,{\fs140\blur1.5\fscx65\fscy110\pos(828.79,302.23)\c&HE7E7E7&}Tập một
+Dialogue: 0,0:03:30.52,0:03:33.23,Title,,0,0,0,,{\fs165\blur1.5\fscx65\fscy100\an1\\pos(658.72,657.33)\c&HE7E7E7&}ANGEL \NTẤN CÔNG
+Dialogue: 0,0:03:30.52,0:03:33.23,Title,,0,0,0,,{\fs165\blur1.5\fscx65\fscy100\an1\\pos(658.72,657.33)\c&HE7E7E7&}ANGEL \NTẤN CÔNG
+Dialogue: 0,0:03:30.52,0:03:33.23,Title,,0,0,0,,{\fs165\blur1.5\fscx65\fscy100\an1\\pos(658.72,657.33)\c&HE7E7E7&}ANGEL \NTẤN CÔNG
+Comment: 0,0:03:30.70,0:03:33.23,Dialouge,,0,0,0,,TẬP 1: ANGEL TẤN CÔNG!
 Dialogue: 0,0:03:42.42,0:03:44.30,Dialouge,,0,0,0,,Toàn bộ đạn đã trúng vào mục tiêu!
 Dialogue: 0,0:04:03.52,0:04:04.98,Dialouge,,0,0,0,,Xin lỗi ha! Để em phải đợi rồi~
-Dialogue: 0,0:04:22.04,0:04:23.75,Dialouge,,0,0,0,,Mục tiêu vẫn chưa hề hấn gì
-Dialogue: 0,0:04:23.88,0:04:26.55,Dialouge,,0,0,0,,Hiện tại mục tiêu vẫn đang tiến công về hướng Tokyo-3
+Dialogue: 0,0:04:22.04,0:04:23.75,Dialouge,,0,0,0,,Mục tiêu vẫn chưa hề hấn gì.
+Dialogue: 0,0:04:23.88,0:04:26.55,Dialouge,,0,0,0,,Hiện tại mục tiêu vẫn đang tiến công về hướng Tokyo-3.
 Dialogue: 0,0:04:26.67,0:04:29.43,Dialouge,,0,0,0,,Sức mạnh của Không Quân không thể cầm chân chúng được!
 Dialogue: 0,0:04:30.01,0:04:33.10,Dialouge,,0,0,0,,Tổng tấn công! \N Huy động toàn bộ lực lượng từ Atsugi và Iruma!
-Dialogue: 0,0:04:33.22,0:04:36.39,Dialouge,,0,0,0,,Không cần biết tốn bao nhiêu tài nguyên \N Bằng mọi giá phải tiêu diệt được mục tiêu!
+Dialogue: 0,0:04:33.22,0:04:34.50,Dialouge,,0,0,0,,Không cần biết tốn bao nhiêu tài nguyên.
+Dialogue: 0,0:04:34.50,0:04:36.39,Dialouge,,0,0,0,,Bằng mọi giá phải tiêu diệt được mục tiêu!
 Dialogue: 0,0:04:49.45,0:04:52.45,Dialouge,,0,0,0,,Tại sao chứ!?\NRõ ràng là đánh trúng trực diện rồi mà?
-Dialogue: 0,0:04:52.57,0:04:54.83,Dialouge,,0,0,0,,Tiểu đoàn xe tăng đã bị tiêu diệt
-Dialogue: 0,0:04:54.95,0:04:57.74,Dialouge,,0,0,0,,Tên lửa đạn đạo và pháo binh cũng hoàn toàn vô dụng
-Dialogue: 0,0:04:57.87,0:04:58.79,Dialouge,,0,0,0,,KHỐN NẠN!
+Dialogue: 0,0:04:52.57,0:04:54.83,Dialouge,,0,0,0,,Tiểu đoàn xe tăng đã bị tiêu diệt.
+Dialogue: 0,0:04:54.95,0:04:57.74,Dialouge,,0,0,0,,Tên lửa đạn đạo và pháo binh cũng hoàn toàn vô dụng.
+Dialogue: 0,0:04:57.87,0:04:58.79,Dialouge,,0,0,0,,Khốn nạn!
 Dialogue: 0,0:04:58.91,0:05:01.17,Dialouge,,0,0,0,,Dùng hỏa lực tới cỡ đó mà nó vẫn trơ trơ!
 Dialogue: 0,0:05:01.50,0:05:03.25,Dialouge,,0,0,0,,Là AT Field phải không?
-Dialogue: 0,0:05:03.38,0:05:06.92,Dialouge,,0,0,0,,Ừ, vũ khí thông thường hoàn toàn vô dụng với Angel
-Dialogue: 0,0:05:10.63,0:05:13.55,Dialouge,,0,0,0,,Hiểu rồi\NChúng tôi sẽ thực thi kế hoạch!
-Dialogue: 0,0:05:18.68,0:05:20.18,Dialouge,,0,0,0,,Khoan... chẳng lẽ
-Dialogue: 0,0:05:20.31,0:05:21.81,Dialouge,,0,0,0,,Họ tính dùng mìn N2 !?
-Dialogue: 0,0:05:22.60,0:05:23.81,Dialouge,,0,0,0,,NẰM XUỐNG!
-Dialogue: 0,0:05:46.54,0:05:47.63,Dialouge,,0,0,0,,ĐƯỢC RỒI!
+Dialogue: 0,0:05:03.38,0:05:06.92,Dialouge,,0,0,0,,Ừ, vũ khí thông thường hoàn toàn vô dụng với Angel.
+Dialogue: 0,0:05:10.63,0:05:13.55,Dialouge,,0,0,0,,Hiểu rồi.\NChúng tôi sẽ thực thi kế hoạch!
+Dialogue: 0,0:05:18.42,0:05:20.18,Dialouge,,0,0,0,,Khoan, chẳng lẽ...
+Dialogue: 0,0:05:20.31,0:05:21.76,Dialouge,,0,0,0,,Họ tính dùng mìn N²!?
+Dialogue: 0,0:05:22.60,0:05:23.81,Dialouge,,0,0,0,,Nằm xuống!
+Dialogue: 0,0:05:46.54,0:05:47.63,Dialouge,,0,0,0,,Được rồi!
 Dialogue: 0,0:05:48.80,0:05:51.59,Dialouge,,0,0,0,,Tiếc quá, không đến lượt các anh rồi.
-Dialogue: 0,0:05:52.30,0:05:54.64,Dialouge,,0,0,0,,Làn sóng xung kích đang lan tới
-Dialogue: 0,0:05:55.30,0:05:57.51,Dialouge,,0,0,0,,Em không sao chứ? \NVâng...
-Dialogue: 0,0:05:57.64,0:05:59.97,Dialouge,,0,0,0,,Nhưng miệng em toàn là cát
+Dialogue: 0,0:05:52.30,0:05:54.58,Dialouge,,0,0,0,,Làn sóng xung kích đang lan tới.
+Dialogue: 0,0:05:55.30,0:05:56.79,Dialouge,,0,0,0,,Em không sao chứ?
+Dialogue: 0,0:05:56.79,0:05:57.80,Dialouge,,0,0,0,,Vâng...
+Dialogue: 0,0:05:57.80,0:05:59.97,Dialouge,,0,0,0,,Nhưng miệng em toàn cát.
 Dialogue: 0,0:06:00.10,0:06:02.18,Dialouge,,0,0,0,,Được rồi, vậy thì...
 Dialogue: 0,0:06:03.14,0:06:04.52,Dialouge,,0,0,0,,Đi tiếp thôi!
-Dialogue: 0,0:06:04.65,0:06:05.60,Dialouge,,0,0,0,,Một-.. hai
+Dialogue: 0,0:06:04.65,0:06:05.55,Dialouge,,0,0,0,,Một, hai...
 Dialogue: 0,0:06:14.78,0:06:16.87,Dialouge,,0,0,0,,Cảm ơn em đã giúp chị nha!
-Dialogue: 0,0:06:16.99,0:06:19.58,Dialouge,,0,0,0,,Dạ không có gì đâu, chị Katsuragi
-Dialogue: 0,0:06:19.95,0:06:22.41,Dialouge,,0,0,0,,Hãy gọi là "chị Misato"
-Dialogue: 0,0:06:22.54,0:06:25.75,Dialouge,,0,0,0,,Mừng vì gặp lại em lần nữa, hân hạnh làm quen em, Ikari Shinji!
-Dialogue: 0,0:06:26.00,0:06:26.92,Dialouge,,0,0,0,,Dạ
+Dialogue: 0,0:06:16.99,0:06:19.58,Dialouge,,0,0,0,,Dạ không có gì đâu, chị Katsuragi.
+Dialogue: 0,0:06:19.95,0:06:22.41,Dialouge,,0,0,0,,Cứ gọi là chị Misato.
+Dialogue: 0,0:06:22.54,0:06:25.70,Dialouge,,0,0,0,,Một lần nữa, hân hạnh làm quen em, Ikari Shinji!
+Dialogue: 0,0:06:26.00,0:06:26.92,Dialouge,,0,0,0,,Dạ.
 Dialogue: 0,0:06:27.33,0:06:28.75,Dialouge,,0,0,0,,Mục tiêu ra sao rồi?
-Dialogue: 0,0:06:28.88,0:06:31.38,Dialouge,,0,0,0,,Không xác định được \Ndo bị nhiễu sóng vô tuyến
-Dialogue: 0,0:06:31.84,0:06:34.30,Dialouge,,0,0,0,,Sau vụ nổ khi nãy \Nthì chắc là xử lí nó xong rồi
-Dialogue: 0,0:06:34.68,0:06:36.30,Dialouge,,0,0,0,,Hệ thống cảm biến đã phục hồi
+Dialogue: 0,0:06:28.88,0:06:31.38,Dialouge,,0,0,0,,Không xác định được \Ndo bị nhiễu sóng vô tuyến.
+Dialogue: 0,0:06:31.84,0:06:34.30,Dialouge,,0,0,0,,Sau vụ nổ khi nãy \Nthì chắc là xử lí nó xong rồi.
+Dialogue: 0,0:06:34.68,0:06:36.30,Dialouge,,0,0,0,,Hệ thống cảm biến đã phục hồi.
 Dialogue: 0,0:06:37.39,0:06:39.14,Dialouge,,0,0,0,,Có phản ứng năng lượng ngay giữa khu vực xảy ra vụ nổ!
 Dialogue: 0,0:06:39.26,0:06:40.14,Dialouge,,0,0,0,,Cái quái gì vậy?
-Dialogue: 0,0:06:40.47,0:06:42.39,Dialouge,,0,0,0,,Màn hình đã phục hồi
+Dialogue: 0,0:06:40.47,0:06:42.39,Dialouge,,0,0,0,,Màn hình đã phục hồi.
 Dialogue: 0,0:06:46.40,0:06:48.69,Dialouge,,0,0,0,,Con Át chủ bài của chúng ta...
 Dialogue: 0,0:06:49.48,0:06:51.53,Dialouge,,0,0,0,,Ôi trời ơi...
 Dialogue: 0,0:06:51.65,0:06:52.99,Dialouge,,0,0,0,,Con quái vật khốn nạn!
@@ -131,73 +137,73 @@ Dialogue: 0,0:07:33.73,0:07:36.24,Dialouge,,0,0,0,,Mất công chưng diện gh�
 Dialogue: 0,0:07:37.53,0:07:38.99,Dialouge,,0,0,0,,Chị Misato?
 Dialogue: 0,0:07:39.11,0:07:40.12,Dialouge,,0,0,0,,Á! Gì em?
 Dialogue: 0,0:07:40.62,0:07:43.41,Dialouge,,0,0,0,,Làm cách này... có thực sự ổn không vậy?
-Dialogue: 0,0:07:43.87,0:07:46.08,Dialouge,,0,0,0,,A~ Ổn mà, ổn mà
-Dialogue: 0,0:07:46.20,0:07:47.58,Dialouge,,0,0,0,,Giờ đang khẩn cấp
-Dialogue: 0,0:07:47.71,0:07:49.92,Dialouge,,0,0,0,,Xe không chạy được thì \Nbiết phải làm sao đây?
-Dialogue: 0,0:07:50.04,0:07:53.42,Dialouge,,0,0,0,,Mà nhìn vậy thôi chứ chị là viên chức nhà nước đó
+Dialogue: 0,0:07:43.87,0:07:46.08,Dialouge,,0,0,0,,A~ Ổn mà, ổn mà.
+Dialogue: 0,0:07:46.20,0:07:47.58,Dialouge,,0,0,0,,Giờ đang khẩn cấp,
+Dialogue: 0,0:07:47.71,0:07:49.92,Dialouge,,0,0,0,,xe không chạy được thì \Nbiết phải làm sao đây?
+Dialogue: 0,0:07:50.04,0:07:53.42,Dialouge,,0,0,0,,Mà nhìn vậy thôi chứ chị là viên chức nhà nước đó.
 Dialogue: 0,0:07:53.55,0:07:55.59,Dialouge,,0,0,0,,Mọi chuyện đều sẽ OK thôi!
-Dialogue: 0,0:07:56.55,0:07:58.84,Dialouge,,0,0,0,,Chị giải thích nghe không thuyết phục tí nào
+Dialogue: 0,0:07:56.55,0:07:58.84,Dialouge,,0,0,0,,Chị giải thích nghe không thuyết phục tí nào.
 Dialogue: 0,0:07:59.09,0:08:00.93,Dialouge,,0,0,0,,Chán vậy?
-Dialogue: 0,0:08:01.05,0:08:03.35,Dialouge,,0,0,0,,Gương mặt em dễ thương vậy \Nmà trông em lạnh nhạt quá đó
-Dialogue: 0,0:08:03.60,0:08:05.64,Dialouge,,0,0,0,,Hmm.. vậy à...
-Dialogue: 0,0:08:05.77,0:08:06.89,Dialouge,,0,0,0,,Ơ kìa? Dỗi à?
+Dialogue: 0,0:08:01.05,0:08:03.35,Dialouge,,0,0,0,,Gương mặt em dễ thương vậy \Nmà trông em lạnh nhạt quá đó.
+Dialogue: 0,0:08:04.30,0:08:05.64,Dialouge,,0,0,0,,Vậy à...
+Dialogue: 0,0:08:05.77,0:08:06.84,Dialouge,,0,0,0,,Ơ kìa? Dỗi à?
 Dialogue: 0,0:08:08.31,0:08:11.31,Dialouge,,0,0,0,,Xin lỗi, xin lỗi!\N Em vẫn còn là con nít thế mà.
 Dialogue: 0,0:08:11.61,0:08:14.23,Dialouge,,0,0,0,,Còn chị thì trông lớn vậy mà không chững chạc tí nào.
-Dialogue: 0,0:08:20.66,0:08:23.66,Dialouge,,0,0,0,,Đúng như dự đoán, nó đang tự hồi phục
-Dialogue: 0,0:08:23.91,0:08:27.41,Dialouge,,0,0,0,,Nếu không thì sao mà nó hữu dụng như một vũ khí độc lập chứ
+Dialogue: 0,0:08:20.66,0:08:23.66,Dialouge,,0,0,0,,Đúng như dự đoán, nó đang tự hồi phục.
+Dialogue: 0,0:08:23.91,0:08:27.41,Dialouge,,0,0,0,,Nếu không thì sao mà nó hữu dụng như một vũ khí độc lập chứ.
 Dialogue: 0,0:08:30.29,0:08:32.67,Dialouge,,0,0,0,,Ồ, hay thế.
 Dialogue: 0,0:08:32.79,0:08:35.30,Dialouge,,0,0,0,,Nó còn có thể khuếch đại cơ năng à?
 Dialogue: 0,0:08:35.42,0:08:37.96,Dialouge,,0,0,0,,Và nó cũng đã thông minh hơn.
 Dialogue: 0,0:08:38.59,0:08:41.47,Dialouge,,0,0,0,,Việc nó đột kích thêm một lần nữa chỉ còn là vấn đề về thời gian.
-Dialogue: 0,0:08:42.93,0:08:46.14,Dialouge,,0,0,0,,Xin chú ý! Cửa đang đóng
+Dialogue: 0,0:08:42.93,0:08:46.14,Dialouge,,0,0,0,,Xin chú ý! Cửa đang đóng.
 Dialogue: 0,0:08:46.26,0:08:47.93,Dialouge,,0,0,0,,"Cơ quan Đặc nhiệm NERV"?
 Dialogue: 0,0:08:48.06,0:08:50.98,Dialouge,,0,0,0,,Đúng vậy, một tổ chức bí mật trực thuộc Liên Hợp Quốc.
 Dialogue: 0,0:08:51.73,0:08:53.40,Dialouge,,0,0,0,,Là nơi có bố em phải không?
 Dialogue: 0,0:08:53.52,0:08:56.69,Dialouge,,0,0,0,,Chuẩn~ Em có biết công việc của bố em là gì không?
-Dialogue: 0,0:09:00.65,0:09:04.57,Dialouge,,0,0,0,,Em nghe thầy nói là bố làm một công việc rất quan trọng, đó là bảo vệ loài người
+Dialogue: 0,0:09:00.65,0:09:04.57,Dialouge,,0,0,0,,Em nghe thầy nói là bố làm một công việc rất quan trọng, đó là bảo vệ loài người.
 Dialogue: 0,0:09:07.62,0:09:10.54,Dialouge,,0,0,0,,Từ giờ, quyền chỉ huy chiến dịch sẽ trao cho anh.
 Dialogue: 0,0:09:11.00,0:09:12.62,Dialouge,,0,0,0,,Cho bọn ta thấy khả năng của anh đi.
-Dialogue: 0,0:09:12.79,0:09:14.00,Dialouge,,0,0,0,,Tôi đã rõ
+Dialogue: 0,0:09:12.79,0:09:14.00,Dialouge,,0,0,0,,Tôi đã rõ.
 Dialogue: 0,0:09:14.17,0:09:16.88,Dialouge,,0,0,0,,Ikari, tôi phải thừa nhận rằng vũ khí chúng tôi hiện có
 Dialogue: 0,0:09:17.00,0:09:20.92,Dialouge,,0,0,0,,không có hiệu lực đối với mục tiêu.
 Dialogue: 0,0:09:21.30,0:09:23.18,Dialouge,,0,0,0,,Nhưng có chắc là anh thắng được nó không?
 Dialogue: 0,0:09:24.22,0:09:25.89,Dialouge,,0,0,0,,NERV tồn tại vì lẽ đó mà.
 Dialogue: 0,0:09:26.56,0:09:28.18,Dialouge,,0,0,0,,Chúng tôi kỳ vọng ở anh đấy.
-Dialogue: 0,0:09:29.77,0:09:31.85,Dialouge,,0,0,0,,Mục tiêu đang bất động
+Dialogue: 0,0:09:29.77,0:09:31.85,Dialouge,,0,0,0,,Mục tiêu đang bất động.
 Dialogue: 0,0:09:31.98,0:09:35.81,Dialouge,,0,0,0,,Hệ thống phục kích của chúng ta hiện tại có hiệu suất hoạt động là 7.5%
 Dialogue: 0,0:09:37.11,0:09:40.44,Dialouge,,0,0,0,,Quân đội Liên Hợp Quốc cũng bó tay rồi. \NCòn anh tính làm sao?
-Dialogue: 0,0:09:41.53,0:09:43.16,Dialouge,,0,0,0,,Khởi động Unit-01
-Dialogue: 0,0:09:43.70,0:09:46.74,Dialouge,,0,0,0,,Unit-01?\NNhưng ta đâu có phi công?
-Dialogue: 0,0:09:47.53,0:09:50.91,Dialouge,,0,0,0,,Không sao đâu\NPhi công dự bị sắp đến đây rồi
+Dialogue: 0,0:09:43.06,0:09:43.10,Dialouge,,0,0,0,,Khởi động Unit-01.
+Dialogue: 0,0:09:43.70,0:09:46.69,Dialouge,,0,0,0,,Unit-01?\NNhưng ta đâu có phi công?
+Dialogue: 0,0:09:47.53,0:09:50.86,Dialouge,,0,0,0,,Không sao đâu.\NPhi công dự bị sắp đến đây rồi.
 Dialogue: 0,0:09:51.87,0:09:54.33,Dialouge,,0,0,0,,Vậy là giờ em sẽ phải gặp bố sao?
-Dialogue: 0,0:09:55.21,0:09:57.00,Dialouge,,0,0,0,,Đúng, đúng thật là vậy đó
+Dialogue: 0,0:09:55.21,0:09:57.00,Dialouge,,0,0,0,,Đúng, đúng thật là vậy đó.
 Dialogue: 0,0:10:01.09,0:10:02.13,Dialouge,,0,0,0,,Bố...
 Dialogue: 0,0:10:03.93,0:10:08.10,Dialouge,,0,0,0,,À đúng rồi! Bố có đưa em thẻ ID chưa?
 Dialogue: 0,0:10:09.22,0:10:10.85,Dialouge,,0,0,0,,Dạ... Có!
 Dialogue: 0,0:10:11.68,0:10:12.52,Dialouge,,0,0,0,,Đây ạ!
-Dialogue: 0,0:10:13.06,0:10:13.94,Dialouge,,0,0,0,,Cảm ơn em
+Dialogue: 0,0:10:13.06,0:10:13.94,Dialouge,,0,0,0,,Cảm ơn em.
 Dialogue: 0,0:10:15.90,0:10:18.19,Dialouge,,0,0,0,,Vậy thì, em đọc trước đi nha.
 Dialogue: 0,0:10:18.77,0:10:19.86,Dialouge,,0,0,0,,“NERV”
 Dialogue: 0,0:10:20.44,0:10:22.86,Dialouge,,0,0,0,,Công việc của bố...
 Dialogue: 0,0:10:22.99,0:10:24.86,Dialouge,,0,0,0,,Thì ra là em sẽ phải làm việc cho bố sao?
 Dialogue: 0,0:10:26.91,0:10:28.45,Dialouge,,0,0,0,,Mà cũng đúng...
-Dialogue: 0,0:10:28.58,0:10:33.08,Dialouge,,0,0,0,,Nếu không có việc cần nhờ thì chắc là bố sẽ không bao giờ gọi cho em đâu
-Dialogue: 0,0:10:33.21,0:10:36.58,Dialouge,,0,0,0,,Có vẻ em và bố không thân lắm nhỉ?
-Dialogue: 0,0:10:37.58,0:10:38.71,Dialouge,,0,0,0,,Chị cũng giống em
+Dialogue: 0,0:10:28.58,0:10:33.08,Dialouge,,0,0,0,,Nếu không có việc cần nhờ thì chắc là bố sẽ không bao giờ gọi cho em đâu.
+Dialogue: 0,0:10:33.21,0:10:36.58,Dialouge,,0,0,0,,Thế à, có vẻ em và bố không thân lắm nhỉ?
+Dialogue: 0,0:10:37.58,0:10:38.71,Dialouge,,0,0,0,,Chị cũng giống em.
 Dialogue: 0,0:10:38.84,0:10:39.67,Dialouge,,0,0,0,,Hả?
 Dialogue: 0,0:10:45.22,0:10:46.72,Dialouge,,0,0,0,,Đẹp quá!
 Dialogue: 0,0:10:47.59,0:10:49.26,Dialouge,,0,0,0,,Là GeoFront thật kìa!
-Dialogue: 0,0:10:49.39,0:10:50.47,Dialouge,,0,0,0,,Đúng
+Dialogue: 0,0:10:49.39,0:10:50.47,Dialouge,,0,0,0,,Đúng.
 Dialogue: 0,0:10:50.60,0:10:53.43,Dialouge,,0,0,0,,Đây là căn cứ bí mật của chúng ta, trụ sở NERV.
-Dialogue: 0,0:10:54.10,0:10:58.73,Dialouge,,0,0,0,,Là nòng cốt để thiết lập {tái thiết} lại thế giới.\NLà pháo đài của loài người
-Dialogue: 0,0:11:05.36,0:11:07.16,Dialouge,,0,0,0,,Kì vậy?...
+Dialogue: 0,0:10:54.10,0:10:58.73,Dialouge,,0,0,0,,Là nòng cốt để thiết lập {tái thiết}lại thế giới.\NLà pháo đài của loài người.
+Dialogue: 0,0:11:05.36,0:11:07.10,Dialouge,,0,0,0,,Kì vậy...
 Dialogue: 0,0:11:07.70,0:11:10.45,Dialouge,,0,0,0,,Rõ ràng là đi đúng đường rồi mà?
 Dialogue: 0,0:11:12.12,0:11:15.41,Dialouge,,0,0,0,,Đây là lí do tại sao chị ghét mặc váy khi đi chỗ này...
 Dialogue: 0,0:11:15.75,0:11:18.88,Dialouge,,0,0,0,,Cơ mà không biết \NRitsuko đi đâu mất tiêu rồi ta...
 Dialogue: 0,0:11:19.00,0:11:21.21,Dialouge,,0,0,0,,Xin lỗi nha, chị vẫn chưa quen khu này.
 Dialogue: 0,0:11:21.34,0:11:23.84,Dialouge,,0,0,0,,Chúng ta đi qua chỗ này hồi nãy rồi...
 Dialogue: 0,0:11:25.26,0:11:26.76,Dialouge,,0,0,0,,Nhưng mà không sao đâu!
-Dialogue: 0,0:11:26.88,0:11:29.14,Dialouge,,0,0,0,,Mấy cái hệ thống này được tạo ra là để dùng mà
+Dialogue: 0,0:11:26.88,0:11:29.14,Dialouge,,0,0,0,,Mấy cái hệ thống này được tạo ra là để dùng mà.
 Dialogue: 0,0:11:29.26,0:11:31.76,Dialouge,,0,0,0,,Người phụ trách Dự Án E\N của Phòng Kĩ thuật - Phân khu 1...
 Dialogue: 0,0:11:31.89,0:11:34.47,Dialouge,,0,0,0,,Tiến sĩ Akagi Ritsuko.
 Dialogue: 0,0:11:35.06,0:11:39.85,Dialouge,,0,0,0,,Xin hãy nhanh chóng liên lạc với Đại Úy Misato thuộc phòng Chiến Dịch - Phân khu 1.
@@ -215,51 +221,52 @@ Dialogue: 0,0:12:15.93,0:12:17.89,Dialouge,,0,0,0,,giống ở cái tính khó g
 Dialogue: 0,0:12:18.23,0:12:19.89,Dialouge,,0,0,0,,Vậy từ giờ tôi xin nhờ anh
 Dialogue: 0,0:12:24.40,0:12:27.15,Dialouge,,0,0,0,,Đã ba năm rồi mới gặp lại sao
 Dialogue: 0,0:12:27.57,0:12:31.16,Dialouge,,0,0,0,,Phó Tư lệnh, mục tiêu lại bắt đầu di chuyển!
-Dialogue: 0,0:12:31.28,0:12:34.33,Dialouge,,0,0,0,,Được rồi, tất cả khẩn trương, \Nvào vị trí chiến đấu!
+Dialogue: 0,0:12:31.28,0:12:34.33,Dialouge,,0,0,0,,Được rồi, tất cả khẩn trương,\Nvào vị trí chiến đấu!
 Dialogue: 0,0:12:34.95,0:12:37.87,Dialouge,,0,0,0,,Xin nhắc lại: Tất cả khẩn trương, vào vị trí chiến đấu!
 Dialogue: 0,0:12:38.00,0:12:39.58,Dialouge,,0,0,0,,Chuẩn bị phục kích mục tiêu ở mặt đất
 Dialogue: 0,0:12:39.71,0:12:40.87,Dialouge,,0,0,0,,Chuẩn bị rồi!
 Dialogue: 0,0:12:41.00,0:12:42.63,Dialouge,,0,0,0,,Lần này coi bộ nghiêm trọng rồi đây
-Dialogue: 0,0:12:43.42,0:12:45.50,Dialouge,,0,0,0,,Còn Unit-01 đang như nào rồi?
+Dialogue: 0,0:12:43.42,0:12:45.50,Dialouge,,0,0,0,,Còn Unit-01 đang như thế nào rồi?
 Dialogue: 0,0:12:45.63,0:12:47.88,Dialouge,,0,0,0,,Vẫn đang được làm mát với trang bị loại B
-Dialogue: 0,0:12:48.01,0:12:49.67,Dialouge,,0,0,0,,Làm vậy có hiệu nghiệm thật không?
-Dialogue: 0,0:12:49.80,0:12:51.84,Dialouge,,0,0,0,,Nó chưa hoạt động lần nào mà phải không?
-Dialogue: 0,0:12:51.97,0:12:57.35,Dialouge,,0,0,0,,Xác suất khởi động là 0.000000001%
-Dialogue: 0,0:12:57.47,0:12:59.81,Dialouge,,0,0,0,,Đúng với cái tên thường gọi là "Hệ thống O9".
+Dialogue: 0,0:12:48.01,0:12:49.67,Dialouge,,0,0,0,,Làm vậy có hiệu quả thật không?
+Dialogue: 0,0:12:49.80,0:12:51.84,Dialouge,,0,0,0,,Nó chưa hoạt động lần nào mà nhỉ?
+Dialogue: 0,0:12:51.97,0:12:57.35,Dialouge,,0,0,0,,Xác suất khởi động là 0.000000001%.
+Dialogue: 0,0:12:57.47,0:12:59.81,Dialouge,,0,0,0,,Đúng với cái tên thường gọi là "Hệ thống 09". {0 = O}
 Dialogue: 0,0:12:59.93,0:13:02.52,Dialouge,,0,0,0,,Nói vậy là không hoạt động được rồi còn gì?
-Dialogue: 0,0:13:02.65,0:13:05.11,Dialouge,,0,0,0,,Không phải không được đâu. \N"O" 9 không phải là số 0, mà là chữ "O"
-Dialogue: 0,0:13:05.23,0:13:07.11,Dialouge,,0,0,0,,Thì cũng chỉ là chơi chữ thôi mà
-Dialogue: 0,0:13:07.23,0:13:08.74,Dialouge,,0,0,0,,Thôi thì ý chị sao cũng được
-Dialogue: 0,0:13:08.86,0:13:11.61,Dialouge,,0,0,0,,Nhưng nếu nó "Không hoạt động " thật, thì tôi sẽ không tha cho chị đâu đó
+Dialogue: 0,0:13:02.65,0:13:05.11,Dialouge,,0,0,0,,{Không phải không được đâu. "O" 9 không phải là số 0, mà là chữ "O"}Đừng nói thế, {có phải là bằng 0 đâu}vẫn chưa bằng 0 mà.
+Dialogue: 0,0:13:05.23,0:13:07.11,Dialouge,,0,0,0,,{Thì cũng chỉ là con số thôi mà} Dựa trên con số thì thế rồi.
+Dialogue: 0,0:13:07.23,0:13:08.74,Dialouge,,0,0,0,,Mà, thôi {thì ý chị}sao cũng được.
+Dialogue: 0,0:13:08.86,0:13:11.61,Dialouge,,0,0,0,,Nhưng nếu nó không hoạt động thật, thì tôi sẽ không để yên{tha cho chị} đâu đó.
 Dialogue: 0,0:13:20.25,0:13:22.67,Dialouge,,0,0,0,,A... Sao tối vậy?...
 Dialogue: 0,0:13:26.75,0:13:29.80,Dialouge,,0,0,0,,Gương mặt... của một con robot khổng lồ ?
 Dialogue: 0,0:13:31.30,0:13:33.64,Dialouge,,0,0,0,,Có tìm hết cũng không có trong đó đâu
-Dialogue: 0,0:13:34.01,0:13:37.97,Dialouge,,0,0,0,,Đây là vũ khí chiến đấu tối thượng, mang hình dạng con người, do chính con người chế tạo ra:
-Dialogue: 0,0:13:38.10,0:13:41.56,Dialouge,,0,0,0,,Người máy Evangelion - Unit 01
-Dialogue: 0,0:13:42.06,0:13:47.19,Dialouge,,0,0,0,,Đây là con át chủ bài cuối cùng của loài người, công trình xây dựng nó là tuyệt mật
+Dialogue: 0,0:13:34.01,0:13:37.97,Dialouge,,0,0,0,,Đây là vũ khí chiến đấu tối thượng đa dụng,\N hình người, do con người tạo ra:
+Dialogue: 0,0:13:38.10,0:13:41.56,Dialouge,,0,0,0,,Người nhân tạo Evangelion - Unit 01
+Dialogue: 0,0:13:42.06,0:13:47.19,Dialouge,,0,0,0,,Việc xây dựng nó được tiến hành trong bí mật. \NĐây là Át chủ bài cuối cùng của loài người.
 Dialogue: 0,0:13:47.32,0:13:49.19,Dialouge,,0,0,0,,Đây cũng là công việc của bố em sao?
 Dialogue: 0,0:13:49.32,0:13:50.57,Dialouge,,0,0,0,,Đúng thế
 Dialogue: 0,0:13:52.11,0:13:53.07,Dialouge,,0,0,0,,Lâu ngày không gặp.
 Dialogue: 0,0:13:54.91,0:13:56.24,Dialouge,,0,0,0,,Bố...
 Dialogue: 0,0:13:57.58,0:13:59.62,Dialouge,,0,0,0,,Cho xuất kích đi
-Dialogue: 0,0:13:59.99,0:14:03.87,Dialouge,,0,0,0,,Xuất kích!? Nhưng Unit-00 vẫn đang chưa thể chiến đấu được mà!?
+Dialogue: 0,0:13:59.99,0:14:03.87,Dialouge,,0,0,0,,Xuất kích!? Nhưng Unit-00 vẫn đang {chưa thể chiến đấu được}đóng băng mà!?
 Dialogue: 0,0:14:05.50,0:14:07.50,Dialouge,,0,0,0,,Chẳng lẽ... ông tính khởi động Unit-01 sao!?
 Dialogue: 0,0:14:08.38,0:14:09.67,Dialouge,,0,0,0,,Không còn cách nào khác
 Dialogue: 0,0:14:09.84,0:14:13.59,Dialouge,,0,0,0,,Khoan! Rei vẫn chưa thể lái được mà?
 Dialogue: 0,0:14:13.72,0:14:15.01,Dialouge,,0,0,0,,Chúng ta đâu có phi công?
 Dialogue: 0,0:14:16.14,0:14:17.18,Dialouge,,0,0,0,,Phi công đang ở ngay đây này
-Dialogue: 0,0:14:18.47,0:14:19.51,Dialouge,,0,0,0,,Đùa à!?
-Dialogue: 0,0:14:20.52,0:14:22.02,Dialouge,,0,0,0,,Ikari Shinji\NDạ
-Dialogue: 0,0:14:22.68,0:14:24.44,Dialouge,,0,0,0,,Em sẽ lái Unit-1\NHả?
-Dialogue: 0,0:14:24.69,0:14:26.56,Dialouge,,0,0,0,,Nhưng ngay cả Rei cũng mất 7 tháng
-Dialogue: 0,0:14:26.69,0:14:29.65,Dialouge,,0,0,0,,Mới đồng bộ được với Eva mà, nhớ không?
+Dialogue: 0,0:14:18.47,0:14:19.51,Dialouge,,0,0,0,,Nghiêm túc à!?
+Dialogue: 0,0:14:20.52,0:14:21.51,Dialouge,,0,0,0,,Ikari Shinji.
+Dialogue: 0,0:14:21.51,0:14:22.02,Dialouge,,0,0,0,,Dạ.
+Dialogue: 0,0:14:22.68,0:14:24.44,Dialouge,,0,0,0,,Em sẽ lái Unit-01.\NHả?
+Dialogue: 0,0:14:24.69,0:14:26.56,Dialouge,,0,0,0,,Nhưng ngay cả Ayanami Rei cũng mất 7 tháng
+Dialogue: 0,0:14:26.69,0:14:29.65,Dialouge,,0,0,0,,mới đồng bộ được với Eva mà, nhớ không?
 Dialogue: 0,0:14:29.77,0:14:32.36,Dialouge,,0,0,0,,Huống chi là cậu nhóc này mới tới, quá vô lí!
-Dialogue: 0,0:14:32.49,0:14:34.82,Dialouge,,0,0,0,,Giờ chỉ cần cậu ta ngồi lên thôi, không hi vọng gì hơn được
+Dialogue: 0,0:14:32.49,0:14:34.82,Dialouge,,0,0,0,,Giờ chỉ cần cậu ta ngồi lên thôi, không hi vọng gì hơn được.
 Dialogue: 0,0:14:34.95,0:14:35.78,Dialouge,,0,0,0,,Nhưng mà...
 Dialogue: 0,0:14:36.45,0:14:38.78,Dialouge,,0,0,0,,Bây giờ đánh chặn Angel là mục tiêu hàng đầu của chúng ta
 Dialogue: 0,0:14:39.66,0:14:40.91,Dialouge,,0,0,0,,Vì mục tiêu đó
 Dialogue: 0,0:14:41.04,0:14:43.41,Dialouge,,0,0,0,,Chúng ta cần bất kì ai có thể đồng bộ với Eva, dù chỉ một chút thôi cũng được
-Dialogue: 0,0:14:43.54,0:14:45.71,Dialouge,,0,0,0,,Không còn cách nào khác ngoài để cậu nhóc lái Eva!
+Dialogue: 0,0:14:43.54,0:14:45.71,Dialouge,,0,0,0,,Chỉ còn cách để cậu nhóc lái!
 Dialogue: 0,0:14:46.54,0:14:49.09,Dialouge,,0,0,0,,Cô hiểu rõ rồi chứ, Đại Úy Katsuragi?
 Dialogue: 0,0:14:51.00,0:14:53.13,Dialouge,,0,0,0,,Vậy sao...
 Dialogue: 0,0:14:54.22,0:14:56.22,Dialouge,,0,0,0,,Bố, vì sao bố lại gọi con tới đây?
@@ -279,12 +286,12 @@ Dialogue: 0,0:15:26.92,0:15:28.21,Dialouge,,0,0,0,,Rồi con sẽ được hư�
 Dialogue: 0,0:15:29.00,0:15:30.84,Dialouge,,0,0,0,,Sao mà được...
 Dialogue: 0,0:15:31.42,0:15:33.55,Dialouge,,0,0,0,,Con không thể làm được!
 Dialogue: 0,0:15:33.67,0:15:35.59,Dialouge,,0,0,0,,Con không thể nào lái nó được!
-Dialogue: 0,0:15:37.18,0:15:38.76,Dialouge,,0,0,0,,Mau chóng lái nó
-Dialogue: 0,0:15:38.89,0:15:40.43,Dialouge,,0,0,0,,Không thì biến đi!
+Dialogue: 0,0:15:37.18,0:15:38.76,Dialouge,,0,0,0,,Mau chóng lái nó,
+Dialogue: 0,0:15:38.89,0:15:40.43,Dialouge,,0,0,0,,không thì cút về{biến đi}!
 Dialogue: 0,0:15:51.98,0:15:54.11,Dialouge,,0,0,0,,Khốn kiếp. Nó tìm thấy chỗ này rồi
-Dialogue: 0,0:15:55.65,0:15:57.95,Dialouge,,0,0,0,,Tấm giáp kim loại số 8, lớp thứ nhất, đã bị phá hủy
+Comment: 0,0:15:55.65,0:15:57.95,Dialouge,,0,0,0,,Tấm giáp kim loại số 8, lớp thứ nhất, đã bị phá hủy
 Dialogue: 0,0:15:58.07,0:15:59.95,Dialouge,,0,0,0,,Shinji, không còn thời gian đâu!
-Dialogue: 0,0:16:00.07,0:16:03.95,Dialouge,,0,0,0,,Các khu vực ở Lô D đang xảy ra hỏa hoạn,... xin hãy nghe theo chỉ định...
+Comment: 0,0:16:00.07,0:16:03.95,Dialouge,,0,0,0,,Các khu vực ở Lô D đang xảy ra hỏa hoạn,... xin hãy nghe theo chỉ định...
 Dialogue: 0,0:16:04.87,0:16:05.70,Dialouge,,0,0,0,,Lái nó đi!
 Dialogue: 0,0:16:07.33,0:16:10.42,Dialouge,,0,0,0,,Không!... Em đến đây...
 Dialogue: 0,0:16:10.54,0:16:11.79,Dialouge,,0,0,0,,Không phải để làm mấy thứ này!
@@ -307,8 +314,7 @@ Dialogue: 0,0:16:57.96,0:17:01.26,Dialouge,,0,0,0,,Đã rõ! Tạm dừng thao t
 Dialogue: 0,0:17:02.84,0:17:07.02,Dialouge,,0,0,0,,Rõ ràng... mình chỉ là một người dư thừa
 Dialogue: 0,0:17:40.59,0:17:41.67,Dialouge,,0,0,0,,Nguy hiểm!
 Dialogue: 0,0:17:51.43,0:17:53.81,Dialouge,,0,0,0,,Eva đang cử động rồi! Chuyện này rốt cuộc là sao?
-Dialogue: 0,0:17:53.94,0:17:55.15,Dialouge,,0,0,0,,Nó đang tự xé rách
-Dialogue: 0,0:17:55.27,0:17:56.23,Dialouge,,0,0,0,,Dây chằng của tay bên phải!
+Dialogue: 0,0:17:53.94,0:17:56.23,Dialouge,,0,0,0,,Nó tự xé rách đai giữ của tay bên phải!
 Dialogue: 0,0:17:56.48,0:17:58.48,Dialouge,,0,0,0,,Không thể nào có chuyện đó!
 Dialogue: 0,0:17:58.61,0:18:00.36,Dialouge,,0,0,0,,Thậm chí còn chưa cắm Entry Plug vào mà!
 Dialogue: 0,0:18:00.53,0:18:01.74,Dialouge,,0,0,0,,Không lí nào nó cử động được!
@@ -323,9 +329,9 @@ Dialogue: 0,0:18:41.28,0:18:42.28,Dialouge,,0,0,0,,Em sẽ lái Eva!
 Dialogue: 0,0:18:45.86,0:18:47.12,Dialouge,,0,0,0,,Tiến trình làm mát, đã hoàn tất
 Dialogue: 0,0:18:47.24,0:18:48.87,Dialouge,,0,0,0,,Gắn lại cánh tay phải, đã hoàn tất
 Dialogue: 0,0:18:48.99,0:18:50.74,Dialouge,,0,0,0,,Chỗ ngồi trong buồng khoang, đã sẵn sàng
-Dialogue: 0,0:18:50.87,0:18:54.54,Dialouge,,0,0,0,,Đã rõ. Đã phát tín hiệu mở Plug.
+Dialogue: 0,0:18:50.87,0:18:54.54,Dialouge,,0,0,0,,Đã rõ. Plug ngừng đã được rút. {phải kiểm tra lại 停止信号プラグ 排出終了/Shutdown Override Signal Plug có trong 3.0+1.0}
 Dialogue: 0,0:18:55.16,0:18:57.38,Dialouge,,0,0,0,,Đã rõ. Tiến hành cắm Entry Plug.
-Dialogue: 0,0:18:57.50,0:19:01.05,Dialouge,,0,0,0,,Giải phóng hệ thống điều khiển tủy sống, chuẩn bị kết nối.
+Comment: 0,0:18:57.50,0:19:01.05,Dialouge,,0,0,0,,Giải phóng hệ thống điều khiển tủy sống, chuẩn bị kết nối.
 Dialogue: 0,0:19:04.76,0:19:06.51,Dialouge,,0,0,0,,Cố định Plug, đã hoàn tất
 Dialogue: 0,0:19:06.68,0:19:08.22,Dialouge,,0,0,0,,Bắt đầu kết nối với Unit-01
 Dialogue: 0,0:19:13.02,0:19:14.68,Dialouge,,0,0,0,,Bơm dung dịch vào Entry Plug
@@ -340,26 +346,26 @@ Dialogue: 0,0:19:38.12,0:19:40.38,Dialouge,,0,0,0,,Tất cả các dây mạch k
 Dialogue: 0,0:19:40.50,0:19:41.42,Dialouge,,0,0,0,,Đã rõ
 Dialogue: 0,0:19:41.63,0:19:43.55,Dialouge,,0,0,0,,Tiến hành kết nối lần thứ 2
 Dialogue: 0,0:19:44.92,0:19:47.30,Dialouge,,0,0,0,,Kết nối thần kinh A10, không có gì bất thường
-Dialogue: 0,0:19:47.43,0:19:49.18,Dialouge,,0,0,0,,Tỉ lệ chuyển hóa L.C.L., bình thường
-Dialogue: 0,0:19:49.30,0:19:53.06,Dialouge,,0,0,0,,Chỉnh tư duy cơ bản của hệ thống bằng tiếng Nhật
+Comment: 0,0:19:47.43,0:19:49.18,Dialouge,,0,0,0,,Tỉ lệ chuyển hóa L.C.L., bình thường
+Dialogue: 0,0:19:49.30,0:19:53.06,Dialouge,,0,0,0,,Chỉnh ngôn ngữ{tư duy} cơ bản của hệ thống bằng tiếng Nhật
 Dialogue: 0,0:19:53.47,0:19:55.68,Dialouge,,0,0,0,,Toàn bộ quá trình kết nối không có vấn đề
 Dialogue: 0,0:19:55.81,0:19:57.69,Dialouge,,0,0,0,,Mở điện mạch hai chiều
 Dialogue: 0,0:19:57.89,0:20:00.77,Dialouge,,0,0,0,,Tỉ lệ đồng bộ là 41.3%
-Dialogue: 0,0:20:01.36,0:20:02.40,Dialouge,,0,0,0,,Hay vậy
-Dialogue: 0,0:20:02.52,0:20:04.94,Dialouge,,0,0,0,,Tất cả giá trị sóng Harmonics đều ở mức bình thường.
-Dialogue: 0,0:20:05.07,0:20:06.57,Dialouge,,0,0,0,,Không cần sợ Eva mất kiểm soát
-Dialogue: 0,0:20:06.69,0:20:07.53,Dialouge,,0,0,0,,Chúng ta làm được rồi!
-Dialogue: 0,0:20:09.24,0:20:13.74,Dialouge,,0,0,0,,Chuẩn bị xuất phát!
+Dialogue: 0,0:20:01.36,0:20:02.40,Dialouge,,0,0,0,,Tuyệt thật!
+Dialogue: 0,0:20:02.52,0:20:04.94,Dialouge,,0,0,0,,Tất cả giá trị sóng đồng bộ{Harmonics} đều ở mức bình thường.
+Dialogue: 0,0:20:05.07,0:20:06.57,Dialouge,,0,0,0,,Không có dấu hiệu bộc phát.
+Dialogue: 0,0:20:06.69,0:20:07.53,Dialouge,,0,0,0,,Ta sẵn sàng rồi.
+Dialogue: 0,0:20:09.24,0:20:13.74,Dialouge,,0,0,0,,Chuẩn bị xuất kích!
 Dialogue: 0,0:20:13.87,0:20:15.24,Dialouge,,0,0,0,,Tháo chốt khóa thứ nhất!
 Dialogue: 0,0:20:17.08,0:20:18.16,Dialouge,,0,0,0,,Xác nhận, đã mở khóa!
 Dialogue: 0,0:20:18.29,0:20:20.63,Dialouge,,0,0,0,,Tiến hành gỡ cầu nối trung tâm.
 Dialogue: 0,0:20:22.59,0:20:23.71,Dialouge,,0,0,0,,Tháo chốt khóa thứ hai!
-Dialogue: 0,0:20:26.38,0:20:28.26,Dialouge,,0,0,0,,Mở khóa thiết bị cố định thứ nhất.
-Dialogue: 0,0:20:28.38,0:20:30.47,Dialouge,,0,0,0,,Tương tự, mở khóa thiết bị cố định thứ hai.
-Dialogue: 0,0:20:34.26,0:20:37.14,Dialouge,,0,0,0,,Mở khóa các thiết bị bảo vệ từ số 1 tới số 15
+Dialogue: 0,0:20:26.38,0:20:28.26,Dialouge,,0,0,0,,Mở khóa {thiết bị cố định}đai giữ thứ nhất.
+Dialogue: 0,0:20:28.38,0:20:30.47,Dialouge,,0,0,0,,Tương tự, mở khóa {thiết bị cố định}đai giữ thứ hai.
+Dialogue: 0,0:20:34.26,0:20:37.14,Dialouge,,0,0,0,,Gỡ trang bị bảo hộ từ 1 tới 15.{Mở khóa các thiết bị bảo vệ từ số 1 tới số 15}
 Comment: 0,0:20:37.27,0:20:38.56,Dialouge,,0,0,0,,Xác nhận đã mở khóa
 Comment: 0,0:20:38.68,0:20:40.65,Dialouge,,0,0,0,,Hiện tại Unit-01 đang trong trạng thái tự do
-Dialogue: 0,0:20:40.77,0:20:42.27,Dialouge,,0,0,0,,Xác nhận bên trong đã sạc điện đầy đủ
+Dialogue: 0,0:20:39.74,0:20:42.27,Dialouge,,0,0,0,,Nguồn điện trong đã nạp đầy.
 Dialogue: 0,0:20:42.40,0:20:44.44,Dialouge,,0,0,0,,Nguồn điện bên ngoài kết nối bình thường.
 Dialogue: 0,0:20:44.94,0:20:47.86,Dialouge,,0,0,0,,Đã rõ, chuyển Eva Unit-01 đến bệ phóng
 Dialogue: 0,0:21:03.46,0:21:05.25,Dialouge,,0,0,0,,Đường đi thông thoáng, mọi thứ đều ổn định!
@@ -370,22 +376,22 @@ Dialogue: 0,0:21:11.05,0:21:12.55,Dialouge,,0,0,0,,Dĩ nhiên.
 Dialogue: 0,0:21:12.93,0:21:16.26,Dialouge,,0,0,0,,Nếu không đánh bại được Angel, chúng ta sẽ không có tương lai.
 Dialogue: 0,0:21:17.14,0:21:20.18,Dialouge,,0,0,0,,Ikari, làm như này thực sự ổn chứ?
 Dialogue: 0,0:21:21.69,0:21:22.52,Dialouge,,0,0,0,,XUẤT KÍCH!
-Dialogue: 0,0:21:56.60,0:21:58.85,Dialouge,,0,0,0,,Shinji, ráng giữ mạng nhé em
-Dialogue: 0,0:22:00.98,0:22:03.73,Dialouge,,0,0,0,,♪ Fly me to the moon
-Dialogue: 0,0:22:03.85,0:22:08.44,Dialouge,,0,0,0,,♪ And let me play\Namong the stars
-Dialogue: 0,0:22:09.78,0:22:12.57,Dialouge,,0,0,0,,♪ Let me see\Nwhat Spring is like
-Dialogue: 0,0:22:12.70,0:22:16.07,Dialouge,,0,0,0,,♪ On Jupiter and Mars
-Dialogue: 0,0:22:17.03,0:22:23.79,Dialouge,,0,0,0,,♪ In other words,\Nhold my hand!
-Dialogue: 0,0:22:25.08,0:22:31.84,Dialouge,,0,0,0,,♪ In other words,\Ndarling, kiss me!
-Dialogue: 0,0:22:33.38,0:22:36.05,Dialouge,,0,0,0,,♪ Fill my heart\Nwith song
-Dialogue: 0,0:22:36.18,0:22:40.56,Dialouge,,0,0,0,,♪ And let me sing\Nforevermore
-Dialogue: 0,0:22:41.64,0:22:44.44,Dialouge,,0,0,0,,♪ You are all I long for
-Dialogue: 0,0:22:44.56,0:22:48.31,Dialouge,,0,0,0,,♪ All I worship\Nand adore
-Dialogue: 0,0:22:49.23,0:22:56.24,Dialouge,,0,0,0,,♪ In other words,\Nplease be true
-Dialogue: 0,0:22:57.32,0:23:04.33,Dialouge,,0,0,0,,♪ In other words,\NI love you
+Dialogue: 0,0:21:56.60,0:21:58.85,Dialouge,,0,0,0,,Shinji, cố sống sót nhé.{ráng giữ mạng nhé em}
+Dialogue: 0,0:22:00.98,0:22:03.73,Dialouge,,0,0,0,,Fly me to the moon
+Dialogue: 0,0:22:03.85,0:22:08.44,Dialouge,,0,0,0,,And let me play\Namong the stars
+Dialogue: 0,0:22:09.78,0:22:12.57,Dialouge,,0,0,0,,Let me see\Nwhat Spring is like
+Dialogue: 0,0:22:12.70,0:22:16.07,Dialouge,,0,0,0,,On Jupiter and Mars
+Dialogue: 0,0:22:17.03,0:22:23.79,Dialouge,,0,0,0,,In other words,\Nhold my hand!
+Dialogue: 0,0:22:25.08,0:22:31.84,Dialouge,,0,0,0,,In other words,\Ndarling, kiss me!
+Dialogue: 0,0:22:33.38,0:22:36.05,Dialouge,,0,0,0,,Fill my heart\Nwith song
+Dialogue: 0,0:22:36.18,0:22:40.56,Dialouge,,0,0,0,,And let me sing\Nforevermore
+Dialogue: 0,0:22:41.64,0:22:44.44,Dialouge,,0,0,0,,You are all I long for
+Dialogue: 0,0:22:44.56,0:22:48.31,Dialouge,,0,0,0,,All I worship\Nand adore
+Dialogue: 0,0:22:49.23,0:22:56.24,Dialouge,,0,0,0,,In other words,\Nplease be true
+Dialogue: 0,0:22:57.32,0:23:04.33,Dialouge,,0,0,0,,In other words,\NI love you
 Dialogue: 0,0:23:06.50,0:23:07.75,Dialouge,,0,0,0,,Eva thắng được Angel
 Dialogue: 0,0:23:07.88,0:23:10.38,Dialouge,,0,0,0,,Nhưng đó chỉ là khởi đầu của mọi chuyện
 Dialogue: 0,0:23:10.54,0:23:12.05,Dialouge,,0,0,0,,Shinji đã chạy trốn khỏi bố của mình
-Dialogue: 0,0:23:12.17,0:23:15.84,Dialouge,,0,0,0,,Từ đó Misato quyết tâm giúp đỡ Shinji
-Dialogue: 0,0:23:15.97,0:23:18.18,Dialouge,,0,0,0,,Mời quý vị khán giả đón xem tập sau:\N"Trần nhà xa lạ"
+Dialogue: 0,0:23:12.17,0:23:15.84,Dialouge,,0,0,0,,Rồi một Misato kiêu kỳ quyết định giúp đỡ Shinji
+Dialogue: 0,0:23:15.97,0:23:18.18,Dialouge,,0,0,0,,Tập tiếp theo{Mời quý vị khán giả đón xem tập sau}: "Trần nhà xa lạ"
 Dialogue: 0,0:23:18.30,0:23:20.97,Dialouge,,0,0,0,,Tập sau sẽ có fan service đó~!
