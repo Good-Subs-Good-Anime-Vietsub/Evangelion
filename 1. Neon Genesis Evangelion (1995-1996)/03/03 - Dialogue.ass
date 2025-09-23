@@ -15,8 +15,8 @@ Video File: [Beatrice-Raws] Neon Genesis Evangelion 03 [BDRip 1440x1080 HEVC Tru
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.125000
-Scroll Position: 492
-Active Line: 3
+Scroll Position: 456
+Active Line: 469
 Video Position: 9830
 
 [V4+ Styles]
@@ -494,22 +494,6 @@ Dialogue: 0,0:21:19.73,0:21:22.65,Default,,0,0,0,,Lúc đó mày xin lỗi trong
 Dialogue: 0,0:21:22.77,0:21:25.36,Default,,0,0,0,,Thì đã không phải bứt rứt tận 3 ngày rồi
 Dialogue: 0,0:21:25.65,0:21:27.94,Default,,0,0,0,,Đây này, là số điện thoại của tên học sinh mới
 Dialogue: 0,0:21:29.03,0:21:30.86,Default,,0,0,0,,Thấy lo thì gọi điện thử xem?
-Dialogue: 0,0:21:30.99,0:21:32.32,Default,,0,0,0,,
-Dialogue: 0,0:21:33.78,0:21:37.20,Default,,0,0,0,,
-Dialogue: 0,0:22:01.10,0:22:03.85,Default,,0,0,0,,♪ Fly me to the moon
-Dialogue: 0,0:22:03.98,0:22:08.57,Default,,0,0,0,,♪ And let me play\Namong the stars
-Dialogue: 0,0:22:09.78,0:22:12.53,Default,,0,0,0,,♪ Let me see\Nwhat Spring is like
-Dialogue: 0,0:22:12.65,0:22:16.20,Default,,0,0,0,,♪ On Jupiter and Mars
-Dialogue: 0,0:22:17.16,0:22:23.92,Default,,0,0,0,,♪ In other words,\Nhold my hand!
-Dialogue: 0,0:22:25.21,0:22:31.96,Default,,0,0,0,,♪ In other words,\Ndarling, kiss me!
-Dialogue: 0,0:22:33.51,0:22:36.18,Default,,0,0,0,,♪ Fill my heart\Nwith song
-Dialogue: 0,0:22:36.30,0:22:40.68,Default,,0,0,0,,♪ And let me sing\Nforevermore
-Dialogue: 0,0:22:41.77,0:22:44.56,Default,,0,0,0,,♪ You are all I long for
-Dialogue: 0,0:22:44.69,0:22:48.44,Default,,0,0,0,,♪ All I worship\Nand adore
-Dialogue: 0,0:22:49.36,0:22:56.36,Default,,0,0,0,,♪ In other words,\Nplease be true
-Dialogue: 0,0:22:57.45,0:23:04.46,Default,,0,0,0,,♪ In other words,\NI love you
-Dialogue: 0,0:23:06.25,0:23:07.00,Default,,0,0,0,,♪
-Dialogue: 0,0:23:07.00,0:23:09.96,Default,,0,0,0,,♪
 Dialogue: 0,0:23:07.00,0:23:09.96,Default,,0,0,0,,Shinji không thể vượt qua chính mình,và còn bỏ chạy khỏi Misato.
 Dialogue: 0,0:23:09.96,0:23:10.34,Default,,0,0,0,,♪
 Dialogue: 0,0:23:10.34,0:23:12.71,Default,,0,0,0,,♪

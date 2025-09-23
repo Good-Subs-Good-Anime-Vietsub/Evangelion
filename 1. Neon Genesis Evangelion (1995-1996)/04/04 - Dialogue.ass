@@ -14,8 +14,8 @@ Video File: [Furiseto x ZX] Neon Genesis Evangelion 04 [BDRip 1440x1080 HEVC Tru
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 114
-Active Line: 324
+Scroll Position: 312
+Active Line: 346
 Video Position: 21462
 
 [V4+ Styles]
@@ -24,37 +24,6 @@ Style: Default,Open Sans Semibold,68,&H00FFFFFF,&H000000FF,&H00020713,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.16,0:00:06.95,Default,,0,0,0,,♪ 残酷な天使のように
-Dialogue: 0,0:00:07.08,0:00:14.09,Default,,0,0,0,,♪ 少年よ 神話になれ
-Dialogue: 0,0:00:15.05,0:00:22.05,Default,,0,0,0,,♪
-Dialogue: 0,0:00:22.93,0:00:25.85,Default,,0,0,0,,♪ 蒼(あお)い風がいま
-Dialogue: 0,0:00:25.97,0:00:29.56,Default,,0,0,0,,♪ 胸のドアを叩(たた)いても
-Dialogue: 0,0:00:29.69,0:00:33.27,Default,,0,0,0,,♪ 私だけを\N　　　ただ見つめて
-Dialogue: 0,0:00:33.40,0:00:37.57,Default,,0,0,0,,♪ 微(ほほ)笑(え)んでるあなた
-Dialogue: 0,0:00:37.69,0:00:40.65,Default,,0,0,0,,♪ そっとふれるもの
-Dialogue: 0,0:00:40.78,0:00:44.49,Default,,0,0,0,,♪ もとめることに\N　　　　　　　夢中で
-Dialogue: 0,0:00:44.62,0:00:48.16,Default,,0,0,0,,♪ 運命さえ\N　　　まだ知らない
-Dialogue: 0,0:00:48.29,0:00:52.04,Default,,0,0,0,,♪ いたいけな瞳
-Dialogue: 0,0:00:52.17,0:00:55.79,Default,,0,0,0,,♪ だけどいつか\N　　　気付くでしょう
-Dialogue: 0,0:00:55.92,0:00:58.76,Default,,0,0,0,,♪ その背中には
-Dialogue: 0,0:00:59.72,0:01:01.51,Default,,0,0,0,,♪ 遥(はる)か未来
-Dialogue: 0,0:01:01.63,0:01:06.72,Default,,0,0,0,,♪ めざすための\N　　　羽根があること
-Dialogue: 0,0:01:07.10,0:01:10.85,Default,,0,0,0,,♪ 残酷な天使のテーゼ
-Dialogue: 0,0:01:10.98,0:01:14.10,Default,,0,0,0,,♪ 窓辺から\N　　　やがて飛び立つ
-Dialogue: 0,0:01:14.61,0:01:18.32,Default,,0,0,0,,♪ ほとばしる\N　　　熱いパトスで
-Dialogue: 0,0:01:18.44,0:01:21.61,Default,,0,0,0,,♪ 思い出を裏切るなら
-Dialogue: 0,0:01:22.07,0:01:25.66,Default,,0,0,0,,♪ この宇宙(そら)を\N　　　　抱いて輝く
-Dialogue: 0,0:01:25.78,0:01:29.58,Default,,0,0,0,,♪ 少年よ 神話になれ
-Dialogue: 0,0:01:31.46,0:01:33.79,Default,,0,0,0,,
-Dialogue: 0,0:01:33.92,0:01:37.34,Default,,0,0,0,,
-Dialogue: 0,0:01:37.34,0:01:39.00,Default,,0,0,0,,
-Dialogue: 0,0:01:37.34,0:01:39.00,Default,,0,0,0,,
-Dialogue: 0,0:01:39.00,0:01:39.88,Default,,0,0,0,,
-Dialogue: 0,0:01:39.88,0:01:40.92,Default,,0,0,0,,
-Dialogue: 0,0:01:39.88,0:01:40.92,Default,,0,0,0,,
-Dialogue: 0,0:01:40.92,0:01:41.42,Default,,0,0,0,,
-Dialogue: 0,0:01:42.05,0:01:43.34,Default,,0,0,0,,
-Dialogue: 0,0:01:45.43,0:01:46.51,Default,,0,0,0,,
 Dialogue: 0,0:01:51.85,0:01:55.98,Default,,0,0,0,,Nhóc này,... hôm nay lại tính cúp học à
 Dialogue: 0,0:01:59.07,0:02:00.99,Default,,0,0,0,,Shinji, dậy đi
 Dialogue: 0,0:02:01.11,0:02:04.20,Default,,0,0,0,,Tính nghỉ học tới  khi nào nữa đây? 5 ngày rồi đó!
@@ -351,11 +320,11 @@ Dialogue: 0,0:19:01.59,0:19:04.51,Default,,0,0,0,,bằng cách nói chuyện nh�
 Dialogue: 0,0:19:05.17,0:19:09.89,Default,,0,0,0,,Tàu tốc hành Linear đi Atsugi sắp vào ga số 2
 Dialogue: 0,0:19:10.10,0:19:12.43,Default,,0,0,0,,Xin hành khách đứng dưới vạch vàng
 Dialogue: 0,0:19:12.56,0:19:14.10,Default,,0,0,0,,để tránh nguy hiểm!
-Dialogue: 0,0:19:15.56,0:19:18.90,Default,,0,0,0,,Chuyến tàu ở tuyến số 2 là tàu đặc biệt dành riêng cho chính phủ, 
+Dialogue: 0,0:19:15.56,0:19:18.90,Default,,0,0,0,,Chuyến tàu ở tuyến số 2 là tàu đặc biệt dành riêng cho chính phủ,
 Dialogue: 0,0:19:19.02,0:19:21.19,Default,,0,0,0,,khởi hành lúc 4 giờ 20 đi Atsugi.
 Dialogue: 0,0:19:21.32,0:19:24.15,Default,,0,0,0,,Người dân không được vào trong hàng rào
 Dialogue: 0,0:19:24.53,0:19:28.03,Default,,0,0,0,,Ngoài ra, nghiêm cấm ai lên xe mà không có sự cho phép
-Dialogue: 0,0:19:28.20,0:19:30.45,Default,,0,0,0,,Xin vui lòng chú ý! 
+Dialogue: 0,0:19:28.20,0:19:30.45,Default,,0,0,0,,Xin vui lòng chú ý!
 Dialogue: 0,0:19:41.50,0:19:43.38,Default,,0,0,0,,Cố lên nhé!
 Dialogue: 0,0:19:44.01,0:19:46.97,Default,,0,0,0,,
 Dialogue: 0,0:19:46.97,0:19:48.05,Default,,0,0,0,,
@@ -378,30 +347,16 @@ Dialogue: 0,0:21:14.80,0:21:16.47,Default,,0,0,0,,Chuyến tàu địa phương 
 Dialogue: 0,0:21:16.60,0:21:19.43,Default,,0,0,0,,sắp đến ga số 4
 Dialogue: 0,0:21:19.56,0:21:22.02,Default,,0,0,0,,Xin hành khách lùi khỏi vạch vàng
 Dialogue: 0,0:21:22.15,0:21:24.15,Default,,0,0,0,,để tránh nguy hiểm!
-Dialogue: 0,0:21:24.27,0:21:26.19,Default,,0,0,0,,Với các hành khách đi cùng trẻ nhỏ 
-Dialogue: 0,0:21:26.32,0:21:28.57,Default,,0,0,0,,xin đặc biệt lưu ý! 
+Dialogue: 0,0:21:24.27,0:21:26.19,Default,,0,0,0,,Với các hành khách đi cùng trẻ nhỏ
+Dialogue: 0,0:21:26.32,0:21:28.57,Default,,0,0,0,,xin đặc biệt lưu ý!
 Dialogue: 0,0:21:29.74,0:21:32.78,Default,,0,0,0,,Xin nhắc lại, chuyến tàu ở tuyến số 4 là tàu địa phương đi Gōra
 Dialogue: 0,0:21:32.91,0:21:35.99,Default,,0,0,0,, sẽ khởi hành lúc 4 giờ 32 phút
-Dialogue: 0,0:21:36.12,0:21:37.24,Default,,0,0,0,, Quý hành khách hãy lên tàu 
+Dialogue: 0,0:21:36.12,0:21:37.24,Default,,0,0,0,, Quý hành khách hãy lên tàu
 Dialogue: 0,0:21:37.37,0:21:39.58,Default,,0,0,0,,và vui lòng đợi!
 Dialogue: 0,0:21:40.50,0:21:43.04,Default,,0,0,0,,Tàu sắp đến
-Dialogue: 0,0:21:43.17,0:21:46.17,Default,,0,0,0,,Xin hãy lùi khỏi vạch vàng 
+Dialogue: 0,0:21:43.17,0:21:46.17,Default,,0,0,0,,Xin hãy lùi khỏi vạch vàng
 Dialogue: 0,0:21:49.51,0:21:51.63,Default,,0,0,0,,E-Em về rồi!
 Dialogue: 0,0:21:56.18,0:21:57.64,Default,,0,0,0,,Mừng em đã về!
-Dialogue: 0,0:22:01.27,0:22:03.81,Default,,0,0,0,,♪ Fly me to the moon
-Dialogue: 0,0:22:03.94,0:22:08.73,Default,,0,0,0,,♪ And let me play\Namong the stars
-Dialogue: 0,0:22:09.98,0:22:12.70,Default,,0,0,0,,♪ Let me see\Nwhat Spring is like
-Dialogue: 0,0:22:12.82,0:22:16.37,Default,,0,0,0,,♪ On Jupiter and Mars
-Dialogue: 0,0:22:17.33,0:22:24.08,Default,,0,0,0,,♪ In other words,\Nhold my hand!
-Dialogue: 0,0:22:25.37,0:22:32.13,Default,,0,0,0,,♪ In other words,\Ndarling, kiss me!
-Dialogue: 0,0:22:33.67,0:22:36.34,Default,,0,0,0,,♪ Fill my heart\Nwith song
-Dialogue: 0,0:22:36.47,0:22:40.85,Default,,0,0,0,,♪ And let me sing\Nforevermore
-Dialogue: 0,0:22:41.93,0:22:44.89,Default,,0,0,0,,♪ You are all I long for
-Dialogue: 0,0:22:45.02,0:22:48.61,Default,,0,0,0,,♪ All I worship\Nand adore
-Dialogue: 0,0:22:49.52,0:22:56.53,Default,,0,0,0,,♪ In other words,\Nplease be true
-Dialogue: 0,0:22:57.62,0:23:04.62,Default,,0,0,0,,♪ In other words,\NI love you
-Dialogue: 0,0:23:06.33,0:23:07.21,Default,,0,0,0,,♪
-Dialogue: 0,0:23:07.21,0:23:10.75,Default,,0,0,0,,♪
 Dialogue: 0,0:23:07.21,0:23:10.75,Default,,0,0,0,,Ayanami Rei sống khép kín, gần như cắt đứt mọi tiếp xúc với người khác.
 Dialogue: 0,0:23:10.75,0:23:10.88,Default,,0,0,0,,♪
 Dialogue: 0,0:23:10.88,0:23:13.34,Default,,0,0,0,,♪

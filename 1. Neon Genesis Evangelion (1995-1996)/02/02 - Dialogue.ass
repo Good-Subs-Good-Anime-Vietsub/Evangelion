@@ -14,8 +14,8 @@ Video File: [Furiseto x ZX] Neon Genesis Evangelion 02 [BDRip 1440x1080 HEVC Tru
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.375000
-Scroll Position: 194
-Active Line: 425
+Scroll Position: 370
+Active Line: 392
 Video Position: 33611
 
 [V4+ Styles]
@@ -24,27 +24,6 @@ Style: Default,Open Sans Semibold,68,&H00FFFFFF,&H000000FF,&H00020713,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.16,0:00:06.95,Default,,0,0,0,,♪ Tựa như vị Hung Thần,
-Dialogue: 0,0:00:07.08,0:00:14.09,Default,,0,0,0,,♪ hỡi chàng niên thiếu, hãy Phong Thần Hóa Thánh đi con!
-Dialogue: 0,0:00:15.05,0:00:22.05,Default,,0,0,0,,**Bản dịch thuộc về Gió Chiều/KiOZ của A4VF**\N♪
-Dialogue: 0,0:00:22.97,0:00:25.89,Default,,0,0,0,,♪ Làn gió xanh, đang vi vu ngoài kia,
-Dialogue: 0,0:00:26.02,0:00:29.56,Default,,0,0,0,,♪ Ùa vào chạm cửa tâm hồn con vậy mà...
-Dialogue: 0,0:00:29.69,0:00:33.27,Default,,0,0,0,,♪ Con cứ lặng thinh thôi à,
-Dialogue: 0,0:00:33.40,0:00:37.57,Default,,0,0,0,,♪ Chỉ biết đứng đó nhìn mẹ, và mỉm cười.
-Dialogue: 0,0:00:37.69,0:00:40.65,Default,,0,0,0,,♪ Khẽ chạm, chỉ mới khẽ chạm thôi,
-Dialogue: 0,0:00:40.78,0:00:44.49,Default,,0,0,0,,♪ Mà đôi mắt con đã đắm say ước cầu rồi.
-Dialogue: 0,0:00:44.62,0:00:48.16,Default,,0,0,0,,♪ Ôi ngây thơ làm sao, cũng đôi mắt ấy,
-Dialogue: 0,0:00:48.29,0:00:52.04,Default,,0,0,0,,♪ thậm chí còn chưa thể nhìn số trông phận.
-Dialogue: 0,0:00:52.17,0:00:55.79,Default,,0,0,0,,♪ Nhưng không sớm thì muộn con sẽ nhìn ra phải không nào?
-Dialogue: 0,0:00:55.92,0:00:58.76,Default,,0,0,0,,♪ Rằng trên lưng con...
-Dialogue: 0,0:00:59.72,0:01:01.51,Default,,0,0,0,,♪ đang gánh vác đôi cánh
-Dialogue: 0,0:01:01.63,0:01:06.72,Default,,0,0,0,,♪ bay tới tương lai vô tận.
-Dialogue: 0,0:01:07.10,0:01:10.85,Default,,0,0,0,,♪ Luận Cương Phong Hung Hóa Thần chỉ ra:
-Dialogue: 0,0:01:10.98,0:01:14.10,Default,,0,0,0,,♪ "Sớm thôi ta sẽ mở toang khung cửa sải cánh bay đi,
-Dialogue: 0,0:01:14.61,0:01:18.32,Default,,0,0,0,,♪ đấy là khi ta gom hết xúc cảm cháy bỏng dâng trào,
-Dialogue: 0,0:01:18.44,0:01:21.61,Default,,0,0,0,,♪ sẵn sàng quay lưng lại với hồi ức kỉ niệm."
-Dialogue: 0,0:01:22.07,0:01:25.66,Default,,0,0,0,,♪ Đầu đội trời chân đạp đất, \Nquang minh chính đại
-Dialogue: 0,0:01:25.78,0:01:29.58,Default,,0,0,0,,♪ hỡi chàng niên thiếu, hãy Phong Thần Hóa Thánh đi con!
 Dialogue: 0,0:01:33.21,0:01:33.71,Default,,0,0,0,,♪
 Dialogue: 0,0:01:33.71,0:01:35.46,Default,,0,0,0,,♪
 Dialogue: 0,0:01:33.71,0:01:35.46,Default,,0,0,0,,Em ổn chứ, Shinji?
@@ -115,7 +94,7 @@ Dialogue: 0,0:04:56.54,0:04:59.66,Default,,0,0,0,,Họp báo theo kịch bản B
 Dialogue: 0,0:05:00.04,0:05:02.46,Default,,0,0,0,,Lại bưng bít sự thật nữa rồi
 Dialogue: 0,0:05:02.58,0:05:06.38,Default,,0,0,0,,Mấy người ở bộ Đối Ngoại vui lắm đấy. Vì cuối cùng họ cũng có việc để làm.
 Dialogue: 0,0:05:06.50,0:05:08.71,Default,,0,0,0,,Chúng mình cũng vô tư quá rồi đó
-Dialogue: 0,0:05:08.84,0:05:12.09,Default,,0,0,0,,Không biết nữa, có phải mọi người đang sợ thật rồi không? 
+Dialogue: 0,0:05:08.84,0:05:12.09,Default,,0,0,0,,Không biết nữa, có phải mọi người đang sợ thật rồi không?
 Dialogue: 0,0:05:12.97,0:05:13.97,Default,,0,0,0,,Dĩ nhiên là phải sợ rồi
 Dialogue: 0,0:05:15.05,0:05:16.85,Default,,0,0,0,,Được rồi, đến đây thôi.
 Dialogue: 0,0:05:17.47,0:05:19.35,Default,,0,0,0,,Mà này anh Ikari
@@ -322,7 +301,7 @@ Dialogue: 0,0:15:05.14,0:15:09.06,Default,,0,0,0,,Tên ẻm là Penpen, là mộ
 Dialogue: 0,0:15:09.19,0:15:12.19,Default,,0,0,0,,Cơ mà, em không tính che "cái ấy" lại sao?
 Dialogue: 0,0:15:12.53,0:15:13.99,Default,,0,0,0,,
 Dialogue: 0,0:15:14.11,0:15:15.53,Default,,0,0,0,,Á!!
-Dialogue: 0,0:15:18.16,0:15:21.37,Default,,0,0,0,,Hình như mình giỡn hơi quá lố rồi thì phải... 
+Dialogue: 0,0:15:18.16,0:15:21.37,Default,,0,0,0,,Hình như mình giỡn hơi quá lố rồi thì phải...
 Dialogue: 0,0:15:21.53,0:15:23.41,Default,,0,0,0,,Chắc là nó cũng hiểu tính mình rồi...
 Dialogue: 0,0:15:24.95,0:15:26.83,Default,,0,0,0,,Chị Katsuragi Misato...
 Dialogue: 0,0:15:28.83,0:15:30.59,Default,,0,0,0,,Chị ấy không xấu tính...
@@ -382,7 +361,7 @@ Dialogue: 0,0:17:58.78,0:18:00.40,Default,,0,0,0,,Màn hình không chiếu đư
 Dialogue: 0,0:18:00.94,0:18:03.11,Default,,0,0,0,,Unit-01 hoàn toàn bất động \NMisato!
 Dialogue: 0,0:18:04.32,0:18:05.45,Default,,0,0,0,,Đã đến nước này rồi sao...
 Dialogue: 0,0:18:05.57,0:18:08.20,Default,,0,0,0,,Ngừng chiến dịch! Ưu tiên bảo vệ phi công!
-Dialogue: 0,0:18:08.33,0:18:09.54,Default,,0,0,0,,Đề nghị lấy Plug ra! 
+Dialogue: 0,0:18:08.33,0:18:09.54,Default,,0,0,0,,Đề nghị lấy Plug ra!
 Dialogue: 0,0:18:09.99,0:18:11.96,Default,,0,0,0,,Không thể! Hoàn toàn không điều khiển được!
 Dialogue: 0,0:18:12.08,0:18:13.12,Default,,0,0,0,,Gì vậy trời?
 Dialogue: 0,0:18:21.88,0:18:23.05,Default,,0,0,0,,Eva đã hoạt động lại!
@@ -426,18 +405,6 @@ Dialogue: 0,0:21:46.00,0:21:48.96,Default,,0,0,0,,Em đã lập một chiến c�
 Dialogue: 0,0:21:49.55,0:21:51.42,Default,,0,0,0,,Em hãy tự hào về bản thân mình
 Dialogue: 0,0:21:52.05,0:21:54.26,Default,,0,0,0,,Ngủn ngon nhé, Shinji
 Dialogue: 0,0:21:56.26,0:21:57.18,Default,,0,0,0,,Cố gắng lên nha em!
-Dialogue: 0,0:22:01.06,0:22:03.81,Default,,0,0,0,,♪ Fly me to the moon
-Dialogue: 0,0:22:03.94,0:22:08.69,Default,,0,0,0,,♪ And let me play\Namong the stars
-Dialogue: 0,0:22:09.69,0:22:12.82,Default,,0,0,0,,♪ Let me see\Nwhat Spring is like
-Dialogue: 0,0:22:12.95,0:22:16.32,Default,,0,0,0,,♪ On Jupiter and Mars
-Dialogue: 0,0:22:17.03,0:22:24.04,Default,,0,0,0,,♪ In other words,\Nhold my hand!
-Dialogue: 0,0:22:25.33,0:22:32.09,Default,,0,0,0,,♪ In other words,\Ndarling, kiss me!
-Dialogue: 0,0:22:33.63,0:22:36.30,Default,,0,0,0,,♪ Fill my heart\Nwith song
-Dialogue: 0,0:22:36.43,0:22:40.81,Default,,0,0,0,,♪ And let me sing\Nforevermore
-Dialogue: 0,0:22:41.89,0:22:44.69,Default,,0,0,0,,♪ You are all I long for
-Dialogue: 0,0:22:44.81,0:22:48.56,Default,,0,0,0,,♪ All I worship\Nand adore
-Dialogue: 0,0:22:49.48,0:22:56.49,Default,,0,0,0,,♪ In other words,\Nplease be true
-Dialogue: 0,0:22:57.57,0:23:04.58,Default,,0,0,0,,♪ In other words,\NI love you
 Dialogue: 0,0:23:06.08,0:23:07.04,Default,,0,0,0,,Tập tiếp theo \N♪
 Dialogue: 0,0:23:07.04,0:23:09.79,Default,,0,0,0,,♪
 Dialogue: 0,0:23:07.04,0:23:09.79,Default,,0,0,0,,Shinji _ Một cậu bé đang sống cuộc sống mới, chỉ biết "Liệu cơm gắp mắm" mà sống
