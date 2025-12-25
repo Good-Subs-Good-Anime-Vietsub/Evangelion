@@ -4,16 +4,23 @@
 Title: [Erai-raws] 09 sdh-jpn
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 1280
-PlayResY: 720
+PlayResX: 1440
+PlayResY: 1080
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
+Audio File: ../raws/[Kirika] Shinseiki Evangelion (1995) [BD 1080p AV1] (TV)/[Kirika] Shinseiki Evangelion (1995) - S01E09 [BD 1080p AV1] [5128AB50].mkv
+Video File: ../raws/[Kirika] Shinseiki Evangelion (1995) [BD 1080p AV1] (TV)/[Kirika] Shinseiki Evangelion (1995) - S01E09 [BD 1080p AV1] [5128AB50].mkv
+Video AR Mode: 4
+Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
+Scroll Position: 263
+Active Line: 265
+Video Position: 15668
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+Style: Default,Open Sans Semibold,68,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,11,11,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
