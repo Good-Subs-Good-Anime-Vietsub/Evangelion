@@ -13,10 +13,10 @@ Audio File: ../raws/[Kirika] Shinseiki Evangelion (1995) [BD 1080p AV1] (TV)/[Ki
 Video File: ../raws/[Kirika] Shinseiki Evangelion (1995) [BD 1080p AV1] (TV)/[Kirika] Shinseiki Evangelion (1995) - S01E09 [BD 1080p AV1] [5128AB50].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 263
-Active Line: 265
-Video Position: 15668
+Video Zoom Percent: 0.750000
+Scroll Position: 543
+Active Line: 306
+Video Position: 18135
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,452 +45,452 @@ Dialogue: 0,0:01:14.61,0:01:18.32,Default,,0,0,0,,♪ ほとばしる\N　　　
 Dialogue: 0,0:01:18.44,0:01:21.61,Default,,0,0,0,,♪ 思い出を裏切るなら
 Dialogue: 0,0:01:22.07,0:01:25.66,Default,,0,0,0,,♪ この宇宙(そら)を\N　　　　抱いて輝く
 Dialogue: 0,0:01:25.78,0:01:29.58,Default,,0,0,0,,♪ 少年よ 神話になれ
-Dialogue: 0,0:01:31.66,0:01:32.71,Default,,0,0,0,,（男子生徒１）おい 見たかよ
-Dialogue: 0,0:01:32.83,0:01:33.33,Default,,0,0,0,,（シャッター音）
-Dialogue: 0,0:01:33.33,0:01:33.67,Default,,0,0,0,,（シャッター音）
-Dialogue: 0,0:01:33.33,0:01:33.67,Default,,0,0,0,,（男子生徒２）見た見た！\N（男子生徒３）何が？
-Dialogue: 0,0:01:33.67,0:01:34.92,Default,,0,0,0,,（男子生徒２）見た見た！\N（男子生徒３）何が？
-Dialogue: 0,0:01:35.04,0:01:35.46,Default,,0,0,0,,（シャッター音）
-Dialogue: 0,0:01:35.46,0:01:35.88,Default,,0,0,0,,（シャッター音）
-Dialogue: 0,0:01:35.46,0:01:35.88,Default,,0,0,0,,（男子生徒２）\N知らねーのか？　あの外人
-Dialogue: 0,0:01:35.88,0:01:37.13,Default,,0,0,0,,（男子生徒２）\N知らねーのか？　あの外人
-Dialogue: 0,0:01:37.46,0:01:38.30,Default,,0,0,0,,（男子生徒３）外人？
-Dialogue: 0,0:01:38.42,0:01:38.80,Default,,0,0,0,,（シャッター音）
-Dialogue: 0,0:01:38.80,0:01:39.25,Default,,0,0,0,,（シャッター音）
-Dialogue: 0,0:01:38.80,0:01:39.25,Default,,0,0,0,,（男子生徒２）\Nああ\N２年Ａ組に転校してきたんだよ
-Dialogue: 0,0:01:39.25,0:01:42.42,Default,,0,0,0,,（男子生徒２）\Nああ\N２年Ａ組に転校してきたんだよ
-Dialogue: 0,0:01:42.55,0:01:42.84,Default,,0,0,0,,（シャッター音）
-Dialogue: 0,0:01:42.84,0:01:44.18,Default,,0,0,0,,（シャッター音）
-Dialogue: 0,0:01:42.84,0:01:44.18,Default,,0,0,0,,先週！
-Dialogue: 0,0:01:44.18,0:01:44.64,Default,,0,0,0,,（シャッター音）
-Dialogue: 0,0:01:44.64,0:01:45.05,Default,,0,0,0,,（シャッター音）
-Dialogue: 0,0:01:44.64,0:01:45.05,Default,,0,0,0,,（男子生徒４）グーだよなぁ
-Dialogue: 0,0:01:45.05,0:01:46.51,Default,,0,0,0,,（男子生徒４）グーだよなぁ
-Dialogue: 0,0:01:47.68,0:01:49.14,Default,,0,0,0,,（男子生徒５）\N惣流(そうりゅう)･アスカ･ラングレー
-Dialogue: 0,0:01:49.27,0:01:50.27,Default,,0,0,0,,ていうんだってさ
-Dialogue: 0,0:01:50.98,0:01:52.64,Default,,0,0,0,,（男子生徒１）\Nマジにかわいいじゃん
-Dialogue: 0,0:01:53.44,0:01:54.65,Default,,0,0,0,,（男子生徒４）帰国子女だろ？
-Dialogue: 0,0:01:55.27,0:01:56.90,Default,,0,0,0,,やっぱ進んでんのかなぁ
-Dialogue: 0,0:01:57.23,0:01:58.48,Default,,0,0,0,,（男子生徒５）バカ言え！
-Dialogue: 0,0:01:58.61,0:02:00.86,Default,,0,0,0,,きっとドイツで\Nつらーい別れがあったんだ
-Dialogue: 0,0:02:00.99,0:02:03.78,Default,,0,0,0,,見知らぬ土地で 傷ついた心も\N癒やせずにいるんだよ
-Dialogue: 0,0:02:04.41,0:02:05.99,Default,,0,0,0,,（男子生徒たち）おおー
-Dialogue: 0,0:02:08.24,0:02:09.66,Default,,0,0,0,,（ケンスケ）あーあ
-Dialogue: 0,0:02:10.24,0:02:12.16,Default,,0,0,0,,猫もシャクシも
-Dialogue: 0,0:02:12.75,0:02:15.21,Default,,0,0,0,,アスカ アスカかぁ
-Dialogue: 0,0:02:15.37,0:02:16.75,Default,,0,0,0,,（トウジ）皆 平和なもんや
-Dialogue: 0,0:02:16.88,0:02:18.63,Default,,0,0,0,,（ケンスケ）毎度ありぃ
-Dialogue: 0,0:02:19.63,0:02:23.47,Default,,0,0,0,,写真に あの性格は\Nあらへんからなぁ
-Dialogue: 0,0:02:23.84,0:02:26.39,Default,,0,0,0,,（アスカ）ハロー シンジ！
-Dialogue: 0,0:02:26.93,0:02:28.05,Default,,0,0,0,,グーテンモルゲン
+Dialogue: 0,0:01:31.66,0:01:32.71,Default,,0,0,0,,Ê, thấy chưa
+Dialogue: 0,0:01:32.83,0:01:33.33,Default,,0,0,0,,
+Dialogue: 0,0:01:33.33,0:01:33.67,Default,,0,0,0,,
+Dialogue: 0,0:01:33.33,0:01:33.67,Default,,0,0,0,,Thấy rồi, thấy rồi!\NThấy gì?
+Dialogue: 0,0:01:33.67,0:01:34.92,Default,,0,0,0,,Thấy rồi, thấy rồi!\NThấy gì?
+Dialogue: 0,0:01:35.04,0:01:35.46,Default,,0,0,0,,
+Dialogue: 0,0:01:35.46,0:01:35.88,Default,,0,0,0,,
+Dialogue: 0,0:01:35.46,0:01:35.88,Default,,0,0,0,,Hông biết hả? Con bé người nước ngoài kia đó
+Dialogue: 0,0:01:35.88,0:01:37.13,Default,,0,0,0,,Hông biết hả? Con bé người nước ngoài kia đó
+Dialogue: 0,0:01:37.46,0:01:38.30,Default,,0,0,0,,Người nước ngoài?
+Dialogue: 0,0:01:38.42,0:01:38.80,Default,,0,0,0,,Người nước ngoài?
+Dialogue: 0,0:01:38.80,0:01:39.25,Default,,0,0,0,,
+Dialogue: 0,0:01:38.80,0:01:39.25,Default,,0,0,0,,Ờ! Là cái con vừa chuyển tới lớp 2-A đó
+Dialogue: 0,0:01:39.25,0:01:42.42,Default,,0,0,0,,Ờ! Là cái con vừa chuyển tới lớp 2-A đó
+Dialogue: 0,0:01:42.55,0:01:42.84,Default,,0,0,0,,
+Dialogue: 0,0:01:42.84,0:01:44.18,Default,,0,0,0,,
+Dialogue: 0,0:01:42.84,0:01:44.18,Default,,0,0,0,,Hồi tuần trước!
+Dialogue: 0,0:01:44.18,0:01:44.64,Default,,0,0,0,,
+Dialogue: 0,0:01:44.64,0:01:45.05,Default,,0,0,0,,
+Dialogue: 0,0:01:44.64,0:01:45.05,Default,,0,0,0,,Ngon vậy ta!
+Dialogue: 0,0:01:45.05,0:01:46.51,Default,,0,0,0,,Ngon vậy ta!
+Dialogue: 0,0:01:47.68,0:01:49.14,Default,,0,0,0,,Nghe nói con bé tên
+Dialogue: 0,0:01:49.27,0:01:50.27,Default,,0,0,0,,Sōryū Asuka Langley
+Dialogue: 0,0:01:50.98,0:01:52.64,Default,,0,0,0,,Dễ thương thật luôn á
+Dialogue: 0,0:01:53.44,0:01:54.65,Default,,0,0,0,,Hình như là Nhật Kiều á
+Dialogue: 0,0:01:55.27,0:01:56.90,Default,,0,0,0,,Hèn chi nhìn nó trưởng thành ghê
+Dialogue: 0,0:01:57.23,0:01:58.48,Default,,0,0,0,,Ăn nói xàm xí!
+Dialogue: 0,0:01:58.61,0:02:00.86,Default,,0,0,0,,Nhất định là mới vừa chia tay bên Đức
+Dialogue: 0,0:02:00.99,0:02:03.78,Default,,0,0,0,,Rồi sống ở nơi đất khách với trái tim tổn thương chưa được chữa lành
+Dialogue: 0,0:02:04.41,0:02:05.99,Default,,0,0,0,,Ồ!!
+Dialogue: 0,0:02:08.24,0:02:09.66,Default,,0,0,0,,Haizzz
+Dialogue: 0,0:02:10.24,0:02:12.16,Default,,0,0,0,,Người người nhà nhà, ai cũng cứ....
+Dialogue: 0,0:02:12.75,0:02:15.21,Default,,0,0,0,,Asuka, Asuka quàii
+Dialogue: 0,0:02:15.37,0:02:16.75,Default,,0,0,0,,Mọi người ai cũng chill ghê á
+Dialogue: 0,0:02:16.88,0:02:18.63,Default,,0,0,0,,Cảm ơn nhiều!
+Dialogue: 0,0:02:19.63,0:02:23.47,Default,,0,0,0,,Bức hình đâu có nói lên tính nết của nó đâu
+Dialogue: 0,0:02:23.84,0:02:26.39,Default,,0,0,0,,Há lô! Shinji!
+Dialogue: 0,0:02:26.93,0:02:28.05,Default,,0,0,0,,Guten Morgen!\N (Chào buổi sáng)
 Dialogue: 0,0:02:26.93,0:02:28.05,Default,,0,0,0,,♪
 Dialogue: 0,0:02:28.05,0:02:28.64,Default,,0,0,0,,♪
 Dialogue: 0,0:02:28.64,0:02:30.22,Default,,0,0,0,,♪
-Dialogue: 0,0:02:28.64,0:02:30.22,Default,,0,0,0,,（シンジ）ぐ… ぐーてんもるげん
+Dialogue: 0,0:02:28.64,0:02:30.22,Default,,0,0,0,,Gu-.. Gutenmorugen...
 Dialogue: 0,0:02:30.22,0:02:30.51,Default,,0,0,0,,♪
 Dialogue: 0,0:02:30.51,0:02:33.39,Default,,0,0,0,,♪
-Dialogue: 0,0:02:30.51,0:02:33.39,Default,,0,0,0,,まーた 朝から辛気くさい顔して
+Dialogue: 0,0:02:30.51,0:02:33.39,Default,,0,0,0,,Lại nữa, từ sáng đã chưng cái mặt ủ rũ rồi
 Dialogue: 0,0:02:33.39,0:02:33.52,Default,,0,0,0,,♪
 Dialogue: 0,0:02:33.52,0:02:33.93,Default,,0,0,0,,♪
-Dialogue: 0,0:02:33.52,0:02:33.93,Default,,0,0,0,,この あたしが声かけてんのよ
-Dialogue: 0,0:02:33.93,0:02:35.64,Default,,0,0,0,,この あたしが声かけてんのよ
-Dialogue: 0,0:02:35.77,0:02:38.73,Default,,0,0,0,,ちったぁ\Nうれしそうな顔しなさいよ
-Dialogue: 0,0:02:39.11,0:02:41.65,Default,,0,0,0,,で ここにいるんでしょ？\Nもう１人
-Dialogue: 0,0:02:41.78,0:02:42.61,Default,,0,0,0,,（シンジ）誰が？
-Dialogue: 0,0:02:43.36,0:02:44.57,Default,,0,0,0,,（アスカ）あんたバカ？
-Dialogue: 0,0:02:44.70,0:02:46.41,Default,,0,0,0,,ファーストチルドレンに\N決まってるじゃない
-Dialogue: 0,0:02:47.07,0:02:49.53,Default,,0,0,0,,（シンジ）ああ 綾波(あやなみ)なら…
-Dialogue: 0,0:02:53.54,0:02:55.33,Default,,0,0,0,,（近づく足音）
-Dialogue: 0,0:02:57.58,0:02:58.71,Default,,0,0,0,,（足音）
-Dialogue: 0,0:02:58.83,0:03:00.25,Default,,0,0,0,,（アスカ）ハロー！
-Dialogue: 0,0:03:00.84,0:03:04.13,Default,,0,0,0,,あなたが綾波レイね\Nプロトタイプのパイロット
-Dialogue: 0,0:03:06.68,0:03:08.89,Default,,0,0,0,,あたし アスカ\N惣流･アスカ･ラングレー
-Dialogue: 0,0:03:09.60,0:03:12.22,Default,,0,0,0,,エヴァ弐(に)号機のパイロット\N仲よくしましょ
-Dialogue: 0,0:03:12.93,0:03:13.77,Default,,0,0,0,,（レイ）どうして？
-Dialogue: 0,0:03:14.39,0:03:17.19,Default,,0,0,0,,そのほうが都合がいいからよ\Nいろいろとね
-Dialogue: 0,0:03:17.98,0:03:19.31,Default,,0,0,0,,命令があれば そうするわ
-Dialogue: 0,0:03:20.27,0:03:21.19,Default,,0,0,0,,変わった子ね
-Dialogue: 0,0:03:21.69,0:03:23.94,Default,,0,0,0,,（トウジ）\Nほんま エヴァのパイロットって
-Dialogue: 0,0:03:24.07,0:03:25.78,Default,,0,0,0,,変わり者(もん)が選ばれるんちゃうか？
-Dialogue: 0,0:03:31.41,0:03:34.83,Default,,0,0,0,,（キーボードを叩く音）\N（足音）
-Dialogue: 0,0:03:34.95,0:03:35.79,Default,,0,0,0,,（リツコ）あっ
-Dialogue: 0,0:03:35.91,0:03:37.71,Default,,0,0,0,,（加持(かじ)）少し痩せたかな？\N（リツコ）そう？
-Dialogue: 0,0:03:38.42,0:03:40.21,Default,,0,0,0,,（加持）悲しい恋をしてるからだ
-Dialogue: 0,0:03:40.33,0:03:43.75,Default,,0,0,0,,どうして そんなことが分かるの？
-Dialogue: 0,0:03:45.59,0:03:46.47,Default,,0,0,0,,それはね
-Dialogue: 0,0:03:46.59,0:03:48.93,Default,,0,0,0,,涙の通り道にホクロのある人は
-Dialogue: 0,0:03:49.05,0:03:51.55,Default,,0,0,0,,一生 泣き続ける運命に\Nあるからだよ
-Dialogue: 0,0:03:51.68,0:03:53.10,Default,,0,0,0,,これから口説くつもり？
-Dialogue: 0,0:03:53.22,0:03:54.06,Default,,0,0,0,,でも ダメよ
-Dialogue: 0,0:03:54.72,0:03:57.43,Default,,0,0,0,,怖〜い お姉さんが見ているわ
-Dialogue: 0,0:03:58.23,0:03:59.65,Default,,0,0,0,,（ミサト）はぁ〜
-Dialogue: 0,0:04:00.98,0:04:02.52,Default,,0,0,0,,お久しぶり 加持君
-Dialogue: 0,0:04:02.98,0:04:04.48,Default,,0,0,0,,やっ しばらく
-Dialogue: 0,0:04:04.61,0:04:06.53,Default,,0,0,0,,しかし加持君も意外と うかつね
-Dialogue: 0,0:04:06.53,0:04:07.40,Default,,0,0,0,,しかし加持君も意外と うかつね
-Dialogue: 0,0:04:06.53,0:04:07.40,Default,,0,0,0,,（ドアが開く音）
-Dialogue: 0,0:04:07.40,0:04:07.53,Default,,0,0,0,,（ドアが開く音）
-Dialogue: 0,0:04:07.53,0:04:07.99,Default,,0,0,0,,（ドアが開く音）
-Dialogue: 0,0:04:07.53,0:04:07.99,Default,,0,0,0,,（ミサト）\Nこいつのバカは 相変わらずなのよ
-Dialogue: 0,0:04:07.99,0:04:09.99,Default,,0,0,0,,（ミサト）\Nこいつのバカは 相変わらずなのよ
-Dialogue: 0,0:04:10.11,0:04:11.95,Default,,0,0,0,,あんた 弐号機の\N引き渡し済んだんなら
-Dialogue: 0,0:04:12.07,0:04:13.28,Default,,0,0,0,,さっさと帰りなさいよ！
-Dialogue: 0,0:04:13.95,0:04:17.66,Default,,0,0,0,,（加持）\N今朝 出向の辞令が届いてね\Nここに居続けだよ
-Dialogue: 0,0:04:17.79,0:04:20.50,Default,,0,0,0,,また３人で つるめるな\N昔みたいに
-Dialogue: 0,0:04:21.13,0:04:22.58,Default,,0,0,0,,誰が あんたなんかと！
-Dialogue: 0,0:04:22.58,0:04:22.92,Default,,0,0,0,,誰が あんたなんかと！
-Dialogue: 0,0:04:22.58,0:04:22.92,Default,,0,0,0,,（警告音）
-Dialogue: 0,0:04:22.92,0:04:23.04,Default,,0,0,0,,（警告音）
-Dialogue: 0,0:04:23.04,0:04:25.38,Default,,0,0,0,,（警告音）
-Dialogue: 0,0:04:23.04,0:04:25.38,Default,,0,0,0,,ハッ！　敵襲!?
-Dialogue: 0,0:04:25.80,0:04:28.42,Default,,0,0,0,,（青(あお)葉(ば)）\N警戒中の巡洋艦\N“はるな”より入電
-Dialogue: 0,0:04:28.55,0:04:31.34,Default,,0,0,0,,“我 紀伊(きい)半島沖にて\N巨大な潜航物体を発見”
-Dialogue: 0,0:04:31.47,0:04:32.30,Default,,0,0,0,,“データ送る”
-Dialogue: 0,0:04:32.93,0:04:34.18,Default,,0,0,0,,（日向(ひゅうが)）受信データを照合
-Dialogue: 0,0:04:35.01,0:04:36.85,Default,,0,0,0,,波長パターン青 使徒(しと)と確認
-Dialogue: 0,0:04:37.31,0:04:39.27,Default,,0,0,0,,（冬月(ふゆつき)）総員 第１種戦闘配置
+Dialogue: 0,0:02:33.52,0:02:33.93,Default,,0,0,0,,Tôi đây đang bắt chuyện với cậu đó
+Dialogue: 0,0:02:33.93,0:02:35.64,Default,,0,0,0,,Tôi đây đang bắt chuyện với cậu đó
+Dialogue: 0,0:02:35.77,0:02:38.73,Default,,0,0,0,,Ít ra thì cũng làm vẻ mặt vui lên đi chứ
+Dialogue: 0,0:02:39.11,0:02:41.65,Default,,0,0,0,,Với lại, còn một người ở đây nữa phải không?
+Dialogue: 0,0:02:41.78,0:02:42.61,Default,,0,0,0,,Ai cơ?
+Dialogue: 0,0:02:43.36,0:02:44.57,Default,,0,0,0,,Cưng bị ngốc à?
+Dialogue: 0,0:02:44.70,0:02:46.41,Default,,0,0,0,,Đương nhiên là Đứa trẻ thứ nhất rồi!
+Dialogue: 0,0:02:47.07,0:02:49.53,Default,,0,0,0,,À nếu là Ayanami thì...
+Dialogue: 0,0:02:53.54,0:02:55.33,Default,,0,0,0,,
+Dialogue: 0,0:02:57.58,0:02:58.71,Default,,0,0,0,,
+Dialogue: 0,0:02:58.83,0:03:00.25,Default,,0,0,0,,Há lô!
+Dialogue: 0,0:03:00.84,0:03:04.13,Default,,0,0,0,,Cô là Ayanami Rei nhỉ? Phi công của Prototype
+Dialogue: 0,0:03:06.68,0:03:08.89,Default,,0,0,0,,Tôi là Sōryū Asuka Langley
+Dialogue: 0,0:03:09.60,0:03:12.22,Default,,0,0,0,,Phi công của Eva Unit-02. Hãy thân với nhau hơn
+Dialogue: 0,0:03:12.93,0:03:13.77,Default,,0,0,0,,Tại sao?
+Dialogue: 0,0:03:14.39,0:03:17.19,Default,,0,0,0,,Tại thế thì tiện hơn cho nhiều chuyện mà.
+Dialogue: 0,0:03:17.98,0:03:19.31,Default,,0,0,0,,Nếu có mệnh lệnh thì tôi sẽ làm thế
+Dialogue: 0,0:03:20.27,0:03:21.19,Default,,0,0,0,,Con bé này lạ nhỉ
+Dialogue: 0,0:03:21.69,0:03:23.94,Default,,0,0,0,,Thiệc tình, phi công Eva được tuyển chọn
+Dialogue: 0,0:03:24.07,0:03:25.78,Default,,0,0,0,,toàn mấy đứa kì cục hong ha?
+Dialogue: 0,0:03:31.41,0:03:34.83,Default,,0,0,0,,
+Dialogue: 0,0:03:34.95,0:03:35.79,Default,,0,0,0,,Ơ
+Dialogue: 0,0:03:35.91,0:03:37.71,Default,,0,0,0,,Em ốm đi chút rồi nhỉ?\N Vậy sao?
+Dialogue: 0,0:03:38.42,0:03:40.21,Default,,0,0,0,,Tại em đang trong một mối tình sầu bi đấy
+Dialogue: 0,0:03:40.33,0:03:43.75,Default,,0,0,0,,Sao anh biết những điều đó được?
+Dialogue: 0,0:03:45.59,0:03:46.47,Default,,0,0,0,,Là vì
+Dialogue: 0,0:03:46.59,0:03:48.93,Default,,0,0,0,,Những cô gái có nốt ruồi lệ thường bạc phận
+Dialogue: 0,0:03:49.05,0:03:51.55,Default,,0,0,0,,phải rơi nước mắt cả đời đó em
+Dialogue: 0,0:03:51.68,0:03:53.10,Default,,0,0,0,,Anh đang định cua em đấy à?
+Dialogue: 0,0:03:53.22,0:03:54.06,Default,,0,0,0,,Nhưng không được đâu
+Dialogue: 0,0:03:54.72,0:03:57.43,Default,,0,0,0,,Sợ quá cơ~ Có bà chị đang dòm kìa
+Dialogue: 0,0:03:58.23,0:03:59.65,Default,,0,0,0,,Hừ...
+Dialogue: 0,0:04:00.98,0:04:02.52,Default,,0,0,0,,Lâu không gặp, anh Kaji
+Dialogue: 0,0:04:02.98,0:04:04.48,Default,,0,0,0,,Ừ, lâu rồi nhỉ
+Dialogue: 0,0:04:04.61,0:04:06.53,Default,,0,0,0,,Nhưng không ngờ anh Kaji bất cẩn quá đấy
+Dialogue: 0,0:04:06.53,0:04:07.40,Default,,0,0,0,,Nhưng không ngờ anh Kaji bất cẩn quá đấy
+Dialogue: 0,0:04:06.53,0:04:07.40,Default,,0,0,0,,
+Dialogue: 0,0:04:07.40,0:04:07.53,Default,,0,0,0,,
+Dialogue: 0,0:04:07.53,0:04:07.99,Default,,0,0,0,,
+Dialogue: 0,0:04:07.53,0:04:07.99,Default,,0,0,0,,Gã ngốc này vẫn chứng nào tật nấy!
+Dialogue: 0,0:04:07.99,0:04:09.99,Default,,0,0,0,,Gã ngốc này vẫn chứng nào tật nấy!
+Dialogue: 0,0:04:10.11,0:04:11.95,Default,,0,0,0,,Anh đã bàn giao xong Unit-02 rồi thì
+Dialogue: 0,0:04:12.07,0:04:13.28,Default,,0,0,0,,mau chóng đi về đi!
+Dialogue: 0,0:04:13.95,0:04:17.66,Default,,0,0,0,,Sáng nay tôi được phái đi công tác đấy, tôi sẽ tiếp tục ở đây
+Dialogue: 0,0:04:17.79,0:04:20.50,Default,,0,0,0,,Ba chúng ta lại bên nhau như ngày xưa
+Dialogue: 0,0:04:21.13,0:04:22.58,Default,,0,0,0,,Ai mà đi với anh chứ!
+Dialogue: 0,0:04:22.58,0:04:22.92,Default,,0,0,0,,Ai mà đi với anh chứ!
+Dialogue: 0,0:04:22.58,0:04:22.92,Default,,0,0,0,,
+Dialogue: 0,0:04:22.92,0:04:23.04,Default,,0,0,0,,
+Dialogue: 0,0:04:23.04,0:04:25.38,Default,,0,0,0,,
+Dialogue: 0,0:04:23.04,0:04:25.38,Default,,0,0,0,,Hả? Địch tấn công?
+Dialogue: 0,0:04:25.80,0:04:28.42,Default,,0,0,0,,Có điện báo từ tuần dương hạm ‘Haruna’ đang cảnh giới
+Dialogue: 0,0:04:28.55,0:04:31.34,Default,,0,0,0,,"Chúng tôi phát hiện một vật thể lặn khổng lồ ở bán đảo Kii
+Dialogue: 0,0:04:31.47,0:04:32.30,Default,,0,0,0,,"Gửi dữ liệu"
+Dialogue: 0,0:04:32.93,0:04:34.18,Default,,0,0,0,,Chiếu lên dữ liệu vừa nhận được
+Dialogue: 0,0:04:35.01,0:04:36.85,Default,,0,0,0,,Dạng bước sóng màu xanh. Xác định là Angel
+Dialogue: 0,0:04:37.31,0:04:39.27,Default,,0,0,0,,Toàn bộ tập hợp, vào vị trí chiến đấu
 Dialogue: 0,0:04:39.39,0:04:44.77,Default,,0,0,0,,♪
 Dialogue: 0,0:04:44.77,0:04:46.32,Default,,0,0,0,,♪
-Dialogue: 0,0:04:44.77,0:04:46.32,Default,,0,0,0,,（ミサト）先の戦闘によって
-Dialogue: 0,0:04:46.44,0:04:50.20,Default,,0,0,0,,第３新東京(しんとうきょう)市の迎撃システムは\N大きなダメージを受け
-Dialogue: 0,0:04:50.32,0:04:52.82,Default,,0,0,0,,現在までの復旧率は26パーセント
-Dialogue: 0,0:04:53.37,0:04:56.24,Default,,0,0,0,,実戦における稼働率は\Nゼロと言っていいわ
-Dialogue: 0,0:04:56.83,0:04:57.91,Default,,0,0,0,,したがって今回は
-Dialogue: 0,0:04:58.62,0:05:01.58,Default,,0,0,0,,上陸直前の目標を水際で一気に叩く
-Dialogue: 0,0:05:02.33,0:05:06.17,Default,,0,0,0,,初号機ならびに弐号機は\N交互に目標に対し波状攻撃
-Dialogue: 0,0:05:06.30,0:05:07.55,Default,,0,0,0,,近接戦闘でいくわよ
-Dialogue: 0,0:05:07.67,0:05:08.51,Default,,0,0,0,,（アスカ･シンジ）\N了解
-Dialogue: 0,0:05:08.92,0:05:11.97,Default,,0,0,0,,あーあ　日本での\Nデビュー戦だっていうのに
-Dialogue: 0,0:05:12.09,0:05:15.18,Default,,0,0,0,,どぉして\N私 一人に任せてくれないの？
-Dialogue: 0,0:05:15.51,0:05:18.18,Default,,0,0,0,,（シンジ）\Nしかたないよ 作戦なんだから
-Dialogue: 0,0:05:18.31,0:05:19.89,Default,,0,0,0,,言っとくけど くれぐれも
-Dialogue: 0,0:05:20.02,0:05:22.23,Default,,0,0,0,,足手まといになるようなことは\Nしないでね！
-Dialogue: 0,0:05:22.35,0:05:23.19,Default,,0,0,0,,（シンジ）\Nう… うん
-Dialogue: 0,0:05:24.23,0:05:26.65,Default,,0,0,0,,なーんで あんなのが\Nパイロットに選ばれたの？
-Dialogue: 0,0:05:40.04,0:05:42.58,Default,,0,0,0,,２人がかりなんて\Nひきょうで やだな
-Dialogue: 0,0:05:42.71,0:05:43.92,Default,,0,0,0,,趣味じゃない
-Dialogue: 0,0:05:44.63,0:05:46.75,Default,,0,0,0,,（ミサト）\N私たちは 選ぶ余裕なんてないのよ
-Dialogue: 0,0:05:47.38,0:05:49.21,Default,,0,0,0,,生き残るための手段をね
-Dialogue: 0,0:05:52.01,0:05:53.18,Default,,0,0,0,,（シンジ）あっ 来た！
-Dialogue: 0,0:06:00.06,0:06:00.93,Default,,0,0,0,,攻撃開始！
-Dialogue: 0,0:06:01.68,0:06:03.81,Default,,0,0,0,,じゃ あたしから行くわ\N援護してね！
-Dialogue: 0,0:06:04.10,0:06:05.27,Default,,0,0,0,,え… 援護？
-Dialogue: 0,0:06:05.40,0:06:06.81,Default,,0,0,0,,（アスカ）\Nレディーファーストよ！
-Dialogue: 0,0:06:06.94,0:06:09.48,Default,,0,0,0,,チェッ あとから来たくせに\N仕切んなよな
-Dialogue: 0,0:06:15.03,0:06:16.24,Default,,0,0,0,,（アスカ）いける！\N（シンジ）ええっ？
-Dialogue: 0,0:06:23.87,0:06:25.37,Default,,0,0,0,,うわぁぁー！
-Dialogue: 0,0:06:29.59,0:06:30.42,Default,,0,0,0,,お見事
-Dialogue: 0,0:06:33.63,0:06:35.63,Default,,0,0,0,,どう？　サードチルドレン
-Dialogue: 0,0:06:35.93,0:06:38.35,Default,,0,0,0,,戦いは常にムダなく美しくよ！
-Dialogue: 0,0:06:40.51,0:06:41.77,Default,,0,0,0,,（シンジ）あっ\N（アスカ）ハッ！
+Dialogue: 0,0:04:44.77,0:04:46.32,Default,,0,0,0,,Do cuộc chiến lần trước
+Dialogue: 0,0:04:46.44,0:04:50.20,Default,,0,0,0,,Hệ thống đánh chặn của Thành phố Tokyo-3 đã chịu thiệt hại lớn
+Dialogue: 0,0:04:50.32,0:04:52.82,Default,,0,0,0,,Đến bây giờ, tỉ lệ hồi phục là 26%
+Dialogue: 0,0:04:53.37,0:04:56.24,Default,,0,0,0,,Trong thực chiến, tỉ lệ vận hành cứ cho bằng 0 cũng được
+Dialogue: 0,0:04:56.83,0:04:57.91,Default,,0,0,0,,Thế nhưng lần này thì ta sẽ
+Dialogue: 0,0:04:58.62,0:05:01.58,Default,,0,0,0,,đánh phủ đầu mục tiêu ở ven bờ ngay trước khi chúng đổ bộ
+Dialogue: 0,0:05:02.33,0:05:06.17,Default,,0,0,0,,Unit-01 sẽ thay phiên với Unit-02 tấn công từng đợt vào mục tiêu
+Dialogue: 0,0:05:06.30,0:05:07.55,Default,,0,0,0,,Ta sẽ đấu cận chiến
+Dialogue: 0,0:05:07.67,0:05:08.51,Default,,0,0,0,,Đã rõ
+Dialogue: 0,0:05:08.92,0:05:11.97,Default,,0,0,0,,Haizz... đây là lần đấu debut của tôi mà...
+Dialogue: 0,0:05:12.09,0:05:15.18,Default,,0,0,0,,Sao lại không giao cho một mình tôi chứ?
+Dialogue: 0,0:05:15.51,0:05:18.18,Default,,0,0,0,,Cũng phải chịu thôi, vì chiến lược mà
+Dialogue: 0,0:05:18.31,0:05:19.89,Default,,0,0,0,,Nói trước nha!
+Dialogue: 0,0:05:20.02,0:05:22.23,Default,,0,0,0,,Tôi rất mong cậu đừng gây cản trở nhá!
+Dialogue: 0,0:05:22.35,0:05:23.19,Default,,0,0,0,,Ừ... ừm
+Dialogue: 0,0:05:24.23,0:05:26.65,Default,,0,0,0,,Như thế mà sao lại được chọn làm phi công chứ
+Dialogue: 0,0:05:40.04,0:05:42.58,Default,,0,0,0,,Hai chọi một thật hèn hạ, chán quá đi
+Dialogue: 0,0:05:42.71,0:05:43.92,Default,,0,0,0,,Chẳng hay gì cả
+Dialogue: 0,0:05:44.63,0:05:46.75,Default,,0,0,0,,Chúng ta không dư hơi để kén chọn đâu
+Dialogue: 0,0:05:47.38,0:05:49.21,Default,,0,0,0,,Là cách để sống sót đó
+Dialogue: 0,0:05:52.01,0:05:53.18,Default,,0,0,0,,A! Đến rồi!
+Dialogue: 0,0:06:00.06,0:06:00.93,Default,,0,0,0,,Bắt đầu tấn công!
+Dialogue: 0,0:06:01.68,0:06:03.81,Default,,0,0,0,,Tôi đi trước nhé, cậu hỗ trợ tôi!
+Dialogue: 0,0:06:04.10,0:06:05.27,Default,,0,0,0,,Ơ... Hỗ trợ?
+Dialogue: 0,0:06:05.40,0:06:06.81,Default,,0,0,0,,Ladies first mà!
+Dialogue: 0,0:06:06.94,0:06:09.48,Default,,0,0,0,,Hứ! Mới tới mà bày đặt chỉ huy
+Dialogue: 0,0:06:15.03,0:06:16.24,Default,,0,0,0,,Tiến lên! \NHả?
+Dialogue: 0,0:06:23.87,0:06:25.37,Default,,0,0,0,,
+Dialogue: 0,0:06:29.59,0:06:30.42,Default,,0,0,0,,Tuyệt quá!
+Dialogue: 0,0:06:33.63,0:06:35.63,Default,,0,0,0,,Sao? Đứa trẻ thứ ba
+Dialogue: 0,0:06:35.93,0:06:38.35,Default,,0,0,0,,Chiến đấu là phải luôn gọn lẹ, đẹp đẽ!
+Dialogue: 0,0:06:40.51,0:06:41.77,Default,,0,0,0,,Ơ?
 Dialogue: 0,0:06:45.69,0:06:50.82,Default,,0,0,0,,♪
 Dialogue: 0,0:06:50.82,0:06:52.69,Default,,0,0,0,,♪
-Dialogue: 0,0:06:50.82,0:06:52.69,Default,,0,0,0,,なんてインチキ！
-Dialogue: 0,0:06:52.69,0:06:52.86,Default,,0,0,0,,なんてインチキ！
-Dialogue: 0,0:06:53.78,0:06:58.03,Default,,0,0,0,,（プロジェクターの作動音）
-Dialogue: 0,0:06:58.16,0:07:01.03,Default,,0,0,0,,（マヤ）\N本日 午前10時58分15秒
-Dialogue: 0,0:07:01.16,0:07:02.37,Default,,0,0,0,,２体に分離した目標—
-Dialogue: 0,0:07:02.49,0:07:04.29,Default,,0,0,0,,甲(こう)の攻撃を受けた\N初号機は
-Dialogue: 0,0:07:04.62,0:07:07.25,Default,,0,0,0,,駿(する)河(が)湾沖合２キロの\N海上に水没
-Dialogue: 0,0:07:07.79,0:07:09.38,Default,,0,0,0,,同20秒 弐号機は
-Dialogue: 0,0:07:09.50,0:07:11.96,Default,,0,0,0,,目標 乙(おつ)の攻撃により\N活動停止
-Dialogue: 0,0:07:12.25,0:07:15.30,Default,,0,0,0,,この状況に対する\NＥ計画責任者のコメント
-Dialogue: 0,0:07:15.42,0:07:16.38,Default,,0,0,0,,（リツコ）\Nブザマね
-Dialogue: 0,0:07:16.51,0:07:19.26,Default,,0,0,0,,（アスカ）\Nもぉ！　あんたのせいで\Nせっかくのデビュー戦が
-Dialogue: 0,0:07:19.39,0:07:20.68,Default,,0,0,0,,メチャメチャに\Nなっちゃったじゃない！
-Dialogue: 0,0:07:20.85,0:07:21.97,Default,,0,0,0,,（シンジ）\N何 言ってんだよ
-Dialogue: 0,0:07:22.14,0:07:24.64,Default,,0,0,0,,惣流がマヌケなこと\Nしただけじゃないか！
-Dialogue: 0,0:07:24.77,0:07:25.98,Default,,0,0,0,,（アスカ）マヌケェ!?
-Dialogue: 0,0:07:26.10,0:07:28.19,Default,,0,0,0,,どうしてグズのあんたが\Nそんなこと言えるのよ！
-Dialogue: 0,0:07:28.31,0:07:29.40,Default,,0,0,0,,図々しいわねぇ
-Dialogue: 0,0:07:29.52,0:07:30.40,Default,,0,0,0,,（シンジ）何だよ！
-Dialogue: 0,0:07:30.52,0:07:31.65,Default,,0,0,0,,焦って倒そうとするから
-Dialogue: 0,0:07:31.77,0:07:33.03,Default,,0,0,0,,大変なことに\Nなるんだろ？
-Dialogue: 0,0:07:33.19,0:07:34.19,Default,,0,0,0,,何よ あれ！
-Dialogue: 0,0:07:34.32,0:07:34.82,Default,,0,0,0,,海ん中でドザエモン\Nみたいに　ダサ〜
-Dialogue: 0,0:07:34.82,0:07:36.57,Default,,0,0,0,,海ん中でドザエモン\Nみたいに　ダサ〜\N（マヤ）\N午前11時３分をもって
-Dialogue: 0,0:07:36.57,0:07:36.65,Default,,0,0,0,,（マヤ）\N午前11時３分をもって
-Dialogue: 0,0:07:36.78,0:07:39.07,Default,,0,0,0,,ネルフは\N作戦遂行を断念\N（シンジ）\N自分だって 人のこと\N言えないくせに！
-Dialogue: 0,0:07:39.07,0:07:39.49,Default,,0,0,0,,（シンジ）\N自分だって 人のこと\N言えないくせに！
-Dialogue: 0,0:07:39.78,0:07:42.37,Default,,0,0,0,,国連第２方面軍に\N指揮権を譲渡
-Dialogue: 0,0:07:42.87,0:07:45.12,Default,,0,0,0,,（冬月）\Nまったく 恥をかかせおって
-Dialogue: 0,0:07:45.25,0:07:46.08,Default,,0,0,0,,（マヤ）\N同05分
-Dialogue: 0,0:07:46.37,0:07:48.83,Default,,0,0,0,,Ｎ２(エヌツー) 爆雷により目標を攻撃
-Dialogue: 0,0:07:49.79,0:07:52.50,Default,,0,0,0,,（冬月）\Nまた地図を書き直さなきゃならんな
-Dialogue: 0,0:07:52.67,0:07:55.17,Default,,0,0,0,,（マヤ）\N構成物質の28パーセントを\N焼却に成功
-Dialogue: 0,0:07:55.55,0:07:57.17,Default,,0,0,0,,（アスカ）やったの？\N（冬月）足止めにすぎん
-Dialogue: 0,0:07:57.30,0:07:59.01,Default,,0,0,0,,（冬月）再度侵攻は時間の問題だ
-Dialogue: 0,0:07:59.68,0:08:02.05,Default,,0,0,0,,（加持）\Nまっ\N建て直しの時間が稼げただけでも
-Dialogue: 0,0:08:02.18,0:08:03.51,Default,,0,0,0,,もうけものっすよ
-Dialogue: 0,0:08:03.64,0:08:04.72,Default,,0,0,0,,（冬月）いいか 君たち
-Dialogue: 0,0:08:05.56,0:08:08.10,Default,,0,0,0,,君たちの仕事は何だか分かるか？
-Dialogue: 0,0:08:08.23,0:08:09.14,Default,,0,0,0,,（アスカ）エヴァの操縦
-Dialogue: 0,0:08:09.27,0:08:11.15,Default,,0,0,0,,（冬月）違う　使徒に勝つことだ
-Dialogue: 0,0:08:11.56,0:08:13.07,Default,,0,0,0,,こんな醜態をさらすために
-Dialogue: 0,0:08:13.19,0:08:15.53,Default,,0,0,0,,我々 ネルフは\N存在しているわけではない
-Dialogue: 0,0:08:15.65,0:08:17.78,Default,,0,0,0,,そのためには\N君たちが協力し合って…
-Dialogue: 0,0:08:17.90,0:08:19.70,Default,,0,0,0,,（２人）なんで こんなヤツと！
-Dialogue: 0,0:08:19.82,0:08:21.24,Default,,0,0,0,,（冬月）もういい
-Dialogue: 0,0:08:23.74,0:08:25.87,Default,,0,0,0,,どうして みんな すぐに怒るの？
-Dialogue: 0,0:08:25.99,0:08:28.41,Default,,0,0,0,,大人は恥をかきたくないのさ
-Dialogue: 0,0:08:28.54,0:08:30.83,Default,,0,0,0,,（シンジ）あの ミサトさんは？
-Dialogue: 0,0:08:31.12,0:08:32.13,Default,,0,0,0,,後片づけ
-Dialogue: 0,0:08:32.25,0:08:35.34,Default,,0,0,0,,責任者は\N責任 取るためにいるからな
+Dialogue: 0,0:06:50.82,0:06:52.69,Default,,0,0,0,,Ăn gian vậy má!
+Dialogue: 0,0:06:52.69,0:06:52.86,Default,,0,0,0,,Ăn gian vậy má!
+Dialogue: 0,0:06:53.78,0:06:58.03,Default,,0,0,0,,
+Dialogue: 0,0:06:58.16,0:07:01.03,Default,,0,0,0,,Hôm nay, lúc 10:58:15 sáng
+Dialogue: 0,0:07:01.16,0:07:02.37,Default,,0,0,0,,Unit- 01 bị tấn công
+Dialogue: 0,0:07:02.49,0:07:04.29,Default,,0,0,0,,bởi mục tiêu A vốn bị tách làm đôi
+Dialogue: 0,0:07:04.62,0:07:07.25,Default,,0,0,0,,Bị dìm xuống biển cách 2km ngoài khơi Vịnh Suraga
+Dialogue: 0,0:07:07.79,0:07:09.38,Default,,0,0,0,,Đúng 20 giây sau
+Dialogue: 0,0:07:09.50,0:07:11.96,Default,,0,0,0,,Unit-02 ngưng hoạt động do mục tiêu B tấn công
+Dialogue: 0,0:07:12.25,0:07:15.30,Default,,0,0,0,,Ý kiến của người phụ trách dự án E đối với tình huống này là:
+Dialogue: 0,0:07:15.42,0:07:16.38,Default,,0,0,0,,Thật thảm hại!
+Dialogue: 0,0:07:16.51,0:07:19.26,Default,,0,0,0,,Ôi trời! Tại cậu mà trận debut tâm huyết này của tôi
+Dialogue: 0,0:07:19.39,0:07:20.68,Default,,0,0,0,,tầy quầy rồi kìa!
+Dialogue: 0,0:07:20.85,0:07:21.97,Default,,0,0,0,,Nói gì đó!
+Dialogue: 0,0:07:22.14,0:07:24.64,Default,,0,0,0,,Là tại Sōryū làm ba cái trò ngốc ngếch đó chứ!
+Dialogue: 0,0:07:24.77,0:07:25.98,Default,,0,0,0,,Ngốc nghếch?
+Dialogue: 0,0:07:26.10,0:07:28.19,Default,,0,0,0,,Thằng đần như cậu mà dám nói thế sao hả?
+Dialogue: 0,0:07:28.31,0:07:29.40,Default,,0,0,0,,Cái đồ mặt dày
+Dialogue: 0,0:07:29.52,0:07:30.40,Default,,0,0,0,,Gì hả!
+Dialogue: 0,0:07:30.52,0:07:31.65,Default,,0,0,0,,Chẳng phải tại cậu cứ muốn đánh nhanh, thắng nhanh,
+Dialogue: 0,0:07:31.77,0:07:33.03,Default,,0,0,0,,nên mới nguy khốn vầy sao!
+Dialogue: 0,0:07:33.19,0:07:34.19,Default,,0,0,0,,Cái gì kia
+Dialogue: 0,0:07:34.32,0:07:34.82,Default,,0,0,0,,trông như con Doraemon trôi giữa biển, quê sệ!
+Dialogue: 0,0:07:34.82,0:07:36.57,Default,,0,0,0,,trông như con Doraemon trôi giữa biển, quê sệ!\N Tính đến 11:03 sáng,
+Dialogue: 0,0:07:36.57,0:07:36.65,Default,,0,0,0,,Tính đến 11:03 sáng,
+Dialogue: 0,0:07:36.78,0:07:39.07,Default,,0,0,0,,NERV đã ngừng chiến dịch\NBản thân cậu mà lại đi nói người khác!
+Dialogue: 0,0:07:39.07,0:07:39.49,Default,,0,0,0,,Bản thân cậu mà lại đi nói người khác!
+Dialogue: 0,0:07:39.78,0:07:42.37,Default,,0,0,0,,Trao quyền chỉ huy cho Tập đoàn quân số 2 của Liên Hiệp Quốc.
+Dialogue: 0,0:07:42.87,0:07:45.12,Default,,0,0,0,,Thật tình, quá là mất mặt!
+Dialogue: 0,0:07:45.25,0:07:46.08,Default,,0,0,0,,Đúng 5 phút sau
+Dialogue: 0,0:07:46.37,0:07:48.83,Default,,0,0,0,,Tập đoàn quân tấn công mục tiêu bằng mìn N2
+Dialogue: 0,0:07:49.79,0:07:52.50,Default,,0,0,0,,Lại phải vẽ lại bản đồ rồi
+Dialogue: 0,0:07:52.67,0:07:55.17,Default,,0,0,0,,thành công đốt cháy 28% vật chất cấu thành mục tiêu
+Dialogue: 0,0:07:55.55,0:07:57.17,Default,,0,0,0,,Ta thắng chứ? \NChỉ cầm chân được thôi
+Dialogue: 0,0:07:57.30,0:07:59.01,Default,,0,0,0,,Sẽ sớm tấn công lần nữa thôi
+Dialogue: 0,0:07:59.68,0:08:02.05,Default,,0,0,0,,Chà, chỉ cần câu thêm thời gian để phục hồi
+Dialogue: 0,0:08:02.18,0:08:03.51,Default,,0,0,0,,là cũng may rồi
+Dialogue: 0,0:08:03.64,0:08:04.72,Default,,0,0,0,,Được rồi, hai người
+Dialogue: 0,0:08:05.56,0:08:08.10,Default,,0,0,0,,Hai người có hiểu công việc mình là gì không?
+Dialogue: 0,0:08:08.23,0:08:09.14,Default,,0,0,0,,Điều khiển Eva
+Dialogue: 0,0:08:09.27,0:08:11.15,Default,,0,0,0,,Sai rồi, là đánh thắng Angel
+Dialogue: 0,0:08:11.56,0:08:13.07,Default,,0,0,0,,NERV chúng tồn tại không phải để
+Dialogue: 0,0:08:13.19,0:08:15.53,Default,,0,0,0,,chưng bộ dạng tệ hại như này!
+Dialogue: 0,0:08:15.65,0:08:17.78,Default,,0,0,0,,Vì lẽ đó, hai người phải phối hợp cùng nhau
+Dialogue: 0,0:08:17.90,0:08:19.70,Default,,0,0,0,,Sao lại là với nó!
+Dialogue: 0,0:08:19.82,0:08:21.24,Default,,0,0,0,,Quá đủ rồi
+Dialogue: 0,0:08:23.74,0:08:25.87,Default,,0,0,0,,Sao mọi người lại dễ nổi giận thế nhỉ?
+Dialogue: 0,0:08:25.99,0:08:28.41,Default,,0,0,0,,大人は恥をかきたくないのさ Người lớn không muốn bị muối mặt đâu
+Dialogue: 0,0:08:28.54,0:08:30.83,Default,,0,0,0,,À vậy, chị Misato sao rồi?
+Dialogue: 0,0:08:31.12,0:08:32.13,Default,,0,0,0,,Đang sắp xếp lại
+Dialogue: 0,0:08:32.25,0:08:35.34,Default,,0,0,0,,Người phụ trách là để chịu trách nhiệm mà.
 Dialogue: 0,0:08:35.88,0:08:36.71,Default,,0,0,0,,♪
 Dialogue: 0,0:08:36.71,0:08:39.72,Default,,0,0,0,,♪
-Dialogue: 0,0:08:36.71,0:08:39.72,Default,,0,0,0,,（リツコ）\N関係各省からの\N抗議文と被害報告書
+Dialogue: 0,0:08:36.71,0:08:39.72,Default,,0,0,0,,Thư khiếu nại và báo cáo thiệt hại từ các bên liên quan
 Dialogue: 0,0:08:39.72,0:08:39.84,Default,,0,0,0,,♪
 Dialogue: 0,0:08:39.84,0:08:42.47,Default,,0,0,0,,♪
-Dialogue: 0,0:08:39.84,0:08:42.47,Default,,0,0,0,,で これがＵＮ(ユーエヌ)からの請求書
+Dialogue: 0,0:08:39.84,0:08:42.47,Default,,0,0,0,,Còn đây là hóa đơn từ Liên Hợp Quốc
 Dialogue: 0,0:08:42.47,0:08:42.59,Default,,0,0,0,,♪
 Dialogue: 0,0:08:42.59,0:08:42.89,Default,,0,0,0,,♪
-Dialogue: 0,0:08:42.59,0:08:42.89,Default,,0,0,0,,広報部からの苦情もあるわよ
-Dialogue: 0,0:08:42.89,0:08:44.47,Default,,0,0,0,,広報部からの苦情もあるわよ
-Dialogue: 0,0:08:44.60,0:08:45.51,Default,,0,0,0,,（ミサト）はぁ〜
-Dialogue: 0,0:08:45.64,0:08:47.14,Default,,0,0,0,,（リツコ）\Nちゃんと 目 通しておいてね
-Dialogue: 0,0:08:47.27,0:08:49.60,Default,,0,0,0,,（ミサト）\N読まなくても分かってるわよ
-Dialogue: 0,0:08:49.73,0:08:52.23,Default,,0,0,0,,ケンカをするなら\Nここでやれって言うんでしょ
-Dialogue: 0,0:08:52.35,0:08:53.19,Default,,0,0,0,,（リツコ）ご明察
-Dialogue: 0,0:08:53.65,0:08:57.07,Default,,0,0,0,,（ミサト）\N言われなくったって\N使徒が片づけば ここでやるわよ
-Dialogue: 0,0:08:57.61,0:08:59.99,Default,,0,0,0,,使徒は必ず私が倒すわ
-Dialogue: 0,0:09:00.15,0:09:02.32,Default,,0,0,0,,（リツコ）副司令官はカンカンよ
-Dialogue: 0,0:09:02.45,0:09:05.45,Default,,0,0,0,,今度 恥かかせたら左遷ね\N間違いなく
-Dialogue: 0,0:09:06.41,0:09:07.70,Default,,0,0,0,,（ミサト）碇(いかり)司令が留守だったのは
-Dialogue: 0,0:09:07.83,0:09:09.79,Default,,0,0,0,,不幸中の幸いだったけどさ
-Dialogue: 0,0:09:09.91,0:09:13.00,Default,,0,0,0,,（リツコ）\Nいたら即刻クビよ\Nこれを見ることもなくね
-Dialogue: 0,0:09:13.42,0:09:17.17,Default,,0,0,0,,で 私の首がつながるアイデア\N持ってきてくれたんでしょ？
-Dialogue: 0,0:09:17.63,0:09:18.71,Default,,0,0,0,,１つだけね
-Dialogue: 0,0:09:19.30,0:09:20.97,Default,,0,0,0,,（ミサト）\Nさっすが 赤(あか)木(ぎ)リツコ博士
-Dialogue: 0,0:09:21.51,0:09:24.26,Default,,0,0,0,,持つべきものは心優しき旧友ねぇ
-Dialogue: 0,0:09:24.39,0:09:26.93,Default,,0,0,0,,残念ながら\N旧友のピンチを救うのは
-Dialogue: 0,0:09:27.06,0:09:27.89,Default,,0,0,0,,私じゃないわ
-Dialogue: 0,0:09:28.31,0:09:30.06,Default,,0,0,0,,このアイデアは加持君よ
-Dialogue: 0,0:09:30.64,0:09:32.10,Default,,0,0,0,,加持の？
-Dialogue: 0,0:09:36.15,0:09:39.03,Default,,0,0,0,,（セミの鳴き声）
-Dialogue: 0,0:09:45.74,0:09:47.24,Default,,0,0,0,,（シンジ）ただいまー
-Dialogue: 0,0:09:47.37,0:09:51.75,Default,,0,0,0,,って言ったって誰もいない… か
-Dialogue: 0,0:09:52.16,0:09:53.00,Default,,0,0,0,,なっ…
-Dialogue: 0,0:09:53.46,0:09:54.54,Default,,0,0,0,,何だ これ！
-Dialogue: 0,0:09:54.67,0:09:55.92,Default,,0,0,0,,（アスカ）失礼ね
-Dialogue: 0,0:09:56.17,0:09:57.79,Default,,0,0,0,,あたしの荷物よ
+Dialogue: 0,0:08:42.59,0:08:42.89,Default,,0,0,0,,Bộ Đối ngoại cũng khiếu nại luôn này
+Dialogue: 0,0:08:42.89,0:08:44.47,Default,,0,0,0,,Bộ Đối ngoại cũng khiếu nại luôn này
+Dialogue: 0,0:08:44.60,0:08:45.51,Default,,0,0,0,,Hmm...
+Dialogue: 0,0:08:45.64,0:08:47.14,Default,,0,0,0,,Nhìn qua trước cho kĩ nha
+Dialogue: 0,0:08:47.27,0:08:49.60,Default,,0,0,0,,Dù không đọc cũng biết mà
+Dialogue: 0,0:08:49.73,0:08:52.23,Default,,0,0,0,,Chắc lại ghi trong đó kiểu "Muốn đánh nhau thì sang đây đánh này"
+Dialogue: 0,0:08:52.35,0:08:53.19,Default,,0,0,0,,Chuẩn không cần chỉnh
+Dialogue: 0,0:08:53.65,0:08:57.07,Default,,0,0,0,,Chẳng cần họ phải nói, dọn dẹp xong lũ Angel tôi sang đó tẩn luôn
+Dialogue: 0,0:08:57.61,0:08:59.99,Default,,0,0,0,,Tôi chắc chắn sẽ đánh bại lũ Angel đó
+Dialogue: 0,0:09:00.15,0:09:02.32,Default,,0,0,0,,Phó chỉ huy đang điên tiết đấy
+Dialogue: 0,0:09:02.45,0:09:05.45,Default,,0,0,0,,Lần sau mà còn muối mặt ổng nữa là cho giáng chức cô luôn, chắc chắn
+Dialogue: 0,0:09:06.41,0:09:07.70,Default,,0,0,0,,Chỉ huy Ikari vắng mặt thì thật đúng là
+Dialogue: 0,0:09:07.83,0:09:09.79,Default,,0,0,0,,trong cái rủi có cái may mà ha
+Dialogue: 0,0:09:09.91,0:09:13.00,Default,,0,0,0,,Ổng ở đây là đuổi việc cô lập tức rồi, không có mà đọc mấy này đâu
+Dialogue: 0,0:09:13.42,0:09:17.17,Default,,0,0,0,,Vậy rồi, chị đem ý tưởng giải cứu tôi tới chưa?
+Dialogue: 0,0:09:17.63,0:09:18.71,Default,,0,0,0,,Chỉ có 1 thôi nhá
+Dialogue: 0,0:09:19.30,0:09:20.97,Default,,0,0,0,,Đúng là Tiến sĩ Akagi!
+Dialogue: 0,0:09:21.51,0:09:24.26,Default,,0,0,0,,Bạn cũ đúng là bạn chí cốt đó nha!
+Dialogue: 0,0:09:24.39,0:09:26.93,Default,,0,0,0,,Đáng tiếc thay, người cứu cô khỏi hoạn nạn
+Dialogue: 0,0:09:27.06,0:09:27.89,Default,,0,0,0,,Không phải tôi đâu
+Dialogue: 0,0:09:28.31,0:09:30.06,Default,,0,0,0,,Ý tưởng này là của Kaji đấy
+Dialogue: 0,0:09:30.64,0:09:32.10,Default,,0,0,0,,Của Kaji?
+Dialogue: 0,0:09:36.15,0:09:39.03,Default,,0,0,0,,
+Dialogue: 0,0:09:45.74,0:09:47.24,Default,,0,0,0,,Em về rồi!!
+Dialogue: 0,0:09:47.37,0:09:51.75,Default,,0,0,0,,Nói vậy chứ có ai ở nhà đâu...
+Dialogue: 0,0:09:52.16,0:09:53.00,Default,,0,0,0,,G-...
+Dialogue: 0,0:09:53.46,0:09:54.54,Default,,0,0,0,,Gì đây trời!
+Dialogue: 0,0:09:54.67,0:09:55.92,Default,,0,0,0,,Xin phép ha
+Dialogue: 0,0:09:56.17,0:09:57.79,Default,,0,0,0,,Hành lí của tôi đó
 Dialogue: 0,0:09:56.17,0:09:57.79,Default,,0,0,0,,♪
 Dialogue: 0,0:09:57.79,0:09:57.92,Default,,0,0,0,,♪
 Dialogue: 0,0:09:57.92,0:10:00.38,Default,,0,0,0,,♪
-Dialogue: 0,0:09:57.92,0:10:00.38,Default,,0,0,0,,な… なんで\N惣流がここにいるんだよ
+Dialogue: 0,0:09:57.92,0:10:00.38,Default,,0,0,0,,Sao Sōryū lại ở đây!?
 Dialogue: 0,0:10:00.38,0:10:01.88,Default,,0,0,0,,♪
 Dialogue: 0,0:10:01.88,0:10:03.05,Default,,0,0,0,,♪
-Dialogue: 0,0:10:01.88,0:10:03.05,Default,,0,0,0,,あんたこそ まだいたの？
+Dialogue: 0,0:10:01.88,0:10:03.05,Default,,0,0,0,,Cậu mà cũng còn ở đây cơ á?
 Dialogue: 0,0:10:03.05,0:10:03.18,Default,,0,0,0,,♪
-Dialogue: 0,0:10:03.38,0:10:05.26,Default,,0,0,0,,まだって… え？
-Dialogue: 0,0:10:05.97,0:10:07.60,Default,,0,0,0,,あんた 今日からお払い箱よ
-Dialogue: 0,0:10:08.10,0:10:09.35,Default,,0,0,0,,え？　あっ
-Dialogue: 0,0:10:09.47,0:10:11.60,Default,,0,0,0,,ミサトは あたしと暮らすの
-Dialogue: 0,0:10:11.73,0:10:15.60,Default,,0,0,0,,まぁ どっちが優秀かを考えれば\N当然の選択よね
-Dialogue: 0,0:10:15.73,0:10:17.77,Default,,0,0,0,,ホントは加持さんと一緒のほうが\Nいいんだけど
-Dialogue: 0,0:10:18.23,0:10:21.49,Default,,0,0,0,,しっかし どうして日本の部屋って\Nこう狭いのかしら
-Dialogue: 0,0:10:22.28,0:10:24.20,Default,,0,0,0,,荷物が半分も入らないじゃない
-Dialogue: 0,0:10:24.32,0:10:25.16,Default,,0,0,0,,（シンジ）あっ
-Dialogue: 0,0:10:25.36,0:10:27.07,Default,,0,0,0,,ああー！
-Dialogue: 0,0:10:27.53,0:10:30.12,Default,,0,0,0,,おまけに\Nどうして こう 日本人って
-Dialogue: 0,0:10:30.24,0:10:31.95,Default,,0,0,0,,危機感 足りないのかしら？
-Dialogue: 0,0:10:32.08,0:10:34.75,Default,,0,0,0,,よく こんな鍵のない部屋で\N暮らせるわね
-Dialogue: 0,0:10:34.87,0:10:35.71,Default,,0,0,0,,信じらんない
-Dialogue: 0,0:10:35.83,0:10:38.92,Default,,0,0,0,,日本人の心情は\N察しと思いやりだからよ
-Dialogue: 0,0:10:39.54,0:10:40.38,Default,,0,0,0,,（アスカ）ミサト\N（シンジ）ミサトさん
-Dialogue: 0,0:10:40.80,0:10:43.59,Default,,0,0,0,,おかえりなさーい\N早速 うまくやってるじゃない
-Dialogue: 0,0:10:44.01,0:10:45.01,Default,,0,0,0,,（アスカ）何が？\N（シンジ）何がですか？
-Dialogue: 0,0:10:45.30,0:10:46.72,Default,,0,0,0,,今度の作戦準備
-Dialogue: 0,0:10:47.26,0:10:48.51,Default,,0,0,0,,（２人）どうして？
+Dialogue: 0,0:10:03.38,0:10:05.26,Default,,0,0,0,,"Còn" là sao?
+Dialogue: 0,0:10:05.97,0:10:07.60,Default,,0,0,0,,Từ hôm nay ông sẽ bị đuổi cổ
+Dialogue: 0,0:10:08.10,0:10:09.35,Default,,0,0,0,,Hả?
+Dialogue: 0,0:10:09.47,0:10:11.60,Default,,0,0,0,,Misato sẽ sống với tôi
+Dialogue: 0,0:10:11.73,0:10:15.60,Default,,0,0,0,,Mà nếu nói ai ưu tú hơn thì đây là lựa chọn hiển nhiên rồi
+Dialogue: 0,0:10:15.73,0:10:17.77,Default,,0,0,0,,Thật sự sẽ tốt hơn nếu sống cùng anh Kaji ha
+Dialogue: 0,0:10:18.23,0:10:21.49,Default,,0,0,0,,Nhưng mà sao phòng ốc bên Nhật lại chật thế này
+Dialogue: 0,0:10:22.28,0:10:24.20,Default,,0,0,0,,Còn chưa đem vào được một nửa số hành lí cơ
+Dialogue: 0,0:10:24.32,0:10:25.16,Default,,0,0,0,,Ơ
+Dialogue: 0,0:10:25.36,0:10:27.07,Default,,0,0,0,,Á!!
+Dialogue: 0,0:10:27.53,0:10:30.12,Default,,0,0,0,,Đã thế, sao mà người Nhật
+Dialogue: 0,0:10:30.24,0:10:31.95,Default,,0,0,0,,chẳng biết quan ngại là gì ta
+Dialogue: 0,0:10:32.08,0:10:34.75,Default,,0,0,0,,Có thể sống trong căn phòng không chìa khóa vầy thật sao
+Dialogue: 0,0:10:34.87,0:10:35.71,Default,,0,0,0,,Không thể tin được
+Dialogue: 0,0:10:35.83,0:10:38.92,Default,,0,0,0,,Vì người Nhật sống biết quan tâm và thấu hiểu cho nhau đó
+Dialogue: 0,0:10:39.54,0:10:40.38,Default,,0,0,0,,Misato\NChị Misato
+Dialogue: 0,0:10:40.80,0:10:43.59,Default,,0,0,0,,Chị về rồi đây, ăn khớp với nhau nhanh đó
+Dialogue: 0,0:10:44.01,0:10:45.01,Default,,0,0,0,,Gì? \NGì cơ chứ?
+Dialogue: 0,0:10:45.30,0:10:46.72,Default,,0,0,0,,Chuẩn bị cho chiến dịch lần sau
+Dialogue: 0,0:10:47.26,0:10:48.51,Default,,0,0,0,,Tại sao?
 Dialogue: 0,0:10:48.64,0:10:49.30,Default,,0,0,0,,♪
 Dialogue: 0,0:10:49.30,0:10:51.60,Default,,0,0,0,,♪
-Dialogue: 0,0:10:49.30,0:10:51.60,Default,,0,0,0,,（ミサト）第７使徒の弱点は１つ！
+Dialogue: 0,0:10:49.30,0:10:51.60,Default,,0,0,0,,Nhược điểm của Angel thứ 7 chỉ có 1!
 Dialogue: 0,0:10:51.60,0:10:51.72,Default,,0,0,0,,♪
 Dialogue: 0,0:10:51.72,0:10:55.19,Default,,0,0,0,,♪
-Dialogue: 0,0:10:51.72,0:10:55.19,Default,,0,0,0,,分離中のコアに対する\N２点同時の荷重(かじゅう)攻撃
+Dialogue: 0,0:10:51.72,0:10:55.19,Default,,0,0,0,,Dồn lực tấn công vào 2 mảnh hạt nhân khi nó đang tách ra
 Dialogue: 0,0:10:55.19,0:10:55.31,Default,,0,0,0,,♪
 Dialogue: 0,0:10:55.31,0:10:55.64,Default,,0,0,0,,♪
-Dialogue: 0,0:10:55.31,0:10:55.64,Default,,0,0,0,,これしかないわ
-Dialogue: 0,0:10:55.64,0:10:56.14,Default,,0,0,0,,これしかないわ
-Dialogue: 0,0:10:57.48,0:10:58.90,Default,,0,0,0,,つまり—
-Dialogue: 0,0:10:59.02,0:11:01.78,Default,,0,0,0,,エヴァ ２体のタイミングを\N完璧に合わせた攻撃よ
-Dialogue: 0,0:11:02.32,0:11:06.49,Default,,0,0,0,,そのためには ２人の協調\N完璧なユニゾンが必要なの
-Dialogue: 0,0:11:06.91,0:11:08.37,Default,,0,0,0,,そ こ で
-Dialogue: 0,0:11:08.49,0:11:10.78,Default,,0,0,0,,あなたたちに これから\N一緒に暮らしてもらうわ
-Dialogue: 0,0:11:11.03,0:11:12.33,Default,,0,0,0,,（２人）えぇ〜！
-Dialogue: 0,0:11:13.20,0:11:14.45,Default,,0,0,0,,嫌よ！　昔から—
-Dialogue: 0,0:11:14.58,0:11:16.71,Default,,0,0,0,,“男女７歳にして同衾(どうきん)せず”\Nってね！
-Dialogue: 0,0:11:17.04,0:11:19.29,Default,,0,0,0,,使徒は現在 自己修復中
-Dialogue: 0,0:11:19.42,0:11:21.38,Default,,0,0,0,,第２波は６日後 時間がないの
-Dialogue: 0,0:11:21.71,0:11:24.26,Default,,0,0,0,,そんな ムチャなぁ
-Dialogue: 0,0:11:24.80,0:11:27.13,Default,,0,0,0,,そこで ムチャを可能にする方法
-Dialogue: 0,0:11:27.76,0:11:30.55,Default,,0,0,0,,２人の完璧なユニゾンを\Nマスターするため
-Dialogue: 0,0:11:30.68,0:11:32.89,Default,,0,0,0,,この曲に合わせた攻撃パターンを\N覚え込むのよ
-Dialogue: 0,0:11:33.52,0:11:36.31,Default,,0,0,0,,６日以内に １秒でも早く
-Dialogue: 0,0:11:36.43,0:11:37.85,Default,,0,0,0,,（シンジ）あ…
-Dialogue: 0,0:11:38.27,0:11:39.15,Default,,0,0,0,,（アスカ）ぷいっ！
-Dialogue: 0,0:11:47.15,0:11:49.82,Default,,0,0,0,,（トウジ）\Nしかし シンジのヤツ\Nどないしたんやろ？
-Dialogue: 0,0:11:49.95,0:11:52.33,Default,,0,0,0,,学校休んで もう３日か
-Dialogue: 0,0:11:56.12,0:11:57.33,Default,,0,0,0,,（トウジ）あれ？　委員長やんか
-Dialogue: 0,0:11:57.46,0:11:59.00,Default,,0,0,0,,（ヒカリ）３バカトリオの２人
-Dialogue: 0,0:11:59.12,0:12:01.17,Default,,0,0,0,,（トウジ）\Nなんで委員長が ここにおるんや？
-Dialogue: 0,0:12:01.29,0:12:02.71,Default,,0,0,0,,（ヒカリ）惣流さんのお見舞い
-Dialogue: 0,0:12:02.84,0:12:04.59,Default,,0,0,0,,あなたたちこそ どうして ここに？
-Dialogue: 0,0:12:04.71,0:12:06.76,Default,,0,0,0,,（ケンスケ）碇君のお見舞い
-Dialogue: 0,0:12:06.92,0:12:08.72,Default,,0,0,0,,（トウジ）\Nなんで ここで止まるんや？
-Dialogue: 0,0:12:06.92,0:12:08.72,Default,,0,0,0,,（ヒカリ）\Nなんで\Nここで止まるの？
-Dialogue: 0,0:12:09.72,0:12:11.30,Default,,0,0,0,,（玄関チャイム）
-Dialogue: 0,0:12:11.68,0:12:12.85,Default,,0,0,0,,（シンジ･アスカ）\Nはーい！
-Dialogue: 0,0:12:12.97,0:12:13.81,Default,,0,0,0,,（解錠音）
-Dialogue: 0,0:12:16.18,0:12:19.31,Default,,0,0,0,,（トウジ）\Nう… う… 裏切りもん！
-Dialogue: 0,0:12:19.44,0:12:21.40,Default,,0,0,0,,（ケンスケ）\Nまたしても\N今どきペアルック
-Dialogue: 0,0:12:21.90,0:12:23.57,Default,,0,0,0,,イヤ〜ンな感じ
-Dialogue: 0,0:12:24.15,0:12:25.32,Default,,0,0,0,,（シンジ･アスカ）\Nこ… これは
-Dialogue: 0,0:12:25.44,0:12:27.78,Default,,0,0,0,,日本人は\N形から入るものだって
-Dialogue: 0,0:12:27.90,0:12:29.49,Default,,0,0,0,,無理やりミサトさんが…
-Dialogue: 0,0:12:29.61,0:12:30.74,Default,,0,0,0,,（ヒカリ）う…
-Dialogue: 0,0:12:30.86,0:12:32.66,Default,,0,0,0,,不潔よ！　２人とも！
-Dialogue: 0,0:12:32.95,0:12:34.49,Default,,0,0,0,,（シンジ）ご… 誤解だよ！
-Dialogue: 0,0:12:32.95,0:12:34.49,Default,,0,0,0,,（アスカ）\Nご… 誤解だわ！
-Dialogue: 0,0:12:34.78,0:12:36.16,Default,,0,0,0,,（ヒカリ）\N５階も６階もないわ！
-Dialogue: 0,0:12:36.29,0:12:37.83,Default,,0,0,0,,（ミサト）\Nあらぁ いらっしゃい
-Dialogue: 0,0:12:38.04,0:12:38.91,Default,,0,0,0,,（ヒカリ）え？
-Dialogue: 0,0:12:39.25,0:12:41.54,Default,,0,0,0,,（トウジ）\Nこれはどういうことか\N説明してください
-Dialogue: 0,0:12:41.67,0:12:43.46,Default,,0,0,0,,（トウジたちの笑い声）
-Dialogue: 0,0:12:41.67,0:12:43.46,Default,,0,0,0,,♪（ぎこちない\Nテンポの音）
-Dialogue: 0,0:12:43.46,0:12:43.67,Default,,0,0,0,,♪（ぎこちない\Nテンポの音）
-Dialogue: 0,0:12:43.67,0:12:44.71,Default,,0,0,0,,♪（ぎこちない\Nテンポの音）
-Dialogue: 0,0:12:43.67,0:12:44.71,Default,,0,0,0,,（トウジ）そんならそうと
-Dialogue: 0,0:12:44.71,0:12:44.84,Default,,0,0,0,,♪（ぎこちない\Nテンポの音）
-Dialogue: 0,0:12:44.84,0:12:46.71,Default,,0,0,0,,♪（ぎこちない\Nテンポの音）
-Dialogue: 0,0:12:44.84,0:12:46.71,Default,,0,0,0,,はよ言うてくれたら よかったのに
-Dialogue: 0,0:12:46.71,0:12:46.84,Default,,0,0,0,,♪（ぎこちない\Nテンポの音）
-Dialogue: 0,0:12:46.84,0:12:48.67,Default,,0,0,0,,♪（ぎこちない\Nテンポの音）
-Dialogue: 0,0:12:46.84,0:12:48.67,Default,,0,0,0,,（ヒカリ）\Nで ユニゾンは\Nうまくいってるんですか？
-Dialogue: 0,0:12:48.67,0:12:49.38,Default,,0,0,0,,（ヒカリ）\Nで ユニゾンは\Nうまくいってるんですか？
-Dialogue: 0,0:12:49.51,0:12:52.18,Default,,0,0,0,,（ミサト）\Nそれは見てのとおりなのよ
-Dialogue: 0,0:12:53.30,0:12:53.39,Default,,0,0,0,,（ミサトたち）はぁ〜
-Dialogue: 0,0:12:53.39,0:12:54.89,Default,,0,0,0,,（ミサトたち）はぁ〜
-Dialogue: 0,0:12:53.39,0:12:54.89,Default,,0,0,0,,（ブザー）
-Dialogue: 0,0:12:55.01,0:12:55.85,Default,,0,0,0,,（ヒカリ）ハッ！
-Dialogue: 0,0:12:55.97,0:12:56.22,Default,,0,0,0,,♪（ぎこちない\Nテンポの音）
-Dialogue: 0,0:12:56.22,0:12:57.56,Default,,0,0,0,,♪（ぎこちない\Nテンポの音）
-Dialogue: 0,0:12:56.22,0:12:57.56,Default,,0,0,0,,（アスカ）当(あ)ったり前じゃない！
-Dialogue: 0,0:12:57.68,0:12:57.81,Default,,0,0,0,,このシンジに合わせて\Nレベル下げるなんて
-Dialogue: 0,0:12:57.81,0:12:59.48,Default,,0,0,0,,このシンジに合わせて\Nレベル下げるなんて
-Dialogue: 0,0:12:57.81,0:12:59.48,Default,,0,0,0,,（ブザー）
-Dialogue: 0,0:12:59.48,0:12:59.89,Default,,0,0,0,,このシンジに合わせて\Nレベル下げるなんて
-Dialogue: 0,0:13:00.02,0:13:01.27,Default,,0,0,0,,うまく いくわけないわ！
-Dialogue: 0,0:13:01.44,0:13:02.94,Default,,0,0,0,,どだい無理な話なのよ
-Dialogue: 0,0:13:03.90,0:13:05.11,Default,,0,0,0,,じゃあ やめとく？
-Dialogue: 0,0:13:06.32,0:13:07.90,Default,,0,0,0,,他に人 いないんでしょ？
-Dialogue: 0,0:13:09.53,0:13:10.78,Default,,0,0,0,,（ミサト）レイ\N（レイ）はい
-Dialogue: 0,0:13:10.95,0:13:12.11,Default,,0,0,0,,（ミサト）やってみて
-Dialogue: 0,0:13:12.24,0:13:13.20,Default,,0,0,0,,（レイ）はい
-Dialogue: 0,0:13:13.99,0:13:15.24,Default,,0,0,0,,あ…
-Dialogue: 0,0:13:17.83,0:13:19.75,Default,,0,0,0,,♪（テンポが合った音）
-Dialogue: 0,0:13:19.75,0:13:21.08,Default,,0,0,0,,♪（テンポが合った音）
-Dialogue: 0,0:13:19.75,0:13:21.08,Default,,0,0,0,,はぁ… ハッ
-Dialogue: 0,0:13:21.08,0:13:22.96,Default,,0,0,0,,♪（テンポが合った音）
-Dialogue: 0,0:13:22.96,0:13:24.42,Default,,0,0,0,,♪（テンポが合った音）
-Dialogue: 0,0:13:22.96,0:13:24.42,Default,,0,0,0,,（トウジたち）おぉ〜！
-Dialogue: 0,0:13:24.42,0:13:24.54,Default,,0,0,0,,♪（テンポが合った音）
-Dialogue: 0,0:13:24.54,0:13:24.83,Default,,0,0,0,,♪（テンポが合った音）
-Dialogue: 0,0:13:24.54,0:13:24.83,Default,,0,0,0,,（ミサト）\Nこれは作戦変更して\Nレイと組んだほうが いいかもね
-Dialogue: 0,0:13:24.83,0:13:27.67,Default,,0,0,0,,（ミサト）\Nこれは作戦変更して\Nレイと組んだほうが いいかもね
-Dialogue: 0,0:13:28.13,0:13:29.34,Default,,0,0,0,,え？
-Dialogue: 0,0:13:31.42,0:13:32.34,Default,,0,0,0,,ええっ？
-Dialogue: 0,0:13:33.30,0:13:35.47,Default,,0,0,0,,（アスカ）\Nもう嫌！　やってらんないわ！
-Dialogue: 0,0:13:35.60,0:13:36.43,Default,,0,0,0,,（シンジ）あっ
-Dialogue: 0,0:13:39.22,0:13:40.10,Default,,0,0,0,,（ヒカリ）アスカさん！
-Dialogue: 0,0:13:40.23,0:13:42.14,Default,,0,0,0,,（トウジ）鬼の目ぇにも涙や
-Dialogue: 0,0:13:42.27,0:13:45.27,Default,,0,0,0,,（ヒカリ）い〜か〜り〜くーん！
-Dialogue: 0,0:13:46.61,0:13:47.44,Default,,0,0,0,,あ…
-Dialogue: 0,0:13:47.57,0:13:49.11,Default,,0,0,0,,（ヒカリ）追いかけて！\N（シンジ）え？
-Dialogue: 0,0:13:50.03,0:13:53.03,Default,,0,0,0,,女の子 泣かせたのよ\N責任 取りなさいよ！
+Dialogue: 0,0:10:55.31,0:10:55.64,Default,,0,0,0,,Chỉ có vậy thôi
+Dialogue: 0,0:10:55.64,0:10:56.14,Default,,0,0,0,,Chỉ có vậy thôi
+Dialogue: 0,0:10:57.48,0:10:58.90,Default,,0,0,0,,Nói cách khác
+Dialogue: 0,0:10:59.02,0:11:01.78,Default,,0,0,0,,Đây là đòn tấn công mà 2 Eva phải căn thời gian khớp đến hoàn hảo
+Dialogue: 0,0:11:02.32,0:11:06.49,Default,,0,0,0,,Để được thế thì cả 2 phải phối hợp, cần phải đồng bộ hoàn toàn
+Dialogue: 0,0:11:06.91,0:11:08.37,Default,,0,0,0,,Chính - vì - vậy
+Dialogue: 0,0:11:08.49,0:11:10.78,Default,,0,0,0,,Từ giờ hai đứa phải sống cùng nhau đấy
+Dialogue: 0,0:11:11.03,0:11:12.33,Default,,0,0,0,,Hả!?
+Dialogue: 0,0:11:13.20,0:11:14.45,Default,,0,0,0,,Không chịu! Từ xưa đã có câu
+Dialogue: 0,0:11:14.58,0:11:16.71,Default,,0,0,0,,"Nam nữ thụ thụ bất thân" mà!
+Dialogue: 0,0:11:17.04,0:11:19.29,Default,,0,0,0,,Angel hiện đang tự hồi phục
+Dialogue: 0,0:11:19.42,0:11:21.38,Default,,0,0,0,,Sẽ tấn công lần 2 sau 6 ngày nữa, không còn thời gian đâu
+Dialogue: 0,0:11:21.71,0:11:24.26,Default,,0,0,0,,Không thể nào vậy được...
+Dialogue: 0,0:11:24.80,0:11:27.13,Default,,0,0,0,,Vậy nên, có cách để biến điều không thể thành có thể
+Dialogue: 0,0:11:27.76,0:11:30.55,Default,,0,0,0,,Ghi nhớ động tác tấn công khớp với bài nhạc này
+Dialogue: 0,0:11:30.68,0:11:32.89,Default,,0,0,0,,Để cho 2 người đạt được mức đồng bộ hoàn hảo đó
+Dialogue: 0,0:11:33.52,0:11:36.31,Default,,0,0,0,,Trong vòng 6 ngày, càng sớm càng tốt
+Dialogue: 0,0:11:36.43,0:11:37.85,Default,,0,0,0,,
+Dialogue: 0,0:11:38.27,0:11:39.15,Default,,0,0,0,,Hứ!
+Dialogue: 0,0:11:47.15,0:11:49.82,Default,,0,0,0,,Mà thằng Shinji đó bị gì vậy trời
+Dialogue: 0,0:11:49.95,0:11:52.33,Default,,0,0,0,,Nghỉ học được 3 ngày rồi đó
+Dialogue: 0,0:11:56.12,0:11:57.33,Default,,0,0,0,,Ơ, lớp trưởng kìa
+Dialogue: 0,0:11:57.46,0:11:59.00,Default,,0,0,0,,Hai người trong bộ ba ngốc nghếch?
+Dialogue: 0,0:11:59.12,0:12:01.17,Default,,0,0,0,,Sao mà lớp trưởng cũng ở đây vậy?
+Dialogue: 0,0:12:01.29,0:12:02.71,Default,,0,0,0,,Đến thăm Sōryū
+Dialogue: 0,0:12:02.84,0:12:04.59,Default,,0,0,0,,Sao các cậu cũng ở đây?
+Dialogue: 0,0:12:04.71,0:12:06.76,Default,,0,0,0,,Đến thăm Ikari
+Dialogue: 0,0:12:06.92,0:12:08.72,Default,,0,0,0,,Sao ngừng ở đây thế?\N Toji: Sao dừng ở đây zậy?
+Dialogue: 0,0:12:06.92,0:12:08.72,Default,,0,0,0,,
+Dialogue: 0,0:12:09.72,0:12:11.30,Default,,0,0,0,,
+Dialogue: 0,0:12:11.68,0:12:12.85,Default,,0,0,0,,Ra đây!
+Dialogue: 0,0:12:12.97,0:12:13.81,Default,,0,0,0,,
+Dialogue: 0,0:12:16.18,0:12:19.31,Default,,0,0,0,,Đồ phản bạn!
+Dialogue: 0,0:12:19.44,0:12:21.40,Default,,0,0,0,,Giờ lại tông xẹt tông nữa hả!
+Dialogue: 0,0:12:21.90,0:12:23.57,Default,,0,0,0,,Thấy ngượng quó đi ~
+Dialogue: 0,0:12:24.15,0:12:25.32,Default,,0,0,0,,Này là vì...
+Dialogue: 0,0:12:25.44,0:12:27.78,Default,,0,0,0,,Chị Misato ép! Nói là người Nhật quan trọng hình thức!
+Dialogue: 0,0:12:27.90,0:12:29.49,Default,,0,0,0,,Chị Misato ép! Nói là người Nhật quan trọng hình thức!
+Dialogue: 0,0:12:29.61,0:12:30.74,Default,,0,0,0,,
+Dialogue: 0,0:12:30.86,0:12:32.66,Default,,0,0,0,,Cả 2 tởm lợn quá!
+Dialogue: 0,0:12:32.95,0:12:34.49,Default,,0,0,0,,Hiểu lầm rồi!
+Dialogue: 0,0:12:32.95,0:12:34.49,Default,,0,0,0,,Hiểu lầm rồi!
+Dialogue: 0,0:12:34.78,0:12:36.16,Default,,0,0,0,,Không có hiểu lầm hiểu lộn gì hết á!
+Dialogue: 0,0:12:36.29,0:12:37.83,Default,,0,0,0,,Ơ này~ Chào các em
+Dialogue: 0,0:12:38.04,0:12:38.91,Default,,0,0,0,,Hả?
+Dialogue: 0,0:12:39.25,0:12:41.54,Default,,0,0,0,,Chị giải thích cho tụi như này là sao đi
+Dialogue: 0,0:12:41.67,0:12:43.46,Default,,0,0,0,,
+Dialogue: 0,0:12:41.67,0:12:43.46,Default,,0,0,0,,
+Dialogue: 0,0:12:43.46,0:12:43.67,Default,,0,0,0,,
+Dialogue: 0,0:12:43.67,0:12:44.71,Default,,0,0,0,,
+Dialogue: 0,0:12:43.67,0:12:44.71,Default,,0,0,0,,Phải mà nói sớm thì đỡ rồi
+Dialogue: 0,0:12:44.71,0:12:44.84,Default,,0,0,0,,
+Dialogue: 0,0:12:44.84,0:12:46.71,Default,,0,0,0,,
+Dialogue: 0,0:12:44.84,0:12:46.71,Default,,0,0,0,,Phải mà nói sớm thì đỡ rồi
+Dialogue: 0,0:12:46.71,0:12:46.84,Default,,0,0,0,,
+Dialogue: 0,0:12:46.84,0:12:48.67,Default,,0,0,0,,
+Dialogue: 0,0:12:46.84,0:12:48.67,Default,,0,0,0,,Vậy rốt cuộc đồng bộ được suôn sẻ chưa chị?
+Dialogue: 0,0:12:48.67,0:12:49.38,Default,,0,0,0,,Vậy rốt cuộc đồng bộ được suôn sẻ chưa chị?
+Dialogue: 0,0:12:49.51,0:12:52.18,Default,,0,0,0,,Cái đó thì như mấy em đang thấy thôi
+Dialogue: 0,0:12:53.30,0:12:53.39,Default,,0,0,0,,Hầyyy
+Dialogue: 0,0:12:53.39,0:12:54.89,Default,,0,0,0,,Hầyyy
+Dialogue: 0,0:12:53.39,0:12:54.89,Default,,0,0,0,,
+Dialogue: 0,0:12:55.01,0:12:55.85,Default,,0,0,0,,
+Dialogue: 0,0:12:55.97,0:12:56.22,Default,,0,0,0,,
+Dialogue: 0,0:12:56.22,0:12:57.56,Default,,0,0,0,,
+Dialogue: 0,0:12:56.22,0:12:57.56,Default,,0,0,0,,Quả nhiên rồi còn gì!
+Dialogue: 0,0:12:57.68,0:12:57.81,Default,,0,0,0,,Phải hạ level xuống để khớp với tên Shinji này
+Dialogue: 0,0:12:57.81,0:12:59.48,Default,,0,0,0,,Phải hạ level xuống để khớp với tên Shinji này
+Dialogue: 0,0:12:57.81,0:12:59.48,Default,,0,0,0,,
+Dialogue: 0,0:12:59.48,0:12:59.89,Default,,0,0,0,,Phải hạ level xuống để khớp với tên Shinji này
+Dialogue: 0,0:13:00.02,0:13:01.27,Default,,0,0,0,,Thì em không đời nào làm tốt được đâu
+Dialogue: 0,0:13:01.44,0:13:02.94,Default,,0,0,0,,Vốn dĩ đây là chuyện không thể rồi mà
+Dialogue: 0,0:13:03.90,0:13:05.11,Default,,0,0,0,,Vậy em định từ bỏ?
+Dialogue: 0,0:13:06.32,0:13:07.90,Default,,0,0,0,,Chẳng phải có ai kia rồi sao?
+Dialogue: 0,0:13:09.53,0:13:10.78,Default,,0,0,0,,Rei\N Vâng
+Dialogue: 0,0:13:10.95,0:13:12.11,Default,,0,0,0,,Làm thử đi
+Dialogue: 0,0:13:12.24,0:13:13.20,Default,,0,0,0,,Vâng
+Dialogue: 0,0:13:13.99,0:13:15.24,Default,,0,0,0,,
+Dialogue: 0,0:13:17.83,0:13:19.75,Default,,0,0,0,,
+Dialogue: 0,0:13:19.75,0:13:21.08,Default,,0,0,0,,
+Dialogue: 0,0:13:19.75,0:13:21.08,Default,,0,0,0,,Ơ?
+Dialogue: 0,0:13:21.08,0:13:22.96,Default,,0,0,0,,
+Dialogue: 0,0:13:22.96,0:13:24.42,Default,,0,0,0,,
+Dialogue: 0,0:13:22.96,0:13:24.42,Default,,0,0,0,,Ồ~!
+Dialogue: 0,0:13:24.42,0:13:24.54,Default,,0,0,0,,
+Dialogue: 0,0:13:24.54,0:13:24.83,Default,,0,0,0,,
+Dialogue: 0,0:13:24.54,0:13:24.83,Default,,0,0,0,,Phải chi đổi chiến thuật, cho Rei làm thì ổn rồi ha
+Dialogue: 0,0:13:24.83,0:13:27.67,Default,,0,0,0,,Phải chi đổi chiến thuật, cho Rei làm thì ổn rồi ha
+Dialogue: 0,0:13:28.13,0:13:29.34,Default,,0,0,0,,Hả?
+Dialogue: 0,0:13:31.42,0:13:32.34,Default,,0,0,0,,Hả???
+Dialogue: 0,0:13:33.30,0:13:35.47,Default,,0,0,0,,（Đáng ghét! Không thể làm nữa!
+Dialogue: 0,0:13:35.60,0:13:36.43,Default,,0,0,0,,Ơ
+Dialogue: 0,0:13:39.22,0:13:40.10,Default,,0,0,0,,Asuka!
+Dialogue: 0,0:13:40.23,0:13:42.14,Default,,0,0,0,,Sư tử cũng biết khóc à
+Dialogue: 0,0:13:42.27,0:13:45.27,Default,,0,0,0,,I-ka-ri!!
+Dialogue: 0,0:13:46.61,0:13:47.44,Default,,0,0,0,,
+Dialogue: 0,0:13:47.57,0:13:49.11,Default,,0,0,0,,Đuổi theo đi!\NGì?
+Dialogue: 0,0:13:50.03,0:13:53.03,Default,,0,0,0,,Làm cô ta khóc rồi! Chịu trách nhiệm đi!
 Dialogue: 0,0:13:53.15,0:13:53.32,Default,,0,0,0,,♪
 Dialogue: 0,0:13:53.32,0:13:55.45,Default,,0,0,0,,♪
-Dialogue: 0,0:13:53.32,0:13:55.45,Default,,0,0,0,,（チャイム）
+Dialogue: 0,0:13:53.32,0:13:55.45,Default,,0,0,0,,
 Dialogue: 0,0:13:55.45,0:13:56.78,Default,,0,0,0,,♪
 Dialogue: 0,0:13:56.78,0:14:00.16,Default,,0,0,0,,♪
-Dialogue: 0,0:13:56.78,0:14:00.16,Default,,0,0,0,,（足音）
-Dialogue: 0,0:14:01.87,0:14:03.67,Default,,0,0,0,,（シンジ）あの…\N（アスカ）何も言わないで
-Dialogue: 0,0:14:08.46,0:14:09.80,Default,,0,0,0,,（アスカ）分かってるわ
-Dialogue: 0,0:14:09.92,0:14:11.84,Default,,0,0,0,,私はエヴァに乗るしかないのよ
-Dialogue: 0,0:14:15.05,0:14:16.93,Default,,0,0,0,,やるわ 私
-Dialogue: 0,0:14:18.10,0:14:19.47,Default,,0,0,0,,（アスカ）\Nこうなったら 何としても
-Dialogue: 0,0:14:19.60,0:14:21.68,Default,,0,0,0,,レイやミサトを見返してやるのよ！
-Dialogue: 0,0:14:22.02,0:14:24.06,Default,,0,0,0,,（シンジ）\Nそんな 見返すだなんて…
-Dialogue: 0,0:14:24.19,0:14:25.98,Default,,0,0,0,,（アスカ）\Nなーに甘いこと言ってんのよ！
-Dialogue: 0,0:14:26.27,0:14:27.40,Default,,0,0,0,,男のくせに！
-Dialogue: 0,0:14:27.98,0:14:31.44,Default,,0,0,0,,傷つけられた プライドは
-Dialogue: 0,0:14:31.57,0:14:34.53,Default,,0,0,0,,10倍にして返してやるのよ！
-Dialogue: 0,0:14:34.65,0:14:36.66,Default,,0,0,0,,んぐ んぐ んぐ
-Dialogue: 0,0:14:37.32,0:14:38.16,Default,,0,0,0,,ふっ
+Dialogue: 0,0:13:56.78,0:14:00.16,Default,,0,0,0,,
+Dialogue: 0,0:14:01.87,0:14:03.67,Default,,0,0,0,,À này...\NĐừng nói gì hết
+Dialogue: 0,0:14:08.46,0:14:09.80,Default,,0,0,0,,Tôi hiểu rồi
+Dialogue: 0,0:14:09.92,0:14:11.84,Default,,0,0,0,,Tôi chỉ cần lái Eva thôi
+Dialogue: 0,0:14:15.05,0:14:16.93,Default,,0,0,0,,Để tôi làm
+Dialogue: 0,0:14:18.10,0:14:19.47,Default,,0,0,0,,Đến nước này, bằng mọi giá
+Dialogue: 0,0:14:19.60,0:14:21.68,Default,,0,0,0,,Phải cho Rei và Misato xem lại!
+Dialogue: 0,0:14:22.02,0:14:24.06,Default,,0,0,0,,Sao tới nỗi phải "cho xem lại"...
+Dialogue: 0,0:14:24.19,0:14:25.98,Default,,0,0,0,,Gì mà ăn nói mềm mỏng vậy kia!
+Dialogue: 0,0:14:26.27,0:14:27.40,Default,,0,0,0,,Đàn ông mà!
+Dialogue: 0,0:14:27.98,0:14:31.44,Default,,0,0,0,,Đã đụng nến niềm tự kiêu thì
+Dialogue: 0,0:14:31.57,0:14:34.53,Default,,0,0,0,,Quân tử trả thù 10 năm muộn!
+Dialogue: 0,0:14:34.65,0:14:36.66,Default,,0,0,0,,
+Dialogue: 0,0:14:37.32,0:14:38.16,Default,,0,0,0,,
 Dialogue: 0,0:14:41.83,0:14:48.84,Default,,0,0,0,,♪
-Dialogue: 0,0:15:14.40,0:15:15.24,Default,,0,0,0,,ミサトは？
-Dialogue: 0,0:15:15.36,0:15:15.57,Default,,0,0,0,,（イヤホンから\N漏れる音楽）
-Dialogue: 0,0:15:15.57,0:15:16.74,Default,,0,0,0,,（イヤホンから\N漏れる音楽）
-Dialogue: 0,0:15:15.57,0:15:16.74,Default,,0,0,0,,仕事
-Dialogue: 0,0:15:16.74,0:15:16.86,Default,,0,0,0,,（イヤホンから\N漏れる音楽）
-Dialogue: 0,0:15:16.86,0:15:18.95,Default,,0,0,0,,（イヤホンから\N漏れる音楽）
-Dialogue: 0,0:15:16.86,0:15:18.95,Default,,0,0,0,,今夜は徹夜だって さっき電話が
-Dialogue: 0,0:15:19.91,0:15:22.33,Default,,0,0,0,,じゃあ 今夜は\N２人っきりってわけね
-Dialogue: 0,0:15:22.70,0:15:23.91,Default,,0,0,0,,（シンジ）えっ
-Dialogue: 0,0:15:26.41,0:15:27.25,Default,,0,0,0,,あ…
-Dialogue: 0,0:15:35.47,0:15:38.26,Default,,0,0,0,,これは 決して崩れることのない\Nジェリコの壁
-Dialogue: 0,0:15:38.84,0:15:39.68,Default,,0,0,0,,はぁ
-Dialogue: 0,0:15:40.22,0:15:42.31,Default,,0,0,0,,（アスカ）\Nこの壁を\Nちょっとでも越えたら死刑よ！
-Dialogue: 0,0:15:42.97,0:15:45.77,Default,,0,0,0,,子どもは夜更かししないで\N寝なさい！
-Dialogue: 0,0:15:47.23,0:15:50.11,Default,,0,0,0,,（アスカ）\Nどうして日本人は\N床の上で寝られるのかしら
-Dialogue: 0,0:15:50.23,0:15:51.69,Default,,0,0,0,,信じらんない
-Dialogue: 0,0:15:55.78,0:16:00.99,Default,,0,0,0,,（イヤホンから漏れる音楽）
-Dialogue: 0,0:16:01.24,0:16:07.29,Default,,0,0,0,,（止める音）\N（遠ざかる足音）
-Dialogue: 0,0:16:07.41,0:16:09.08,Default,,0,0,0,,（ドアの開閉音）
-Dialogue: 0,0:16:09.58,0:16:10.42,Default,,0,0,0,,はぁ…
-Dialogue: 0,0:16:10.54,0:16:12.04,Default,,0,0,0,,（物音）
-Dialogue: 0,0:16:12.17,0:16:13.09,Default,,0,0,0,,ん…
-Dialogue: 0,0:16:13.21,0:16:15.17,Default,,0,0,0,,（トイレの水洗音）
-Dialogue: 0,0:16:15.30,0:16:16.71,Default,,0,0,0,,（ドアが開く音）
-Dialogue: 0,0:16:19.18,0:16:21.30,Default,,0,0,0,,（近づく足音）
-Dialogue: 0,0:16:21.43,0:16:23.01,Default,,0,0,0,,（ドサッという音）
-Dialogue: 0,0:16:24.43,0:16:25.27,Default,,0,0,0,,うっ！
-Dialogue: 0,0:16:25.47,0:16:30.02,Default,,0,0,0,,（テープを巻き戻す音）
-Dialogue: 0,0:16:32.06,0:16:32.94,Default,,0,0,0,,あ…
-Dialogue: 0,0:16:39.15,0:16:40.07,Default,,0,0,0,,（アスカ）んっ…
-Dialogue: 0,0:16:58.80,0:16:59.76,Default,,0,0,0,,（アスカ）ママ…
-Dialogue: 0,0:17:01.34,0:17:02.18,Default,,0,0,0,,ママ…
-Dialogue: 0,0:17:10.31,0:17:11.77,Default,,0,0,0,,（アスカ）んんっ
-Dialogue: 0,0:17:13.31,0:17:15.52,Default,,0,0,0,,自分だって子どものくせに…
-Dialogue: 0,0:17:16.94,0:17:18.40,Default,,0,0,0,,（ミサト）やっだ 見てる！
-Dialogue: 0,0:17:18.53,0:17:21.15,Default,,0,0,0,,（加持）誰が？\N（ミサト）誰って… んんっ
-Dialogue: 0,0:17:21.32,0:17:22.61,Default,,0,0,0,,（ミサト）んっ
-Dialogue: 0,0:17:24.24,0:17:26.49,Default,,0,0,0,,ん… んんっ
-Dialogue: 0,0:17:24.24,0:17:26.49,Default,,0,0,0,,（書類が落ちる音）
-Dialogue: 0,0:17:28.20,0:17:29.29,Default,,0,0,0,,ん…
-Dialogue: 0,0:17:37.67,0:17:38.67,Default,,0,0,0,,（エレベーターの到着音）
-Dialogue: 0,0:17:40.34,0:17:41.42,Default,,0,0,0,,（ミサト）んっ
-Dialogue: 0,0:17:42.55,0:17:45.14,Default,,0,0,0,,もう 加持君とは\N何でもないんだから
-Dialogue: 0,0:17:45.26,0:17:46.80,Default,,0,0,0,,こういうの やめてくれる？
-Dialogue: 0,0:17:46.93,0:17:50.14,Default,,0,0,0,,（加持）\Nでも 君の唇は\Nやめてくれとは言わなかったよ
-Dialogue: 0,0:17:51.64,0:17:54.02,Default,,0,0,0,,君の唇と君の言葉
-Dialogue: 0,0:17:54.27,0:17:56.52,Default,,0,0,0,,どっちを信用したらいいのかな？
-Dialogue: 0,0:18:08.37,0:18:09.74,Default,,0,0,0,,ふぅ…
-Dialogue: 0,0:18:10.87,0:18:11.83,Default,,0,0,0,,（ミサト）うっ
+Dialogue: 0,0:15:14.40,0:15:15.24,Default,,0,0,0,,Misato đâu?
+Dialogue: 0,0:15:15.36,0:15:15.57,Default,,0,0,0,,
+Dialogue: 0,0:15:15.57,0:15:16.74,Default,,0,0,0,,
+Dialogue: 0,0:15:15.57,0:15:16.74,Default,,0,0,0,,Đi công chuyện
+Dialogue: 0,0:15:16.74,0:15:16.86,Default,,0,0,0,,
+Dialogue: 0,0:15:16.86,0:15:18.95,Default,,0,0,0,,
+Dialogue: 0,0:15:16.86,0:15:18.95,Default,,0,0,0,,Nãy gọi điện nói sẽ xuyên đêm bữa nay
+Dialogue: 0,0:15:19.91,0:15:22.33,Default,,0,0,0,,Vậy đêm nay chỉ có 2 người thôi đó
+Dialogue: 0,0:15:22.70,0:15:23.91,Default,,0,0,0,,Ờ
+Dialogue: 0,0:15:26.41,0:15:27.25,Default,,0,0,0,,
+Dialogue: 0,0:15:35.47,0:15:38.26,Default,,0,0,0,,Đây là bức tường Jericho tuyệt đối không thể phá vỡ
+Dialogue: 0,0:15:38.84,0:15:39.68,Default,,0,0,0,,Ừm
+Dialogue: 0,0:15:40.22,0:15:42.31,Default,,0,0,0,,Lấn qua dù một tí thôi là chết với tôi!
+Dialogue: 0,0:15:42.97,0:15:45.77,Default,,0,0,0,,Con nít thì đừng có thức khuya, ngủ đi!
+Dialogue: 0,0:15:47.23,0:15:50.11,Default,,0,0,0,,Sao người Nhật có thể ngủ trên sàn nhà vậy
+Dialogue: 0,0:15:50.23,0:15:51.69,Default,,0,0,0,,Không thể tin được!
+Dialogue: 0,0:15:55.78,0:16:00.99,Default,,0,0,0,,
+Dialogue: 0,0:16:01.24,0:16:07.29,Default,,0,0,0,,
+Dialogue: 0,0:16:07.41,0:16:09.08,Default,,0,0,0,,
+Dialogue: 0,0:16:09.58,0:16:10.42,Default,,0,0,0,,
+Dialogue: 0,0:16:10.54,0:16:12.04,Default,,0,0,0,,
+Dialogue: 0,0:16:12.17,0:16:13.09,Default,,0,0,0,,
+Dialogue: 0,0:16:13.21,0:16:15.17,Default,,0,0,0,,
+Dialogue: 0,0:16:15.30,0:16:16.71,Default,,0,0,0,,
+Dialogue: 0,0:16:19.18,0:16:21.30,Default,,0,0,0,,
+Dialogue: 0,0:16:21.43,0:16:23.01,Default,,0,0,0,,
+Dialogue: 0,0:16:24.43,0:16:25.27,Default,,0,0,0,,
+Dialogue: 0,0:16:25.47,0:16:30.02,Default,,0,0,0,,
+Dialogue: 0,0:16:32.06,0:16:32.94,Default,,0,0,0,,
+Dialogue: 0,0:16:39.15,0:16:40.07,Default,,0,0,0,,
+Dialogue: 0,0:16:58.80,0:16:59.76,Default,,0,0,0,,Mẹ ơi...
+Dialogue: 0,0:17:01.34,0:17:02.18,Default,,0,0,0,,Mẹ ơi...
+Dialogue: 0,0:17:10.31,0:17:11.77,Default,,0,0,0,,
+Dialogue: 0,0:17:13.31,0:17:15.52,Default,,0,0,0,,Bản thân cậu cũng là con nít thôi...
+Dialogue: 0,0:17:16.94,0:17:18.40,Default,,0,0,0,,Đừng mà, người ta thấy!
+Dialogue: 0,0:17:18.53,0:17:21.15,Default,,0,0,0,,Ai mới được?
+Dialogue: 0,0:17:21.32,0:17:22.61,Default,,0,0,0,,
+Dialogue: 0,0:17:24.24,0:17:26.49,Default,,0,0,0,,
+Dialogue: 0,0:17:24.24,0:17:26.49,Default,,0,0,0,,
+Dialogue: 0,0:17:28.20,0:17:29.29,Default,,0,0,0,,
+Dialogue: 0,0:17:37.67,0:17:38.67,Default,,0,0,0,,
+Dialogue: 0,0:17:40.34,0:17:41.42,Default,,0,0,0,,
+Dialogue: 0,0:17:42.55,0:17:45.14,Default,,0,0,0,,Vì tôi và cậu Kaji không còn là gì nữa
+Dialogue: 0,0:17:45.26,0:17:46.80,Default,,0,0,0,,Nên dừng mấy cái này đi được không?
+Dialogue: 0,0:17:46.93,0:17:50.14,Default,,0,0,0,,Nhưng đôi môi em đâu nói là hãy dừng
+Dialogue: 0,0:17:51.64,0:17:54.02,Default,,0,0,0,,Đôi môi so với lời nói của em
+Dialogue: 0,0:17:54.27,0:17:56.52,Default,,0,0,0,,Cái nào đáng tin hơn đây?
+Dialogue: 0,0:18:08.37,0:18:09.74,Default,,0,0,0,,Hừ...
+Dialogue: 0,0:18:10.87,0:18:11.83,Default,,0,0,0,,
 Dialogue: 0,0:18:11.96,0:18:15.25,Default,,0,0,0,,♪
 Dialogue: 0,0:18:15.25,0:18:17.54,Default,,0,0,0,,♪
-Dialogue: 0,0:18:15.25,0:18:17.54,Default,,0,0,0,,（足音）
+Dialogue: 0,0:18:15.25,0:18:17.54,Default,,0,0,0,,
 Dialogue: 0,0:18:17.54,0:18:17.67,Default,,0,0,0,,♪
 Dialogue: 0,0:18:17.67,0:18:18.96,Default,,0,0,0,,♪
-Dialogue: 0,0:18:17.67,0:18:18.96,Default,,0,0,0,,（リツコ）はい
-Dialogue: 0,0:18:19.17,0:18:20.00,Default,,0,0,0,,ありがと
-Dialogue: 0,0:18:20.88,0:18:22.42,Default,,0,0,0,,今日は 珍しくシラフじゃない？
-Dialogue: 0,0:18:22.72,0:18:24.80,Default,,0,0,0,,うーん　ちょっちね
-Dialogue: 0,0:18:24.93,0:18:27.64,Default,,0,0,0,,（リツコ）仕事？　それとも男？
-Dialogue: 0,0:18:27.76,0:18:29.18,Default,,0,0,0,,（ミサト）う… いろいろ
-Dialogue: 0,0:18:29.31,0:18:32.27,Default,,0,0,0,,（リツコ）\Nふーん まだ好きなのかしら？
-Dialogue: 0,0:18:32.39,0:18:33.39,Default,,0,0,0,,（ミサト）ぶっ！
-Dialogue: 0,0:18:33.52,0:18:35.14,Default,,0,0,0,,へ… 変なこと言わないでよ！
-Dialogue: 0,0:18:35.85,0:18:37.61,Default,,0,0,0,,誰が あんなヤツと！
+Dialogue: 0,0:18:17.67,0:18:18.96,Default,,0,0,0,,Đây
+Dialogue: 0,0:18:19.17,0:18:20.00,Default,,0,0,0,,Cảm ơn
+Dialogue: 0,0:18:20.88,0:18:22.42,Default,,0,0,0,,Hiếm thấy cô tỉnh táo như hôm nay ha?
+Dialogue: 0,0:18:22.72,0:18:24.80,Default,,0,0,0,,Ừ cũng cũng đó
+Dialogue: 0,0:18:24.93,0:18:27.64,Default,,0,0,0,,Vì công việc? Hay vì anh ta?
+Dialogue: 0,0:18:27.76,0:18:29.18,Default,,0,0,0,,Ừm... đủ thứ chuyện
+Dialogue: 0,0:18:29.31,0:18:32.27,Default,,0,0,0,,Hửm~ Còn yêu hả?
+Dialogue: 0,0:18:32.39,0:18:33.39,Default,,0,0,0,,
+Dialogue: 0,0:18:33.52,0:18:35.14,Default,,0,0,0,,Đừng nói chuyện kì vậy chứ!
+Dialogue: 0,0:18:35.85,0:18:37.61,Default,,0,0,0,,Ai chứ hắn ta thì... !
 Dialogue: 0,0:18:38.31,0:18:39.27,Default,,0,0,0,,ああっ
 Dialogue: 0,0:18:39.40,0:18:41.32,Default,,0,0,0,,いくら若気の至りとはいえ
 Dialogue: 0,0:18:41.44,0:18:43.61,Default,,0,0,0,,あんなのと つきあっていたなんて
