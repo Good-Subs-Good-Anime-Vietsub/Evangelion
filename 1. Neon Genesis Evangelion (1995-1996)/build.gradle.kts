@@ -128,7 +128,7 @@ subs {
                 }
 
                 video {
-                    lang("jpn")
+                    lang("und")
                     name(get("vtrack"))
                     default(true)
                 }
