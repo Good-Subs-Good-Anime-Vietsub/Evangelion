@@ -24,7 +24,7 @@ Video Position: 2057
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Open Sans Condensed,68,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,11,11,23,1
-Style: Dialouge,Segoe UI,64,&H00FFFFFF,&H000000FF,&H00390300,&HB8FF6E58,-1,0,0,0,100,108,0,0,1,4,1,2,23,23,42,204
+Style: Dialouge,Segoe UI,64,&H00FFFFFF,&H000000FF,&H00390300,&HB8FF6E58,-1,0,0,0,100,100,0,0,1,4,1,2,23,23,42,204
 Style: Title,Chonburi,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0,0,0,1
 
 [Events]
